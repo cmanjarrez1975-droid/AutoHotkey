@@ -1,6 +1,6 @@
 "use client";
 
-import { useMemo, useState } from "react";
+import { useEffect, useMemo, useState } from "react";
 import {
   classCatalog,
   featuredLessons,
@@ -55,6 +55,34 @@ const navItems: Array<{
   { id: "fuentes", label: "Material y fuentes", glyph: "◫" },
 ];
 
+type LessonProgressRecord = {
+  lessonId: string;
+  module: number;
+  completed: boolean;
+  studySeconds: number;
+};
+
+const lessonCountsByModule = Object.fromEntries(
+  modules.map((module) => {
+    const modulePlan = moduleCurriculum.find((item) => item.module === module.id);
+    const classCount = classCatalog.filter((item) => item.module === module.id).length;
+    const mediaCount = (moduleMedia[module.id] ?? []).length;
+    return [module.id, 4 + (modulePlan?.sections.length ?? 0) + classCount + mediaCount];
+  }),
+) as Record<number, number>;
+
+const totalAcademyLessons = Object.values(lessonCountsByModule).reduce(
+  (total, count) => total + count,
+  0,
+);
+
+function completionPercent(lessons: LessonProgressRecord[]) {
+  const completed = new Set(
+    lessons.filter((lesson) => lesson.completed).map((lesson) => lesson.lessonId),
+  ).size;
+  return Math.round((completed / Math.max(1, totalAcademyLessons)) * 100);
+}
+
 function BrandMark() {
   return (
     <div className="brand-mark" aria-hidden="true">
@@ -96,13 +124,21 @@ function ProgressRing({
 function Shell({
   section,
   setSection,
+  lessons,
+  currentModule,
   children,
 }: {
   section: Section;
   setSection: (section: Section) => void;
+  lessons: LessonProgressRecord[];
+  currentModule: number;
   children: React.ReactNode;
 }) {
   const [menuOpen, setMenuOpen] = useState(false);
+  const completedLessons = new Set(
+    lessons.filter((lesson) => lesson.completed).map((lesson) => lesson.lessonId),
+  ).size;
+  const progress = completionPercent(lessons);
   return (
     <div className="app-shell">
       <aside className={`sidebar ${menuOpen ? "is-open" : ""}`}>
@@ -151,12 +187,12 @@ function Shell({
         <div className="sidebar-progress">
           <div className="tiny-label">
             <span>Progreso general</span>
-            <strong>31%</strong>
+            <strong>{progress}%</strong>
           </div>
           <div className="progress-track">
-            <i style={{ width: "31%" }} />
+            <i style={{ width: `${progress}%` }} />
           </div>
-          <small>23 de 100 lecciones completadas</small>
+          <small>{completedLessons} de {totalAcademyLessons} lecciones completadas</small>
         </div>
 
         <div className="profile-card">
@@ -182,6 +218,7 @@ function Shell({
             <span className="live-dot" />
             <span>Entorno de estudio</span>
             <strong>Nuevas Estrategias de Trading</strong>
+            <span className="mobile-context">M{currentModule} · {navItems.find((item) => item.id === section)?.label}</span>
           </div>
           <div className="top-actions">
             <button className="icon-button" aria-label="Buscar">
@@ -205,13 +242,29 @@ function Shell({
   );
 }
 
-function Dashboard({ setSection }: { setSection: (s: Section) => void }) {
+function Dashboard({
+  setSection,
+  lessons,
+}: {
+  setSection: (s: Section) => void;
+  lessons: LessonProgressRecord[];
+}) {
   const currentModule = modules[0];
+  const completedLessons = new Set(
+    lessons.filter((lesson) => lesson.completed).map((lesson) => lesson.lessonId),
+  ).size;
+  const progress = completionPercent(lessons);
+  const todayLabel = new Intl.DateTimeFormat("es-CR", {
+    weekday: "long",
+    day: "numeric",
+    month: "long",
+    timeZone: "America/Costa_Rica",
+  }).format(new Date());
   return (
     <div className="page dashboard-page">
       <section className="welcome-row">
         <div>
-          <span className="eyebrow">Sábado, 25 de julio · UTC−6</span>
+          <span className="eyebrow">{todayLabel} · UTC−6</span>
           <h1>Buenas tardes, Cris.</h1>
           <p>
             Hoy no solo vas a estudiar estructura: vas a marcarla, medirla y
@@ -230,7 +283,7 @@ function Dashboard({ setSection }: { setSection: (s: Section) => void }) {
 
       <section className="continue-card">
         <div className="continue-copy">
-          <span className="module-kicker">MÓDULO 1 · LECCIÓN 3 DE 12</span>
+          <span className="module-kicker">MÓDULO 1 · RUTA DE {lessonCountsByModule[1]} LECCIONES</span>
           <h2>Principales movimientos en tendencias alcistas</h2>
           <p>
             Aprende a separar impulso, retroceso y estructura válida antes de
@@ -265,11 +318,11 @@ function Dashboard({ setSection }: { setSection: (s: Section) => void }) {
             <small>Progreso del curso</small>
           </div>
           <div className="metric-content">
-            <ProgressRing value={31} />
+            <ProgressRing value={progress} />
             <div>
-              <strong>23 / 100</strong>
+              <strong>{completedLessons} / {totalAcademyLessons}</strong>
               <span>lecciones</span>
-              <small>+4 esta semana</small>
+              <small>{completedLessons ? "Avance guardado" : "Comienza tu primera lección"}</small>
             </div>
           </div>
         </article>
@@ -407,11 +460,23 @@ function Dashboard({ setSection }: { setSection: (s: Section) => void }) {
 function CoursePage({
   setSection,
   setLabModule,
+  initialModule,
+  initialLessonId,
+  lessonsProgress,
+  onModuleChange,
+  onLessonChange,
+  onLessonCompleted,
 }: {
   setSection: (s: Section) => void;
   setLabModule: (module: number) => void;
+  initialModule: number;
+  initialLessonId?: string;
+  lessonsProgress: LessonProgressRecord[];
+  onModuleChange: (module: number) => void;
+  onLessonChange: (lessonId: string) => void;
+  onLessonCompleted: (lessonId: string, module: number) => void;
 }) {
-  const [activeModule, setActiveModule] = useState(1);
+  const [activeModule, setActiveModule] = useState(initialModule);
   const [moduleMenuOpen, setModuleMenuOpen] = useState(false);
   const [moduleOpenedAt, setModuleOpenedAt] = useState(0);
   const [lessonMessage, setLessonMessage] = useState("");
@@ -433,29 +498,19 @@ function CoursePage({
     () => classCatalog.filter((item) => item.module === activeModule),
     [activeModule],
   );
-  const lessonCounts = useMemo(
-    () =>
-      Object.fromEntries(
-        modules.map((module) => {
-          const modulePlan = moduleCurriculum.find(
-            (item) => item.module === module.id,
-          );
-          const classCount = classCatalog.filter(
-            (item) => item.module === module.id,
-          ).length;
-          const mediaCount = (moduleMedia[module.id] ?? []).length;
-          return [
-            module.id,
-            4 + (modulePlan?.sections.length ?? 0) + classCount + mediaCount,
-          ];
-        }),
-      ) as Record<number, number>,
-    [],
+  const lessonCounts = lessonCountsByModule;
+  const totalLessons = totalAcademyLessons;
+  const completedLessonIds = useMemo(
+    () => new Set(lessonsProgress.filter((item) => item.completed).map((item) => item.lessonId)),
+    [lessonsProgress],
   );
-  const totalLessons = Object.values(lessonCounts).reduce(
-    (total, count) => total + count,
-    0,
+  const moduleCompleted = lessonsProgress.filter(
+    (item) => item.module === activeModule && item.completed,
+  ).length;
+  const moduleProgress = Math.round(
+    (moduleCompleted / Math.max(1, lessonCounts[activeModule])) * 100,
   );
+  const courseProgress = completionPercent(lessonsProgress);
   const recordStudy = (
     module: number,
     completed: boolean,
@@ -498,6 +553,7 @@ function CoursePage({
     setLessonMessage("");
     setActiveVisual(null);
     setModuleMenuOpen(false);
+    onModuleChange(module);
   };
 
   return (
@@ -512,10 +568,10 @@ function CoursePage({
           </p>
         </div>
         <div className="course-score">
-          <ProgressRing value={31} size={76} />
+          <ProgressRing value={courseProgress} size={76} />
           <div>
-            <strong>31% completado</strong>
-          <span>{totalLessons} lecciones desarrolladas</span>
+            <strong>{courseProgress}% completado</strong>
+            <span>{totalLessons} lecciones desarrolladas</span>
           </div>
         </div>
       </section>
@@ -582,7 +638,12 @@ function CoursePage({
                         </span>
                         <span>
                           <strong>{module.title}</strong>
-                          <small>{lessonCounts[module.id]} lecciones · {module.progress}%</small>
+                          <small>
+                            {lessonCounts[module.id]} lecciones · {Math.round(
+                              (lessonsProgress.filter((item) => item.module === module.id && item.completed).length /
+                                Math.max(1, lessonCounts[module.id])) * 100,
+                            )}%
+                          </small>
                         </span>
                       </button>
                     ))}
@@ -600,7 +661,7 @@ function CoursePage({
               <h2>{selected.title}</h2>
               <p>{selected.subtitle}</p>
               <div className="progress-track">
-                <i style={{ width: `${selected.progress}%` }} />
+                <i style={{ width: `${moduleProgress}%` }} />
               </div>
             </div>
             {visuals[0] && (
@@ -618,13 +679,17 @@ function CoursePage({
             visuals={visuals}
             media={media}
             classes={mappedClasses}
+            initialLessonId={initialLessonId}
+            completedLessonIds={completedLessonIds}
+            onLessonChange={onLessonChange}
             onOpenLab={() => {
               setLabModule(activeModule);
               setSection("laboratorio");
             }}
-            onComplete={(lessonId) =>
-              recordStudy(activeModule, true, performance.now(), lessonId)
-            }
+            onComplete={(lessonId) => {
+              onLessonCompleted(lessonId, activeModule);
+              recordStudy(activeModule, true, performance.now(), lessonId);
+            }}
           />
 
           <article className="learning-article expanded-module" hidden>
@@ -1186,12 +1251,95 @@ export default function AcademyApp() {
   const [section, setSection] = useState<Section>("inicio");
   const [labSnapshot, setLabSnapshot] = useState<LabSnapshot | null>(null);
   const [labModule, setLabModule] = useState(1);
+  const [lastModule, setLastModule] = useState(1);
+  const [lastLessonId, setLastLessonId] = useState<string | undefined>();
+  const [lessonsProgress, setLessonsProgress] = useState<LessonProgressRecord[]>([]);
+  const [stateReady, setStateReady] = useState(false);
+
+  useEffect(() => {
+    fetch("/api/state")
+      .then((response) => (response.ok ? response.json() : null))
+      .then((payload) => {
+        if (!payload) return;
+        const savedSection = payload.state?.lastSection as Section | undefined;
+        if (savedSection && navItems.some((item) => item.id === savedSection)) {
+          setSection(savedSection);
+        }
+        const savedModule = Number(payload.state?.lastModule);
+        if (savedModule >= 1 && savedModule <= modules.length) {
+          setLastModule(savedModule);
+          setLabModule(savedModule);
+        }
+        if (typeof payload.state?.lastLessonId === "string") {
+          setLastLessonId(payload.state.lastLessonId);
+        }
+        if (Array.isArray(payload.lessons)) {
+          setLessonsProgress(payload.lessons as LessonProgressRecord[]);
+        }
+      })
+      .catch(() => undefined)
+      .finally(() => setStateReady(true));
+  }, []);
+
+  const saveNavigation = (state: Record<string, unknown>) => {
+    if (!stateReady) return;
+    fetch("/api/state", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ state }),
+    }).catch(() => undefined);
+  };
+
+  const changeSection = (nextSection: Section) => {
+    setSection(nextSection);
+    saveNavigation({ lastSection: nextSection });
+  };
+
+  const updateLastModule = (module: number) => {
+    setLastModule(module);
+    setLabModule(module);
+    setLastLessonId(undefined);
+    saveNavigation({ lastModule: module, lastLessonId: null });
+  };
+
+  const updateLastLesson = (lessonId: string) => {
+    setLastLessonId(lessonId);
+    saveNavigation({ lastModule, lastLessonId: lessonId, lastSection: "curso" });
+  };
+
+  const completeLesson = (lessonId: string, module: number) => {
+    setLessonsProgress((current) => {
+      const existing = current.find((item) => item.lessonId === lessonId);
+      if (existing) {
+        return current.map((item) =>
+          item.lessonId === lessonId ? { ...item, completed: true } : item,
+        );
+      }
+      return [...current, { lessonId, module, completed: true, studySeconds: 0 }];
+    });
+  };
 
   return (
-    <Shell section={section} setSection={setSection}>
-      {section === "inicio" && <Dashboard setSection={setSection} />}
+    <Shell
+      section={section}
+      setSection={changeSection}
+      lessons={lessonsProgress}
+      currentModule={lastModule}
+    >
+      {section === "inicio" && (
+        <Dashboard setSection={changeSection} lessons={lessonsProgress} />
+      )}
       {section === "curso" && (
-        <CoursePage setSection={setSection} setLabModule={setLabModule} />
+        <CoursePage
+          setSection={changeSection}
+          setLabModule={setLabModule}
+          initialModule={lastModule}
+          initialLessonId={lastLessonId}
+          lessonsProgress={lessonsProgress}
+          onModuleChange={updateLastModule}
+          onLessonChange={updateLastLesson}
+          onLessonCompleted={completeLesson}
+        />
       )}
       {section === "fuentes" && <SourcesPage />}
       {section === "laboratorio" && (

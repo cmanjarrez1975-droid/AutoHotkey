@@ -2163,7 +2163,7 @@ button {
 
 .lab-module-selector {
   display: grid;
-  grid-template-columns: repeat(9, minmax(90px, 1fr));
+  grid-template-columns: repeat(10, minmax(112px, 1fr));
   gap: 8px;
   margin-bottom: 17px;
   overflow-x: auto;
@@ -4616,6 +4616,10 @@ button {
   display: none;
 }
 
+.syllabus-close-mobile {
+  display: none;
+}
+
 .lesson-experience.syllabus-closed {
   grid-template-columns: minmax(0, 1fr);
 }
@@ -5068,6 +5072,26 @@ button {
     transition: transform 180ms ease, visibility 180ms ease;
   }
 
+  .syllabus-close-mobile {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    z-index: 3;
+    width: 34px;
+    height: 34px;
+    display: grid;
+    place-items: center;
+    border: 1px solid var(--line);
+    border-radius: 9px;
+    color: var(--muted);
+    background: rgba(4, 13, 23, 0.92);
+    font-size: 20px;
+  }
+
+  .syllabus-summary {
+    padding-right: 58px;
+  }
+
   .lesson-experience.syllabus-open .lesson-syllabus {
     transform: translateX(0);
     visibility: visible;
@@ -5082,6 +5106,17 @@ button {
     position: sticky;
     top: 70px;
     z-index: 20;
+  }
+
+  .lesson-hero {
+    min-height: 0;
+    grid-template-columns: 1fr;
+  }
+
+  .lesson-hero img {
+    height: 190px;
+    max-height: 190px;
+    mask-image: linear-gradient(0deg, black 45%, transparent);
   }
 
   .visual-reading-lab,
@@ -5102,6 +5137,58 @@ button {
 }
 
 @media (max-width: 620px) {
+  .course-page > .page-heading {
+    margin-bottom: 16px;
+    gap: 12px;
+  }
+
+  .course-page > .page-heading p {
+    display: none;
+  }
+
+  .course-page > .page-heading h1 {
+    margin-bottom: 0;
+    font-size: 25px;
+  }
+
+  .course-score {
+    min-width: 0;
+    width: auto;
+    justify-content: flex-start;
+  }
+
+  .course-score .progress-ring {
+    width: 54px !important;
+    height: 54px !important;
+  }
+
+  .mobile-context {
+    display: inline !important;
+    color: var(--muted);
+    font-size: 10px;
+  }
+
+  .lab-module-selector,
+  .quiz-module-filter,
+  .journal-module-selector {
+    scroll-snap-type: x mandatory;
+  }
+
+  .lab-module-selector > button,
+  .quiz-module-filter > button,
+  .journal-module-selector > button {
+    scroll-snap-align: start;
+  }
+
+  .lab-module-selector {
+    display: flex;
+    padding-bottom: 9px;
+  }
+
+  .lab-module-selector button {
+    flex: 0 0 150px;
+  }
+
   .module-switcher-trigger {
     width: 100%;
   }

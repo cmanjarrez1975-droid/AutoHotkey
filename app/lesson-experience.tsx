@@ -19,6 +19,9 @@ export default function LessonExperience({
   visuals,
   media,
   classes,
+  initialLessonId,
+  completedLessonIds,
+  onLessonChange,
   onOpenLab,
   onComplete,
 }: {
@@ -27,6 +30,9 @@ export default function LessonExperience({
   visuals: CourseVisual[];
   media: CourseMedia[];
   classes: CourseClass[];
+  initialLessonId?: string;
+  completedLessonIds: Set<string>;
+  onLessonChange: (lessonId: string) => void;
   onOpenLab: () => void;
   onComplete: (lessonId: string) => void;
 }) {
@@ -34,11 +40,19 @@ export default function LessonExperience({
     () => buildAcademyLessons({ module, curriculum, visuals, media, classes }),
     [module, curriculum, visuals, media, classes],
   );
-  const [activeId, setActiveId] = useState(lessons[0]?.id ?? "");
+  const [activeId, setActiveId] = useState(
+    lessons.some((lesson) => lesson.id === initialLessonId)
+      ? initialLessonId ?? ""
+      : lessons[0]?.id ?? "",
+  );
   const [syllabusOpen, setSyllabusOpen] = useState(true);
 
   useEffect(() => {
     const frame = window.requestAnimationFrame(() => {
+      if (window.matchMedia("(max-width: 900px)").matches) {
+        setSyllabusOpen(false);
+        return;
+      }
       const saved = window.localStorage.getItem("academy-syllabus-open");
       if (saved !== null) setSyllabusOpen(saved === "true");
     });
@@ -48,16 +62,18 @@ export default function LessonExperience({
   const toggleSyllabus = () => {
     setSyllabusOpen((open) => {
       const next = !open;
-      window.localStorage.setItem("academy-syllabus-open", String(next));
+      if (!window.matchMedia("(max-width: 900px)").matches) {
+        window.localStorage.setItem("academy-syllabus-open", String(next));
+      }
       return next;
     });
   };
 
   const selectLesson = (lessonId: string) => {
     setActiveId(lessonId);
+    onLessonChange(lessonId);
     if (window.matchMedia("(max-width: 900px)").matches) {
       setSyllabusOpen(false);
-      window.localStorage.setItem("academy-syllabus-open", "false");
     }
   };
   const activeIndex = Math.max(
@@ -101,6 +117,13 @@ export default function LessonExperience({
         onClick={toggleSyllabus}
       />
       <aside className="lesson-syllabus" id="module-syllabus">
+        <button
+          className="syllabus-close-mobile"
+          aria-label="Cerrar programa del módulo"
+          onClick={toggleSyllabus}
+        >
+          ×
+        </button>
         <div className="syllabus-summary">
           <span>PROGRAMA REAL DEL MÓDULO</span>
           <strong>{lessons.length} lecciones desarrolladas</strong>
@@ -119,10 +142,10 @@ export default function LessonExperience({
                 return (
                   <button
                     key={item.id}
-                    className={item.id === lesson.id ? "active" : ""}
+                    className={`${item.id === lesson.id ? "active" : ""} ${completedLessonIds.has(item.id) ? "completed" : ""}`}
                     onClick={() => selectLesson(item.id)}
                   >
-                    <i>{String(index + 1).padStart(2, "0")}</i>
+                    <i>{completedLessonIds.has(item.id) ? "✓" : String(index + 1).padStart(2, "0")}</i>
                     <span>
                       <strong>{item.title}</strong>
                       <small>{item.duration}</small>
@@ -278,7 +301,7 @@ export default function LessonExperience({
             <button
               className="secondary"
               disabled={activeIndex === 0}
-              onClick={() => setActiveId(lessons[activeIndex - 1].id)}
+              onClick={() => selectLesson(lessons[activeIndex - 1].id)}
             >
               ← Anterior
             </button>
@@ -286,12 +309,12 @@ export default function LessonExperience({
               className="secondary"
               onClick={() => onComplete(lesson.id)}
             >
-              Marcar estudiada
+              {completedLessonIds.has(lesson.id) ? "✓ Estudiada" : "Marcar estudiada"}
             </button>
             <button
               className="primary"
               disabled={activeIndex === lessons.length - 1}
-              onClick={() => setActiveId(lessons[activeIndex + 1].id)}
+              onClick={() => selectLesson(lessons[activeIndex + 1].id)}
             >
               Siguiente →
             </button>

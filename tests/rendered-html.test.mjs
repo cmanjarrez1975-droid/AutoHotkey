@@ -36,5 +36,8 @@ test("renders development preview metadata", async () => {
   assert.match(html, /Análisis con IA/);
   assert.match(html, /Pendiente/);
   assert.match(html, /Analítica/);
-  assert.match(html, /23 de 100 lecciones completadas/);
+  assert.match(
+    html,
+    /0(?:<!-- -->)? de (?:<!-- -->)?127(?:<!-- -->)? lecciones completadas/,
+  );
 });

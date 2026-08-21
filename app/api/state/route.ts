@@ -114,17 +114,26 @@ export async function POST(request: Request) {
     const db = getDb();
 
     if (body.state) {
+      const existingStates = await db
+        .select()
+        .from(learnerStates)
+        .where(eq(learnerStates.userKey, key))
+        .limit(1);
+      const previousState = existingStates[0]?.state
+        ? (JSON.parse(existingStates[0].state) as Record<string, unknown>)
+        : {};
+      const mergedState = { ...previousState, ...body.state };
       await db
         .insert(learnerStates)
         .values({
           userKey: key,
-          state: JSON.stringify(body.state),
+          state: JSON.stringify(mergedState),
           updatedAt: new Date().toISOString(),
         })
         .onConflictDoUpdate({
           target: learnerStates.userKey,
           set: {
-            state: JSON.stringify(body.state),
+            state: JSON.stringify(mergedState),
             updatedAt: new Date().toISOString(),
           },
         });
