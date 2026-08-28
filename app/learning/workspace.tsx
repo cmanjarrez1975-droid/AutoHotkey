@@ -7,6 +7,8 @@ import { ReplayLab } from './replay-lab';
 import { SourceLibrary } from './source-library';
 import { PracticeJournal } from './practice-journal';
 import { learningRequest } from './request';
+import { LessonLectureContent, LectureReferences } from './lesson-lecture';
+import { lessonReadingMinutes } from './lecture-types';
 import './workspace.css';
 
 export type StudyRecord = { lesson_id: string; course_id: string; draft: string; revision: number; studied: number; practiced: number; check_passed: number; study_seconds: number };
@@ -120,15 +122,17 @@ function LessonReader({ lesson, lessons, record, records, onRecord, onDirty, nav
   }
   async function check(){setSaving(true);try{const result=await learningRequest({action:'check',lessonId:lesson.id,answers});setFeedback(result.feedback as typeof feedback);if(result.record)onRecord(result.record as StudyRecord);}catch(error){setStatus((error as Error).message);}finally{setSaving(false);}}
   return <article className="a2-reader">
-    <header><span className="a2-overline">{lesson.unit} · ADAPTACIÓN EDITORIAL CON FUENTES</span><h1>{lesson.title}</h1><p className="a2-objective"><strong>Al terminar podrás</strong>{lesson.objective}</p><span className="a2-reading-time">Lectura estimada: {Math.max(2,Math.ceil(lesson.paragraphs.join(' ').split(/\s+/).length/180))} min · práctica a tu ritmo</span></header>
+    <header><span className="a2-overline">{lesson.unit} · ADAPTACIÓN EDITORIAL CON FUENTES</span><h1>{lesson.title}</h1><p className="a2-objective"><strong>Al terminar podrás</strong>{lesson.objective}</p><span className="a2-reading-time">Lectura estimada: {lessonReadingMinutes(lesson)} min · demostraciones y práctica a tu ritmo</span></header>
     {missing.length>0&&<div className="a2-prerequisites"><strong>Antes de esta lección</strong><p>Recomendamos estudiar estos temas. La navegación permanece libre.</p>{missing.map(id=><button key={id} onClick={()=>navigate(id)}>{lessons.find(item=>item.id===id)?.title} →</button>)}</div>}
-    <section className="a2-prose"><h2>Comprende la idea</h2>{lesson.paragraphs.map(paragraph=><p key={paragraph}>{paragraph}</p>)}</section>
+    {lesson.lecture ? <LessonLectureContent lecture={lesson.lecture} lessonId={lesson.id} /> : <section className="a2-prose"><h2>Comprende la idea</h2>{lesson.paragraphs.map(paragraph=><p key={paragraph}>{paragraph}</p>)}</section>}
     {lesson.image&&<figure className="a2-source-image"><img src={lesson.image.src} alt={lesson.image.caption} loading="lazy"/><figcaption>{lesson.image.caption}</figcaption></figure>}
     <section className="a2-example"><span className="a2-overline">EJEMPLO RESUELTO</span><h2>{lesson.example.title}</h2><ol>{lesson.example.steps.map(step=><li key={step}>{step}</li>)}</ol></section>
     <section className="a2-counter"><h3>Cuándo esta lectura falla</h3><p>{lesson.counterexample}</p></section>
     <section className="a2-exercise"><span className="a2-overline">AHORA TE TOCA A TI</span><h2>Aplica lo que aprendiste</h2><p>{lesson.exercise}</p><label htmlFor="lesson-response">Tu razonamiento<textarea id="lesson-response" disabled={saving} rows={6} maxLength={15000} value={draft} onChange={event=>{setDraft(event.target.value);onDirty(true);setStatus('Hay cambios sin guardar.');}} placeholder="Explica los datos, tu interpretación y sus límites…"/></label><details><summary>Comparar con la resolución razonada</summary><p>{lesson.solution}</p><ul>{lesson.rubric.map(rule=><li key={rule}>{rule}</li>)}</ul></details><label className="a2-checkbox"><input type="checkbox" disabled={saving} checked={reviewed} onChange={event=>{setReviewed(event.target.checked);onDirty(true);}}/>Comparé mi respuesta con los criterios. La revisión abierta es autoevaluación, no certificación.</label><div className="a2-actions"><button className="a2-primary" disabled={saving} onClick={()=>save()}>Guardar respuesta</button><button disabled={saving} onClick={()=>save(true)}>Marcar estudiada y guardar</button>{hasCases&&<button disabled={saving} onClick={openLab}>Abrir casos relacionados →</button>}</div><p role="status" className="a2-save-status">{status}</p></section>
     <section className="a2-check"><span className="a2-overline">COMPROBACIÓN CONCEPTUAL</span><h2>Resuelve sin mirar la explicación</h2>{lesson.checks.map((question,index)=><fieldset key={question.prompt}><legend>{question.prompt}</legend>{question.options.map((option,optionIndex)=><label key={option}><input type="radio" name={`check-${index}`} value={optionIndex} checked={answers[index]===optionIndex} onChange={()=>{setAnswers(current=>{const next=[...current];next[index]=optionIndex;return next;});setFeedback([]);}}/>{option}</label>)}{feedback[index]&&<p className={feedback[index].correct?'a2-success':'a2-warning'}>{feedback[index].correct?'Correcto. ':'Revisar. '}{feedback[index].explanation}</p>}</fieldset>)}<button disabled={saving||answers.filter(Number.isInteger).length!==lesson.checks.length} onClick={check}>Comprobar en servidor</button><small>Este control no evalúa por sí solo tu capacidad de operar ni tu argumento abierto.</small></section>
-    <section className="a2-source"><strong>Fuente y alcance</strong><p>{lesson.source}</p></section><p className="a2-bridge">{lesson.bridge}</p>
+    <section className="a2-source"><strong>Fuente original y alcance</strong><p>{lesson.source}</p></section>
+    {lesson.lecture && <LectureReferences lecture={lesson.lecture} lessonId={lesson.id} />}
+    <p className="a2-bridge">{lesson.bridge}</p>
     <div className="a2-actions a2-next"><button disabled={saving||currentIndex===0} onClick={()=>navigate(lessons[currentIndex-1].id)}>← Anterior</button><button className="a2-primary" disabled={saving||currentIndex===lessons.length-1} onClick={()=>navigate(lessons[currentIndex+1].id)}>Siguiente lección →</button></div>
   </article>;
 }

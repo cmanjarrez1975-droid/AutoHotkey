@@ -1,4 +1,5 @@
 import type { LearningLesson } from './catalog';
+import { candleLecture, structureLecture } from './lecture-content.ts';
 
 export const foundations: LearningLesson[] = [
   {
@@ -20,6 +21,7 @@ export const foundations: LearningLesson[] = [
   },
   {
     id: 'f-velas', track: 'fundamentos', unit: 'Lectura del precio', title: 'Una vela, cuatro precios y un reloj',
+    lecture: candleLecture,
     objective: 'Reconstruir apertura, máximo, mínimo y cierre, distinguiendo vela activa y cerrada.', prerequisites: ['f-entorno'], legacyModules: [1, 4, 7],
     paragraphs: [
       'La apertura es el primer precio del intervalo; el cierre, el último. Máximo y mínimo son los extremos recorridos. El cuerpo conecta apertura y cierre; las mechas muestran el recorrido restante. El color describe la relación entre apertura y cierre, no quién domina toda la tendencia.',
@@ -37,6 +39,7 @@ export const foundations: LearningLesson[] = [
   },
   {
     id: 'f-estructura', track: 'fundamentos', unit: 'Lectura del precio', title: 'De los giros visibles a la estructura',
+    lecture: structureLecture,
     objective: 'Seleccionar un extremo por su consecuencia y explicar cuándo pudo confirmarse.', prerequisites: ['f-velas'], legacyModules: [1, 3],
     paragraphs: [
       'Un giro visible termina una oscilación. Para estos ejercicios lo llamaremos estructural cuando desde él nazca un desplazamiento que supere una referencia anterior. Es una convención explícita del curso: ayuda a no asignar la misma importancia a cada pequeño zigzag.',

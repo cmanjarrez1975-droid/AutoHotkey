@@ -1,0 +1,45 @@
+.a2-lecture { margin-top: 32px; }
+.a2-lecture-intro, .a2-lecture-recap, .a2-lecture-recall { padding: 24px; border: 1px solid #315053; border-radius: 12px; background: #10292d; margin: 26px 0; }
+.a2-lecture-intro nav ol { padding-left: 22px; margin-bottom: 0; }
+.a2-lecture-intro li, .a2-lecture-recap li, .a2-lecture-worked li { padding-left: 5px; margin: 10px 0; }
+.a2-lecture-section { padding: 30px 0 14px; border-top: 1px solid var(--a2-border); scroll-margin-top: 24px; }
+.a2-lecture-section > p { max-width: 70ch; }
+.academy-v2 .a2-lecture-reference { font-size: 13px; border-left: 2px solid #8daaff; padding: 8px 15px; }
+.a2-lecture-worked { border-left: 3px solid #63dec1; padding: 22px; background: #122b30; margin: 26px 0; }
+.a2-lecture-worked ol { padding-left: 22px; }
+.a2-lecture-pause { border: 1px solid #655331; background: #29261c; border-radius: 12px; padding: 22px; margin: 26px 0; }
+.a2-lecture-pause h3 { font-size: 17px; }
+.a2-lecture-pause details { border-color: #655331; }
+.a2-lecture-pause details:last-child { padding-bottom: 0; }
+.a2-lecture-demo { margin: 26px 0; border: 1px solid #365267; border-radius: 12px; padding: 22px; background: #0c1929; }
+.a2-lecture-demo .a2-actions { margin: 15px 0; }
+.academy-v2 .a2-lecture-demo button[aria-pressed=true] { color: #9befd8; border-color: #63dec1; background: #163737; }
+.a2-lecture-chart { width: 100%; height: 220px; display: block; margin-top: 18px; }
+.a2-demo-data { font-size: 13px; overflow-wrap: anywhere; }
+.a2-demo-state { padding: 15px; background: #172b3d; border-left: 3px solid #8daaff; margin: 16px 0; }
+.a2-demo-state p { margin: 8px 0 0; font-size: 14px; }
+.a2-demo-controls button { font-size: 13px; }
+.a2-demo-controls small { flex-basis: 100%; }
+.a2-candle-layout { display: grid; grid-template-columns: 125px minmax(0, 1fr); gap: 20px; align-items: center; margin: 20px 0; }
+.a2-candle-drawing { height: 200px; position: relative; border-top: 1px solid #26364a; border-bottom: 1px solid #26364a; }
+.a2-candle-wick { position: absolute; width: 3px; min-height: 2px; left: calc(50% - 1.5px); }
+.a2-candle-body { position: absolute; width: 48px; min-height: 2px; left: calc(50% - 24px); }
+.a2-candle-high, .a2-candle-low { position: absolute; right: 0; font-size: 11px; color: #c6d5e5; }
+.a2-candle-high { top: 0; }.a2-candle-low { bottom: 0; }
+.a2-candle-values { margin: 0; }
+.a2-candle-values > div { display: flex; justify-content: space-between; align-items: baseline; gap: 12px; padding: 7px 0; border-bottom: 1px solid #26364a; }
+.a2-candle-values dt { font-size: 12px; color: #a4b4c8; }
+.a2-candle-values dd { font-size: 14px; margin: 0; font-weight: 600; text-align: right; }
+.a2-lecture-sources { margin-top: 32px; }
+.a2-lecture-sources > p { font-size: 13px; }
+.a2-lecture-sources article { padding: 22px 0; border-top: 1px solid var(--a2-border); scroll-margin-top: 24px; }
+.a2-lecture-sources article h3 { font-size: 16px; overflow-wrap: anywhere; }
+.a2-lecture-sources article p { font-size: 13px; margin-bottom: 10px; }
+.a2-source-new-tab { font-size: 11px; font-weight: 400; }
+@media (max-width: 600px) {
+  .a2-lecture-intro, .a2-lecture-recap, .a2-lecture-recall, .a2-lecture-pause, .a2-lecture-demo { padding: 18px 14px; }
+  .a2-candle-layout { grid-template-columns: 70px minmax(0, 1fr); gap: 14px; }
+  .a2-candle-body { width: 32px; left: calc(50% - 16px); }
+  .a2-candle-values > div { gap: 8px; }
+  .a2-lecture-worked { padding: 18px 14px; }
+}

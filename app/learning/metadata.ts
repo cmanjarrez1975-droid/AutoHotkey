@@ -1,7 +1,8 @@
+import type { LessonLecture } from './lecture-types.ts';
 export type TrackId = 'fundamentos' | 'metodo' | 'practica';
 export type LearningLesson = {
   id: string; track: TrackId; unit: string; title: string; objective: string;
-  prerequisites: string[]; paragraphs: string[];
+  prerequisites: string[]; paragraphs: string[]; lecture?: LessonLecture;
   example: { title: string; steps: string[] }; counterexample: string;
   exercise: string; rubric: string[]; solution: string; bridge: string;
   source: string; legacyModules: number[]; image?: { src: string; caption: string };

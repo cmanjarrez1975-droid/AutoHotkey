@@ -1,5 +1,16 @@
 # Cambios
 
+## 0.2.2 — Dos clases piloto desarrolladas con bibliografía complementaria
+
+- Velas y estructura pasan del resumen a una explicación progresiva, con ejemplos propios, pistas, pausas de razonamiento y repaso diferido.
+- Tres demostraciones: dos caminos con el mismo OHLC, una vela en formación y confirmación estructural paso a paso.
+- Referencias de CME, IES y un resumen académico comentadas según su alcance, manteniendo los materiales originales como base.
+- Se separan observación, convención del curso e interpretación; no se presenta la confirmación como garantía de rentabilidad.
+- Estimación de lectura ajustada al desarrollo. IDs, controles, historial, laboratorio y versión curricular permanecen intactos.
+- TypeScript y compilación correctos; 48 pruebas aprobadas. No hay prueba visual ni validación de comprensión con alumnos. Las otras 22 clases conservan su desarrollo anterior.
+
+Investigación, límites y recorrido de comprobación en `docs/AMPLIACION_DIDACTICA.md`. Disponible localmente; no se actualizó la versión alojada.
+
 ## 0.2.1 — Revisión de los ejercicios de laboratorio
 
 Se revisan los 20 escenarios después de observar que sus instrucciones no permitían desarrollarlos con claridad.
