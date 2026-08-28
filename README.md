@@ -1,6 +1,6 @@
 # U WeAreTrades Academy
 
-Plataforma de estudio de trading. Versión 0.2.0: 24 unidades explícitas, 20 casos de decisión y biblioteca de las fuentes aportadas.
+Plataforma de estudio de trading. Versión 0.2.1: 24 unidades explícitas, 20 casos de decisión y biblioteca de las fuentes aportadas.
 
 ## Iniciar en Windows
 
@@ -60,6 +60,7 @@ El currículo v1 y su historial no se han eliminado. La nueva ruta es una adapta
 
 La publicación de esta versión está pendiente: el alojamiento devuelve `project_not_found` para el proyecto existente. Se conservó `.openai/hosting.json`; no se creó otro sitio. No se modificaron `app/chatgpt-auth.ts`, los originales ni el respaldo de producción.
 
+- [Revisión y guía de prueba del laboratorio](docs/REVISION_LABORATORIO.md)
 - [Cambios de versión](CHANGELOG.md)
 - [Pruebas manuales, límites y despliegue seguro](docs/VALIDACION_V02.md)
 - [Documentación original del starter conservada](docs/README_STARTER_V01.md)

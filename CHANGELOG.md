@@ -1,5 +1,20 @@
 # Cambios
 
+## 0.2.1 — Revisión de los ejercicios de laboratorio
+
+Se revisan los 20 escenarios después de observar que sus instrucciones no permitían desarrollarlos con claridad.
+
+- Se explica la diferencia entre simular entrada, esperar una condición y descartar un plan, con un ejemplo resuelto independiente.
+- Cada caso tiene objetivo, datos aportados, tres pasos y tres preguntas específicas. Se separa lo visible en los cierres de las propiedades de velas o indicadores declaradas por el escenario.
+- El gráfico incorpora referencias, franjas, puntos P1…Pn, corte de decisión y valores exactos. Reserva el mismo espacio de continuación para todos los ejercicios, sin usar el futuro oculto para calcular su escala.
+- Los casos de W, M y bloques aclaran el orden de los eventos: la confirmación debe ocurrir después del segundo intento o de la visita correspondiente.
+- La respuesta se divide en observación, comparación con la regla y cambio de lectura. Los campos pendientes se explican; las respuestas abiertas no se califican automáticamente.
+- Los planes dimensionables muestran dirección, entrada fija, precios de stop/objetivo, presupuesto, costos y fórmula neta. La corrección explica qué límite debe revisarse.
+- Navegación anterior/siguiente, repetir ejercicio y regresar a la lección relacionada. El trabajo sin registrar mantiene la confirmación de descarte.
+- Se conservan IDs, versión curricular, pesos y criterios de evaluación. Los argumentos se guardan en el campo existente con tres encabezados; no se migra ni borra el historial.
+
+Validación y pruebas manuales descritas en `docs/REVISION_LABORATORIO.md`. Esta revisión mejora instrucciones y representación; no convierte los cierres sintéticos en velas OHLC ni equivale a validar la comprensión con alumnos.
+
 ## 0.2.0 — 27 de agosto de 2026
 
 Base de trabajo: revisión `5a0d6c9`, rama `codex/academy-v02`.

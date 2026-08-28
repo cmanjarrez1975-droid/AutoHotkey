@@ -1,3 +1,4 @@
+import { caseGuides } from './case-guides.ts';
 export type Decision = 'ejecutar' | 'esperar' | 'descartar';
 export type CaseStudy = {
   id: string; lessonId: string; title: string; context: string; rule: string;
@@ -33,8 +34,14 @@ export const cases: CaseStudy[] = [
 
 export function publicCase(item: CaseStudy) {
   const { id, lessonId, title, context, rule, closes, reasons, direction, cost, minimumRr } = item;
-  return { id, lessonId, title, context, rule, closes, reasons, direction, cost, minimumRr, synthetic: true };
+  // These limits are already part of the exercise statement, not an answer key.
+  const risk = item.stopRange && item.targetLimit !== undefined && direction ? {
+    side: direction, stopMin: item.stopRange[0], stopMax: item.stopRange[1],
+    targetBoundary: item.targetLimit,
+  } : null;
+  return { id, lessonId, title, context, rule, closes, reasons, direction, cost, minimumRr, synthetic: true, guide: caseGuides[id], risk };
 }
+export type PublicCase = ReturnType<typeof publicCase>;
 
 export function evaluateCase(item: CaseStudy, response: { decision: Decision; reason: number; stop?: number; target?: number; budget?: number }) {
   const decisionCorrect = response.decision === item.decision;
@@ -52,5 +59,12 @@ export function evaluateCase(item: CaseStudy, response: { decision: Decision; re
       planValid = risk > 0 && reward > 0 && stop! >= item.stopRange[0] && stop! <= item.stopRange[1] && targetAllowed && rr >= item.minimumRr;
     }
   }
-  return { score: (decisionCorrect ? 40 : 0) + (reasonCorrect ? 30 : 0) + (decisionCorrect && planValid ? 30 : 0), decisionCorrect, reasonCorrect, planValid, rr, size, explanation: item.explanation, outcome: item.outcome, future: item.future, expectedDecision: item.decision };
+  const riskFeedback = response.decision !== 'ejecutar'
+    ? 'Sin entrada no hay tamaño que calcular. Los 30 puntos de coherencia se conceden solo si la decisión coincide con la regla.'
+    : !item.stopRange
+      ? 'Este caso evalúa una condición o un plan ya dado: no ofrece un plan de entrada que cumpla todas sus reglas. Revisa la decisión antes de dimensionar.'
+      : planValid
+        ? `El stop, objetivo y ratio neto ${rr.toFixed(2)} cumplen los límites del ejercicio. El resultado posterior puede ser adverso.`
+        : `Revisa: stop entre ${item.stopRange[0]} y ${item.stopRange[1]}, objetivo ${item.direction === 'Corto' ? 'no menor' : 'no mayor'} que ${item.targetLimit}, ratio neto al menos ${item.minimumRr} y presupuesto positivo hasta 10000.`;
+  return { score: (decisionCorrect ? 40 : 0) + (reasonCorrect ? 30 : 0) + (decisionCorrect && planValid ? 30 : 0), decisionCorrect, reasonCorrect, planValid, rr, size, explanation: item.explanation, riskFeedback, outcome: item.outcome, future: item.future, expectedDecision: item.decision };
 }
