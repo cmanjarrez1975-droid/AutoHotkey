@@ -1,6 +1,6 @@
 # 1. Introducción
 
-**Borrador editorial a partir de la entrega 001.** Pendiente de confirmar su ubicación en la estructura. No integrado todavía en la aplicación.
+**Borrador editorial a partir de la entrega 001.** Módulo 1 introductorio, seguido del nuevo «Módulo 2. Tipos de Tendencias Alcistas» indicado por el usuario. No integrado todavía en la aplicación.
 
 Fuente principal: [transcripción entregada por el usuario](fuentes/001-introduccion-original.txt). Se reorganizan las ideas y se eliminan repeticiones orales; no se completan términos corruptos ni el final truncado. Los ejemplos y actividades añadidos se identifican expresamente.
 
