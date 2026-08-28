@@ -20,7 +20,7 @@ import { moduleVisuals } from "../app/official-course-visuals.ts";
 import { POST as mentorPost } from "../app/api/mentor/route.ts";
 import { buildAcademyLessons } from "../app/academy-lessons.ts";
 
-test("calcula R/R y tamaño para largo y corto", () => {
+test("[archivo v1] calcula R/R y tamaño para largo y corto", () => {
   const long = calculateRiskPlan({
     entry: 100,
     stop: 95,
@@ -47,7 +47,7 @@ test("calcula R/R y tamaño para largo y corto", () => {
   assert.equal(short.positionSize, 12.5);
 });
 
-test("rechaza geometría incoherente de entrada, stop y objetivo", () => {
+test("[archivo v1] rechaza geometría incoherente de entrada, stop y objetivo", () => {
   const invalid = calculateRiskPlan({
     entry: 100,
     stop: 105,
@@ -61,7 +61,7 @@ test("rechaza geometría incoherente de entrada, stop y objetivo", () => {
   assert.match(invalid.reason, /stop debe quedar bajo/i);
 });
 
-test("selecciona preguntas sin duplicados y respeta el módulo", () => {
+test("[archivo v1] selecciona preguntas sin duplicados y respeta el módulo", () => {
   const bank = Array.from({ length: 12 }, (_, index) => ({
     id: `q-${index}`,
     module: index < 6 ? 1 : 2,
@@ -81,7 +81,7 @@ test("selecciona preguntas sin duplicados y respeta el módulo", () => {
   assert.ok(session.every((question) => !["q-0", "q-1"].includes(question.id)));
 });
 
-test("el curso cubre 10 módulos y 26 fuentes individuales", () => {
+test("[archivo v1] el curso cubre 10 módulos y 26 fuentes individuales", () => {
   assert.equal(modules.length, 10);
   assert.equal(moduleCurriculum.length, 10);
   assert.equal(sourceRecords.length, 26);
@@ -92,7 +92,7 @@ test("el curso cubre 10 módulos y 26 fuentes individuales", () => {
   );
 });
 
-test("cada módulo tiene al menos ocho trivias y nueve preguntas formales", () => {
+test("[archivo v1] cada módulo tiene al menos ocho trivias y nueve preguntas formales", () => {
   for (const courseModule of modules) {
     assert.ok(
       triviaQuestions.filter((question) => question.module === courseModule.id)
@@ -117,13 +117,13 @@ test("cada módulo tiene al menos ocho trivias y nueve preguntas formales", () =
   );
 });
 
-test("normaliza el porcentaje de avance", () => {
+test("[archivo v1] normaliza el porcentaje de avance", () => {
   assert.equal(completionPercent(0, 0), 0);
   assert.equal(completionPercent(5, 10), 50);
   assert.equal(completionPercent(14, 10), 100);
 });
 
-test("cada módulo usa referencias visuales aportadas y trazables", async () => {
+test("[archivo v1] cada módulo usa referencias visuales aportadas y trazables", async () => {
   for (const courseModule of modules) {
     const visuals = moduleVisuals[courseModule.id] ?? [];
     assert.ok(visuals.length >= 3, `M${courseModule.id} necesita 3 referencias`);
@@ -141,7 +141,7 @@ test("cada módulo usa referencias visuales aportadas y trazables", async () => 
   }
 });
 
-test("la explicación central avanza de fundamentos a dominio", () => {
+test("[archivo v1] la estructura editorial histórica conserva sus campos", () => {
   for (const courseModule of moduleCurriculum) {
     assert.equal(
       courseModule.sections.length,
@@ -163,7 +163,7 @@ test("la explicación central avanza de fundamentos a dominio", () => {
   }
 });
 
-test("cada módulo expone una ruta real de lecciones y clases reconstruidas", () => {
+test("[archivo v1] el generador histórico conserva identificadores y grupos", () => {
   const allLessonIds = [];
   for (const courseModule of moduleCurriculum) {
     const classes = classCatalog.filter(
@@ -193,7 +193,7 @@ test("cada módulo expone una ruta real de lecciones y clases reconstruidas", ()
   assert.equal(new Set(allLessonIds).size, allLessonIds.length);
 });
 
-test("la multimedia visible usa archivos originales con audio, no microvideos silenciosos", async () => {
+test("[archivo v1] el catálogo histórico referencia medios aportados de tamaño esperado", async () => {
   for (const items of Object.values(moduleMedia)) {
     for (const item of items) {
       assert.doesNotMatch(item.src, /\/modulo-\d{2}-/);
@@ -205,7 +205,7 @@ test("la multimedia visible usa archivos originales con audio, no microvideos si
   }
 });
 
-test("la migración incluye intentos, respuestas y progreso de lecciones", async () => {
+test("[archivo v1] la migración incluye intentos, respuestas y progreso de lecciones", async () => {
   const sql = await readFile(
     new URL("../drizzle/0001_misty_sumo.sql", import.meta.url),
     "utf8",

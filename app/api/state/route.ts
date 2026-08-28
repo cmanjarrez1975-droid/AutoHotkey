@@ -1,24 +1,18 @@
+import { requireLearner, readJson, apiError, HttpError, learnerUploadPrefix } from "../../../lib/access.ts";
+import { validateLegacyBody } from "../../../lib/legacy-validation.ts";
 import { desc, eq } from "drizzle-orm";
-import { getDb } from "../../../db";
+import { getDb } from "../../../db/index.ts";
 import {
   labAttempts,
   learnerStates,
   lessonProgress,
   practiceEntries,
   quizAnswers,
-} from "../../../db/schema";
-
-function userKey(request: Request) {
-  return (
-    request.headers.get("oai-authenticated-user-email") ??
-    request.headers.get("x-forwarded-user") ??
-    "owner"
-  );
-}
+} from "../../../db/schema.ts";
 
 export async function GET(request: Request) {
   try {
-    const key = userKey(request);
+    const key = requireLearner(request);
     const db = getDb();
     const rows = await db
       .select()
@@ -56,22 +50,18 @@ export async function GET(request: Request) {
       labs,
       answers,
       lessons,
-    });
+    }, { headers: { "cache-control": "no-store" } });
   } catch (error) {
-    return Response.json(
-      {
-        error:
-          error instanceof Error ? error.message : "No se pudo cargar el progreso.",
-      },
-      { status: 500 },
-    );
+    return apiError(error);
   }
 }
 
 export async function POST(request: Request) {
   try {
-    const key = userKey(request);
-    const body = (await request.json()) as {
+    const key = requireLearner(request);
+    const raw = await readJson(request);
+    validateLegacyBody(raw);
+    const body = raw as {
       state?: Record<string, unknown>;
       practice?: {
         module?: number;
@@ -84,32 +74,7 @@ export async function POST(request: Request) {
         notes?: string;
         screenshotKey?: string | null;
       };
-      labAttempt?: {
-        module?: number;
-        score?: number;
-        structureScore?: number;
-        invalidationScore?: number;
-        rr?: number;
-        stopPercent?: number;
-        targetPercent?: number;
-        positionSize?: number;
-        validGeometry?: boolean;
-      };
-      quizAnswer?: {
-        attemptKey?: string;
-        mode?: string;
-        module?: number;
-        questionId?: string;
-        difficulty?: string;
-        selectedIndex?: number;
-        correct?: boolean;
-      };
-      lesson?: {
-        lessonId?: string;
-        module?: number;
-        completed?: boolean;
-        studySeconds?: number;
-      };
+
     };
     const db = getDb();
 
@@ -141,6 +106,7 @@ export async function POST(request: Request) {
 
     let practice = null;
     if (body.practice) {
+      if (body.practice.screenshotKey && !body.practice.screenshotKey.startsWith(await learnerUploadPrefix(key))) throw new HttpError(403, "La captura no pertenece a tu cuenta.");
       const values = {
         userKey: key,
         module: body.practice.module ?? 1,
@@ -160,102 +126,8 @@ export async function POST(request: Request) {
       practice = created;
     }
 
-    let labAttempt = null;
-    if (body.labAttempt) {
-      const [created] = await db
-        .insert(labAttempts)
-        .values({
-          userKey: key,
-          module: body.labAttempt.module ?? 1,
-          score: Math.max(0, Math.min(100, body.labAttempt.score ?? 0)),
-          structureScore: Math.max(
-            0,
-            Math.min(100, body.labAttempt.structureScore ?? 0),
-          ),
-          invalidationScore: Math.max(
-            0,
-            Math.min(100, body.labAttempt.invalidationScore ?? 0),
-          ),
-          rr: String(body.labAttempt.rr ?? 0),
-          stopPercent: String(body.labAttempt.stopPercent ?? 0),
-          targetPercent: String(body.labAttempt.targetPercent ?? 0),
-          positionSize: String(body.labAttempt.positionSize ?? 0),
-          validGeometry: body.labAttempt.validGeometry ?? false,
-        })
-        .returning();
-      labAttempt = created;
-    }
-
-    let quizAnswer = null;
-    if (body.quizAnswer) {
-      const [created] = await db
-        .insert(quizAnswers)
-        .values({
-          userKey: key,
-          attemptKey:
-            body.quizAnswer.attemptKey?.trim() || crypto.randomUUID(),
-          mode: body.quizAnswer.mode?.trim() || "trivia",
-          module: body.quizAnswer.module ?? 1,
-          questionId: body.quizAnswer.questionId?.trim() || "unknown",
-          difficulty: body.quizAnswer.difficulty?.trim() || "Inicial",
-          selectedIndex: body.quizAnswer.selectedIndex ?? -1,
-          correct: body.quizAnswer.correct ?? false,
-        })
-        .returning();
-      quizAnswer = created;
-    }
-
-    let lesson = null;
-    if (body.lesson?.lessonId) {
-      const existing = await db
-        .select()
-        .from(lessonProgress)
-        .where(eq(lessonProgress.userKey, key));
-      const current = existing.find(
-        (item) => item.lessonId === body.lesson?.lessonId,
-      );
-      if (current) {
-        const [updated] = await db
-          .update(lessonProgress)
-          .set({
-            completed: body.lesson.completed ?? current.completed,
-            studySeconds:
-              current.studySeconds + Math.max(0, body.lesson.studySeconds ?? 0),
-            updatedAt: new Date().toISOString(),
-          })
-          .where(eq(lessonProgress.id, current.id))
-          .returning();
-        lesson = updated;
-      } else {
-        const [created] = await db
-          .insert(lessonProgress)
-          .values({
-            userKey: key,
-            lessonId: body.lesson.lessonId,
-            module: body.lesson.module ?? 1,
-            completed: body.lesson.completed ?? false,
-            studySeconds: Math.max(0, body.lesson.studySeconds ?? 0),
-            updatedAt: new Date().toISOString(),
-          })
-          .returning();
-        lesson = created;
-      }
-    }
-
-    return Response.json({
-      ok: true,
-      practice,
-      labAttempt,
-      quizAnswer,
-      lesson,
-    });
+    return Response.json({ ok: true, practice }, { headers: { "cache-control": "no-store" } });
   } catch (error) {
-    return Response.json(
-      {
-        error:
-          error instanceof Error ? error.message : "No se pudo guardar el progreso.",
-      },
-      { status: 500 },
-    );
+    return apiError(error);
   }
 }

@@ -1258,7 +1258,7 @@ export default function AcademyApp() {
 
   useEffect(() => {
     fetch("/api/state")
-      .then((response) => (response.ok ? response.json() : null))
+      .then((response) => (response.ok ? response.json() as Promise<{ state?: Record<string, unknown>; lessons?: LessonProgressRecord[] }> : null))
       .then((payload) => {
         if (!payload) return;
         const savedSection = payload.state?.lastSection as Section | undefined;

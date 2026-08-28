@@ -1083,7 +1083,7 @@ type Practice = {
   createdAt: string;
 };
 
-const seedPractices: Practice[] = [
+export const legacyDemonstrationPractices: Practice[] = [
   {
     id: -1,
     module: 1,
@@ -1123,7 +1123,7 @@ const seedPractices: Practice[] = [
 ];
 
 export function JournalPage({ snapshot }: { snapshot: LabSnapshot | null }) {
-  const [practices, setPractices] = useState<Practice[]>(seedPractices);
+  const [practices, setPractices] = useState<Practice[]>([]);
   const [selectedModule, setSelectedModule] = useState(1);
   const [saving, setSaving] = useState(false);
   const [message, setMessage] = useState("");
@@ -1139,9 +1139,9 @@ export function JournalPage({ snapshot }: { snapshot: LabSnapshot | null }) {
 
   useEffect(() => {
     fetch("/api/state")
-      .then((response) => (response.ok ? response.json() : null))
-      .then((data) => {
-        if (data?.practices?.length) setPractices(data.practices);
+      .then((response) => (response.ok ? response.json() as Promise<{ practices?: Practice[] }> : null))
+      .then((data: { practices?: Practice[] } | null) => {
+        if (data?.practices) setPractices(data.practices);
       })
       .catch(() => undefined);
   }, []);
@@ -1164,14 +1164,7 @@ export function JournalPage({ snapshot }: { snapshot: LabSnapshot | null }) {
       setForm((current) => ({ ...current, notes: "", resultR: "0" }));
       setMessage("Práctica guardada y métricas actualizadas.");
     } catch {
-      const optimistic: Practice = {
-        id: -Date.now(),
-        module: selectedModule,
-        ...form,
-        createdAt: new Date().toISOString(),
-      };
-      setPractices((current) => [optimistic, ...current]);
-      setMessage("Práctica guardada en esta sesión.");
+      setMessage("No se pudo guardar. Conserva tu texto y reintenta; no se registró la práctica.");
     } finally {
       setSaving(false);
     }

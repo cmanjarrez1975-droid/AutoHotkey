@@ -376,7 +376,7 @@ export function buildAcademyLessons({
         section.key,
         section.bridge,
         ...(section.checks ?? []).map((check) => check.answer),
-      ].filter(Boolean),
+      ].filter((value): value is string => Boolean(value)),
       questions: section.checks ?? [],
       exercise: depth.drills[index % depth.drills.length],
       source: section.source ?? curriculum.sources[0],

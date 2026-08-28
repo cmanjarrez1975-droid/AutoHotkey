@@ -1,6 +1,6 @@
 import { drizzle } from "drizzle-orm/d1";
-import { getRuntimeEnv } from "../lib/runtime-env";
-import * as schema from "./schema";
+import { getRuntimeEnv } from "../lib/runtime-env.ts";
+import * as schema from "./schema.ts";
 
 export function getDb() {
   const env = getRuntimeEnv();
