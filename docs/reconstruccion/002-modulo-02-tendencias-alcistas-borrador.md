@@ -1,6 +1,6 @@
 # Módulo 2. Tipos de Tendencias Alcistas
 
-**Estado: borrador editorial, no integrado en la aplicación.** Conserva el orden de las dos partes recibidas. Los bloques siguientes son divisiones para estudiar, no títulos ni cantidades de clases atribuidos a la grabación original.
+**Estado: borrador editorial con integración visual parcial en `/curso/modulo-2`.** Esa vista incorpora explicaciones, imágenes y práctica de comprensión, sin sustituir el catálogo ni migrar progreso. Este documento conserva el desarrollo amplio y el orden de las dos partes recibidas. Los bloques siguientes son divisiones para estudiar, no títulos ni cantidades de clases atribuidos a la grabación original.
 
 Fuentes principales: [parte 1](fuentes/002-modulo-02-alcistas-parte-01-original.txt) y [parte 2](fuentes/003-modulo-02-alcistas-parte-02-original.txt). Complemento visual: [manual original](../../public/course-originals/01-APRENDE_NUEVAS_ESTRATEGIAS_TRADING-1-.pdf), páginas indicadas en cada bloque. Consulta las decisiones y lagunas en [trazabilidad editorial](002-modulo-02-trazabilidad.md).
 
@@ -28,6 +28,10 @@ Trabaja siempre con una escala de análisis explícita. Una oscilación pequeña
 
 ### Bloque A. Tres secuencias, una misma pregunta
 
+![Tres tendencias diferenciadas por la ubicación de la pausa](../../public/course-reconstruction/module-02/editorial/tres-tendencias.png)
+
+Complemento editorial nuevo. Las tres imágenes aportadas para este bloque se conservan con notas en la vista de estudio y en el [inventario visual](002-modulo-02-integracion-visual.md).
+
 El profesor diferencia las tendencias según el lugar en el que aparece una pausa sencilla o un patrón más elaborado. El manual las representa juntas en la página 11.
 
 | Tipo del curso | Secuencia esquemática | Qué la distingue |
@@ -45,6 +49,8 @@ Estas son las secuencias que presenta el curso, no una clasificación universal 
 **Anticipar, en el sentido de esta clase, significa preparar escenarios.** No significa entrar antes de que ocurra la condición que el propio escenario exige. No haber participado en el primer impulso tampoco equivale a haber perdido dinero; evita usar esa sensación como justificación para perseguir el siguiente máximo.
 
 ### Bloque B. Los cinco patrones de continuación
+
+![Comparación de las cinco geometrías del curso](../../public/course-reconstruction/module-02/editorial/cinco-patrones.png)
 
 La página 13 del manual compara los cinco dibujos. Las páginas 14–18 los desarrollan. Los números pertenecen a este curso: aprende primero las diferencias observables, no solamente los nombres.
 
@@ -64,6 +70,8 @@ En los patrones 1 y 4 hay un mínimo final más alto, pero no son idénticos: el
 
 #### El caso especial del patrón 5
 
+![Patrón 5 temprano y después de una subida extendida](../../public/course-reconstruction/module-02/editorial/patron-cinco-contexto.png)
+
 El manual lo incluye en la clasificación, pero el profesor expresa que no le gusta operarlo al final del segundo impulso o en el desarrollo de uno tercero: puede parecerse al agotamiento por dientes de sierra que se estudiará en la segunda parte. **Clasificar una forma y decidir utilizarla son tareas distintas.**
 
 Después de un primer impulso, cerca de referencias de soporte, analiza variaciones que podrían permitir otra hipótesis de continuación. La página 19 muestra incluso una revisión del conteo. Eso no autoriza a ignorar una invalidación anterior: un nuevo escenario requiere nueva información y debe registrarse como tal, no como una justificación retrospectiva.
@@ -75,6 +83,8 @@ Un segundo impulso puede contener pequeñas subidas, retrocesos y patrones inter
 Para estudiar un ejemplo, señala el origen elegido, el final del primer impulso y la escala de las referencias. Si más adelante una ruptura obliga a revisar el conteo, deja escrito **en qué momento** cambió tu lectura. No presentes esa revisión posterior como si la hubieras conocido desde el inicio.
 
 #### Qué muestra realmente Fibonacci en este material
+
+![Comparación de proyección 100/61,8 y retroceso 100/0](../../public/course-reconstruction/module-02/editorial/fibonacci-dos-escalas.png)
 
 La página 20 resuelve una parte de la explicación verbal: el esquema coloca **100 % en el origen inferior** y **61,8 % en el final del primer impulso**; 50 %, 38,2 %, 23,6 % y 0 % quedan sucesivamente por encima. Es la escala de proyección que muestra el profesor, no un retroceso convencional del 61,8 % trazado desde un máximo hacia un mínimo.
 
@@ -103,6 +113,8 @@ El profesor pide volver a observar los mínimos, la recuperación de máximos lo
 Las observaciones del profesor sobre horarios, escaso volumen y pendiente pertenecen a sus ejemplos. Sin activo, sesión, datos y configuración del gráfico no se transforman en reglas horarias o umbrales universales.
 
 ### Bloque F. Dientes de sierra y agotamiento
+
+![Diferencia entre advertencia, pérdida del soporte y retesteo desde abajo](../../public/course-reconstruction/module-02/editorial/agotamiento-por-etapas.png)
 
 La página 25 muestra una secuencia en la que el precio supera máximos, pero los avances van acompañados de retrocesos profundos. La dificultad no es solo cuánto sube, sino cuánto de ese avance conserva.
 

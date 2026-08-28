@@ -1,0 +1,102 @@
+{
+  "module": 2,
+  "received": "2026-08-28",
+  "assets": [
+    {
+      "id": "tendencias-alcistas-estructura",
+      "src": "/course-reconstruction/module-02/originals/20260828_tendencias-alcistas-estructura.png",
+      "width": 2235,
+      "height": 742,
+      "bytes": 127748,
+      "sha256": "3644aa85bdbdb711ddb9835592e2e1002a5fbb42311f3eca9b4dc1a045e157bb"
+    },
+    {
+      "id": "tendencia-alcista-1-detalle",
+      "src": "/course-reconstruction/module-02/originals/20260828_tendencia-alcista-1-detalle.png",
+      "width": 2202,
+      "height": 1092,
+      "bytes": 182139,
+      "sha256": "603c9ee8089c25b43b9db32d79cf4830849f56444a19a761514e375a884cd111"
+    },
+    {
+      "id": "tendencia-alcista-3-detalle",
+      "src": "/course-reconstruction/module-02/originals/20260828_tendencia-alcista-3-detalle.png",
+      "width": 1773,
+      "height": 1096,
+      "bytes": 172919,
+      "sha256": "868a9d4c6a393bea4152633ab11cb768122cb4755bb4e11ab58081ee2d1b87b3"
+    },
+    {
+      "id": "patrones-continuacion-resumen",
+      "src": "/course-reconstruction/module-02/originals/20260828_patrones-continuacion-resumen.png",
+      "width": 2235,
+      "height": 522,
+      "bytes": 110707,
+      "sha256": "7d56730a4b941ec86f0b34a4d4e332569e7b4f48a3eb68fd4f96d149ab416007"
+    },
+    {
+      "id": "patron-continuacion-1-detalle",
+      "src": "/course-reconstruction/module-02/originals/20260828_patron-continuacion-1-detalle.png",
+      "width": 2085,
+      "height": 889,
+      "bytes": 93452,
+      "sha256": "60bc5caecac69626c685cc0a5c8ecccb2224289047bd64e25ba987573b629121"
+    },
+    {
+      "id": "patron-continuacion-2-detalle",
+      "src": "/course-reconstruction/module-02/originals/20260828_patron-continuacion-2-detalle.png",
+      "width": 2085,
+      "height": 889,
+      "bytes": 103234,
+      "sha256": "c702512daedcca487aaa3025379f0529bd187eb05e5e3028dd8cb872d7f76e12"
+    },
+    {
+      "id": "patron-continuacion-3-detalle",
+      "src": "/course-reconstruction/module-02/originals/20260828_patron-continuacion-3-detalle.png",
+      "width": 2182,
+      "height": 1095,
+      "bytes": 134809,
+      "sha256": "9935ecbce68af3f0dd522fb1aa7c6a20c3ca1c84dcec4e2055a82e0f0c29f013"
+    },
+    {
+      "id": "patron-continuacion-4-detalle",
+      "src": "/course-reconstruction/module-02/originals/20260828_patron-continuacion-4-detalle.png",
+      "width": 2172,
+      "height": 1095,
+      "bytes": 145753,
+      "sha256": "4b032b496a05d234e6a0ba60a84d2476e4d0f993768e6f7a48885aef4347a12f"
+    },
+    {
+      "id": "patron-continuacion-5-detalle",
+      "src": "/course-reconstruction/module-02/originals/20260828_patron-continuacion-5-detalle.png",
+      "width": 2180,
+      "height": 1095,
+      "bytes": 138414,
+      "sha256": "e31aa5b6b45f557301927dbb4187f1a60072d10cc7f106dabf78bec6e1b8508c"
+    },
+    {
+      "id": "variacion-patron-5-impulso",
+      "src": "/course-reconstruction/module-02/originals/20260828_variacion-patron-5-impulso.png",
+      "width": 2204,
+      "height": 1095,
+      "bytes": 180929,
+      "sha256": "a96cb5ccde41ec2058819089585f9ade6e2b5b269937702ca54f77c010b95bce"
+    },
+    {
+      "id": "ubicacion-fibonacci-2do-impulso",
+      "src": "/course-reconstruction/module-02/originals/20260828_ubicacion-fibonacci-2do-impulso.png",
+      "width": 1485,
+      "height": 884,
+      "bytes": 111661,
+      "sha256": "791eb70d0441e65593c4e4a46a9b7aa07c5e972ace8e6f5265c2b2b511c4185d"
+    },
+    {
+      "id": "patrones-finalizacion",
+      "src": "/course-reconstruction/module-02/originals/20260828_patrones-finalizacion.png",
+      "width": 1462,
+      "height": 884,
+      "bytes": 102398,
+      "sha256": "01f98def3bf02c0c9f0737a5e3e01fa8bb0bf16f1d96dc53618ac1483f82f85b"
+    }
+  ]
+}

@@ -1,6 +1,6 @@
 # Trazabilidad: módulo 2. Tipos de Tendencias Alcistas
 
-Fecha: 2026-08-28. Estado: preparación editorial. [Borrador de estudio](002-modulo-02-tendencias-alcistas-borrador.md). No se modifica el catálogo activo.
+Fecha: 2026-08-28. Estado: preparación editorial e integración visual parcial. [Borrador de estudio](002-modulo-02-tendencias-alcistas-borrador.md). La vista `/curso/modulo-2` incorpora las nuevas imágenes y diagramas; no modifica el catálogo activo ni el progreso. Véase [revisión de las 12 imágenes aportadas](002-modulo-02-integracion-visual.md).
 
 ## Fuentes y precedencia
 
@@ -56,7 +56,9 @@ Para localizar pasajes se enumeraron **solo las líneas no vacías**, desde 1, c
 
 No se incorporan fuentes externas nuevas ni recomendaciones financieras en esta recepción. Si se añaden después explicaciones técnicas o estadísticas de otras fuentes, deberán comprobarse y rotularse como complemento, sin sustituir las nuevas entregas.
 
-## Guion visual para la integración futura
+## Guion visual original y estado de integración
+
+La tabla siguiente conserva lo planificado al recibir las transcripciones. La entrega visual posterior desarrolla cinco láminas y una vista de estudio; el inventario enlazado arriba documenta qué se ha producido. No se han generado videos nuevos ni completado las prácticas originales pendientes.
 
 | Recurso | Referencia comprobada | Uso propuesto, aún no producido |
 | --- | --- | --- |

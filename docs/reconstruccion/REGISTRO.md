@@ -1,6 +1,6 @@
 # Reconstrucción del curso desde las nuevas entregas
 
-Estado: recepción y preparación editorial. **Todavía no sustituye la ruta publicada en la aplicación.**
+Estado: recepción y preparación editorial, con **integración visual local del módulo 2** en `/curso/modulo-2`. Todavía no sustituye el catálogo completo ni migra el progreso de la ruta actual. La publicación alojada sigue pendiente.
 
 ## Acuerdo de trabajo
 
@@ -37,6 +37,7 @@ La correspondencia provisional del recorrido restante es: 4. Movimientos tendenc
 | 003 | Misma entrega del módulo 2; segunda parte | [Original, parte 2](fuentes/003-modulo-02-alcistas-parte-02-original.txt) | Archivado después de la parte 1; [trazabilidad](002-modulo-02-trazabilidad.md) |
 | 004 | «Modulo 3 Principales retrocesos en Tendencias alcistas»; primer adjunto | [Original](fuentes/004-modulo-03-retrocesos-original.txt) | Archivado; [borrador](003-modulo-03-retrocesos-alcistas-borrador.md); final cortado |
 | 005 | Mismo módulo 3; segundo adjunto | [Duplicado original conservado](fuentes/005-modulo-03-retrocesos-duplicado-original.txt) | Idéntico byte por byte a 004; no se cuenta como parte 2 ni como otra clase; [trazabilidad](003-modulo-03-trazabilidad.md) |
+| IMG-M02 | Doce imágenes para integrar en el módulo 2 | [Inventario y revisión visual](002-modulo-02-integracion-visual.md) | Originales preservados; 5 diagramas editoriales nuevos y vista de estudio local |
 
 Los ID 001–005 identifican **archivos recibidos**, no IDs de lecciones de la aplicación ni versiones del historial. Las entregas 002 y 003 pertenecen al mismo módulo 2. Las entregas 004 y 005 contienen el mismo texto del módulo 3: se conservan ambos adjuntos, pero el contenido solo se desarrolla una vez.
 
@@ -95,3 +96,9 @@ Base al iniciar: `42e2204`, árbol limpio. Cambios limitados al registro, origin
 Comparación exacta de bytes de los dos adjuntos y hashes de sus copias comprobados. Cada archivo contiene 601 líneas no vacías. Las páginas 37–46 del manual original se inspeccionaron visualmente como complemento. El 76,4 % aparece tanto en la nueva transcripción como en la página 44: se conserva, sin sustituirlo por 78,6 %. El manual también permite resolver «giros en B/nubes» como giros en V en los pasajes correspondientes; las correcciones se hacen solo en el borrador, nunca en los originales.
 
 Validación de esta recepción: 28 enlaces locales de la documentación de reconstrucción sin destinos ausentes; tres cálculos del ejercicio de Fibonacci comprobados; `npm run test:unit`, 56 pruebas aprobadas sobre el artefacto existente. No se modifica código, no se recompila ni publica la aplicación y no se afirma una prueba de interfaz del nuevo módulo.
+
+### Integración visual del módulo 2 — 2026-08-28
+
+Solicitud explícita: integrar las doce imágenes aportadas junto con diagramas complementarios. Base inicial `66d5451`, árbol limpio y 56 pruebas existentes aprobadas. Se añade una vista local `/curso/modulo-2` con acceso desde la ruta principal; no se cambian IDs, prerrequisitos, evaluaciones, progreso ni los módulos pendientes de reconstrucción.
+
+Las 12 imágenes se conservan byte por byte en `public/course-reconstruction/module-02/originals`, con dimensiones, tamaños y SHA-256 en su manifiesto. Las 5 nuevas láminas se generan desde coordenadas esquemáticas con el mismo entorno gráfico local usado para los medios existentes; no editan ni sustituyen los archivos aportados. [Detalle de integración, notas y comprobaciones](002-modulo-02-integracion-visual.md).

@@ -1,0 +1,74 @@
+{
+  "module": 2,
+  "kind": "editorial-schematic",
+  "generator": "scripts/render-module-two-diagrams.py",
+  "assets": [
+    {
+      "id": "tres-tendencias",
+      "src": "/course-reconstruction/module-02/editorial/tres-tendencias.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 55882,
+      "sha256": "249fe1ae3cbbfe524fe8789bab0af8012bdf9b024e54dc1f893386406cd9bcaa",
+      "sourcePages": [
+        11
+      ],
+      "description": "I1 e I2 son los finales de los dos primeros impulsos; las pausas complejas aparecen en lugares diferentes."
+    },
+    {
+      "id": "cinco-patrones",
+      "src": "/course-reconstruction/module-02/editorial/cinco-patrones.png",
+      "width": 1800,
+      "height": 1300,
+      "bytes": 96864,
+      "sha256": "23153662a35a412ce0aec3fde0d4573053d7e337223e57185ae51d931621d45a",
+      "sourcePages": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ],
+      "description": "El patrón 4 conserva su mínimo final más alto; el patrón 5 no se reduce a máximos iguales."
+    },
+    {
+      "id": "patron-cinco-contexto",
+      "src": "/course-reconstruction/module-02/editorial/patron-cinco-contexto.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 55807,
+      "sha256": "57d21f70fc95834aabb9012ae4cc6285826e9308c3a062a6e564a569dbf980e2",
+      "sourcePages": [
+        18,
+        19,
+        25
+      ],
+      "description": "Dos ubicaciones para comparar; no se afirma éxito del segundo impulso ni fracaso obligatorio del primero."
+    },
+    {
+      "id": "fibonacci-dos-escalas",
+      "src": "/course-reconstruction/module-02/editorial/fibonacci-dos-escalas.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 67026,
+      "sha256": "3f32d40538f97fd23cd67453e53d64aeee7e8bdfdc25189a8a0314775b026b15",
+      "sourcePages": [
+        20
+      ],
+      "description": "Proyección: B coincide con 61,8 %. Retroceso: B coincide con 0 %. No asigna patrones a porcentajes como regla universal."
+    },
+    {
+      "id": "agotamiento-por-etapas",
+      "src": "/course-reconstruction/module-02/editorial/agotamiento-por-etapas.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 63923,
+      "sha256": "226a46cebc102231b4f01e4c5d9a76801bee41a2bd3f193192ef250257ddf2c1",
+      "sourcePages": [
+        25
+      ],
+      "description": "La última recuperación permanece bajo el soporte perdido; los tres dibujos son etapas esquemáticas, no precios reales."
+    }
+  ]
+}
