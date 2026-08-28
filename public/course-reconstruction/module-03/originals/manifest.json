@@ -1,0 +1,102 @@
+{
+  "module": 3,
+  "received": "2026-08-28",
+  "assets": [
+    {
+      "id": "tipos-de-retrocesos",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-tipos-de-retrocesos.png",
+      "width": 2217,
+      "height": 862,
+      "bytes": 95269,
+      "sha256": "ff2c9f032089018b98deeeb5120d15f295092a6366b2659ebfebc6cec25fc919"
+    },
+    {
+      "id": "criterios-ubicacion",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-criterios-ubicacion.png",
+      "width": 1785,
+      "height": 1159,
+      "bytes": 197208,
+      "sha256": "01e947ac354a77cc558d13b82e2466a97dd0666f9c37eee45db5338330aa0027"
+    },
+    {
+      "id": "ubicaciones-tendencia-1",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-ubicaciones-tendencia-1.png",
+      "width": 1436,
+      "height": 958,
+      "bytes": 125872,
+      "sha256": "517aea7d4bccbaebfaf1f5deb36f85329ece52ff4ba0256962e37081adc59c9f"
+    },
+    {
+      "id": "engano-alcista",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-engano-alcista.png",
+      "width": 1441,
+      "height": 957,
+      "bytes": 140369,
+      "sha256": "aafa3e2d62ed3d3a060c346701c0c136bc33529261dbc33e1b1b2153dde669e0"
+    },
+    {
+      "id": "retrocesos-despues-de-rangos",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-retrocesos-despues-de-rangos.png",
+      "width": 1485,
+      "height": 958,
+      "bytes": 107959,
+      "sha256": "8438a3c82be839b17af4fec23fd9f261d28ee88e194be2a9c054413d6c2c7edb"
+    },
+    {
+      "id": "patrones-velas-compradores",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-patrones-velas-compradores.png",
+      "width": 1446,
+      "height": 1164,
+      "bytes": 110773,
+      "sha256": "00e0d452d3b9c7899d9554a6c9083e005f43a217c872dc89d80e105b3a75189b"
+    },
+    {
+      "id": "mapa-confluencia-compradora",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-mapa-confluencia-compradora.png",
+      "width": 1586,
+      "height": 1015,
+      "bytes": 197220,
+      "sha256": "83cb6941b99f389e676bea3f1a03016739933e75bbdbdcca79d5953fe0cd4aec"
+    },
+    {
+      "id": "retroceso-profundo-micro-tendencia",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-retroceso-profundo-micro-tendencia.png",
+      "width": 1446,
+      "height": 959,
+      "bytes": 128254,
+      "sha256": "98340531d95003fcf88d612211eb424ed86602052f6c3ed9b325c6845793b02a"
+    },
+    {
+      "id": "retroceso-profundo-sin-tendencia",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-retroceso-profundo-sin-tendencia.png",
+      "width": 1485,
+      "height": 959,
+      "bytes": 125391,
+      "sha256": "83d75ee4c95d9e5b295772f1977916efe253dae9fbdfbfb4e47ef9fc59554d20"
+    },
+    {
+      "id": "analisis-15m-anterior",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-analisis-15m-anterior.png",
+      "width": 1634,
+      "height": 958,
+      "bytes": 154304,
+      "sha256": "fbf0dbe5e1c4bf9677021c0ab37f2b92d21edac0c0535ef5ed57ae94da78977c"
+    },
+    {
+      "id": "practica-2-analisis",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-practica-2-analisis.png",
+      "width": 1634,
+      "height": 957,
+      "bytes": 132483,
+      "sha256": "f4843b9a6cc1f79d282fd2a38e3c1e3b922e0dafba79ea52de1030f3687209a8"
+    },
+    {
+      "id": "practica-3-analisis",
+      "src": "/course-reconstruction/module-03/originals/20260828_m2-practica-3-analisis.png",
+      "width": 1613,
+      "height": 957,
+      "bytes": 153775,
+      "sha256": "331e5d4e1614020910538ca9f291f3e5c9c00a92be876d24e4e365749c6ab254"
+    }
+  ]
+}

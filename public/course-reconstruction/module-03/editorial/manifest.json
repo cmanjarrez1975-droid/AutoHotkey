@@ -1,0 +1,283 @@
+{
+  "module": 3,
+  "kind": "editorial-schematic",
+  "generator": "scripts/render-module-three-diagrams.py",
+  "assets": [
+    {
+      "id": "tres-retrocesos",
+      "src": "/course-reconstruction/module-03/editorial/tres-retrocesos.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 53274,
+      "sha256": "99554308cebcc04d02af97f3fd772668a18e320aec73ee584214718b49976cac",
+      "description": "Tres ejemplos con OHLC ficticio: pausa breve, pausa de dos velas y corrección profunda. No son los tipos de tendencia del módulo 2.",
+      "sourcePages": [
+        37
+      ],
+      "ohlc": [
+        [
+          {
+            "open": 1,
+            "high": 3.22,
+            "low": 0.78,
+            "close": 3
+          },
+          {
+            "open": 3,
+            "high": 5.22,
+            "low": 2.78,
+            "close": 5
+          },
+          {
+            "open": 5,
+            "high": 7.22,
+            "low": 4.78,
+            "close": 7
+          },
+          {
+            "open": 7,
+            "high": 7.22,
+            "low": 5.78,
+            "close": 6
+          },
+          {
+            "open": 6,
+            "high": 8.22,
+            "low": 5.78,
+            "close": 8
+          }
+        ],
+        [
+          {
+            "open": 1,
+            "high": 3.22,
+            "low": 0.78,
+            "close": 3
+          },
+          {
+            "open": 3,
+            "high": 5.22,
+            "low": 2.78,
+            "close": 5
+          },
+          {
+            "open": 5,
+            "high": 7.22,
+            "low": 4.78,
+            "close": 7
+          },
+          {
+            "open": 7,
+            "high": 7.22,
+            "low": 5.78,
+            "close": 6
+          },
+          {
+            "open": 6,
+            "high": 6.22,
+            "low": 4.78,
+            "close": 5
+          },
+          {
+            "open": 5,
+            "high": 6.22,
+            "low": 4.78,
+            "close": 6
+          },
+          {
+            "open": 6,
+            "high": 8.22,
+            "low": 5.78,
+            "close": 8
+          }
+        ],
+        [
+          {
+            "open": 1,
+            "high": 3.22,
+            "low": 0.78,
+            "close": 3
+          },
+          {
+            "open": 3,
+            "high": 5.22,
+            "low": 2.78,
+            "close": 5
+          },
+          {
+            "open": 5,
+            "high": 8.22,
+            "low": 4.78,
+            "close": 8
+          },
+          {
+            "open": 8,
+            "high": 8.22,
+            "low": 6.78,
+            "close": 7
+          },
+          {
+            "open": 7,
+            "high": 7.22,
+            "low": 5.28,
+            "close": 5.5
+          },
+          {
+            "open": 5.5,
+            "high": 5.72,
+            "low": 3.78,
+            "close": 4
+          },
+          {
+            "open": 4,
+            "high": 4.22,
+            "low": 2.78,
+            "close": 3
+          },
+          {
+            "open": 3,
+            "high": 5.22,
+            "low": 2.78,
+            "close": 5
+          },
+          {
+            "open": 5,
+            "high": 7.22,
+            "low": 4.78,
+            "close": 7
+          },
+          {
+            "open": 7,
+            "high": 9.22,
+            "low": 6.78,
+            "close": 9
+          }
+        ]
+      ]
+    },
+    {
+      "id": "retrocesos-tras-rango",
+      "src": "/course-reconstruction/module-03/editorial/retrocesos-tras-rango.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 56559,
+      "sha256": "0fdc510282ea546bb778bc8f6bf385ac1f2fd31420a8553e6766dc68a505e34a",
+      "description": "Comparación entre un retorno al nivel previo y una pausa que termina más arriba. La continuación discontinua es solo un escenario.",
+      "sourcePages": [
+        42
+      ]
+    },
+    {
+      "id": "microtendencia-w-v",
+      "src": "/course-reconstruction/module-03/editorial/microtendencia-w-v.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 63659,
+      "sha256": "10d07d84c1bf08d15c955eb4576725286dfc348922ba90e075f977efd734fb8e",
+      "description": "La microtendencia tiene extremos descendentes; la W necesita dos mínimos separados por un rebote; la V muestra un fondo único.",
+      "sourcePages": [
+        45,
+        46
+      ]
+    },
+    {
+      "id": "fibonacci-verificado",
+      "src": "/course-reconstruction/module-03/editorial/fibonacci-verificado.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 89910,
+      "sha256": "7fef6f14bcedd7fb40ff49ff10042a45d5667d0d3f101f8699f454afc535bd24",
+      "description": "Con anclajes 108 y 125, 38,2 % está en 118,506. Con 71 y 100, 50 % está en 85,5; 68 queda fuera del tramo.",
+      "sourcePages": [],
+      "calculations": [
+        {
+          "low": 108,
+          "high": 125,
+          "point": 115,
+          "levels": [
+            {
+              "ratio": 0,
+              "price": 125
+            },
+            {
+              "ratio": 0.236,
+              "price": 120.988
+            },
+            {
+              "ratio": 0.382,
+              "price": 118.506
+            },
+            {
+              "ratio": 0.5,
+              "price": 116.5
+            },
+            {
+              "ratio": 0.618,
+              "price": 114.494
+            },
+            {
+              "ratio": 0.764,
+              "price": 112.012
+            },
+            {
+              "ratio": 1,
+              "price": 108
+            }
+          ],
+          "pointRatio": 0.5882352941176471
+        },
+        {
+          "low": 71,
+          "high": 100,
+          "point": 68,
+          "levels": [
+            {
+              "ratio": 0,
+              "price": 100
+            },
+            {
+              "ratio": 0.236,
+              "price": 93.156
+            },
+            {
+              "ratio": 0.382,
+              "price": 88.922
+            },
+            {
+              "ratio": 0.5,
+              "price": 85.5
+            },
+            {
+              "ratio": 0.618,
+              "price": 82.078
+            },
+            {
+              "ratio": 0.764,
+              "price": 77.844
+            },
+            {
+              "ratio": 1,
+              "price": 71
+            }
+          ],
+          "pointRatio": 1.103448275862069
+        }
+      ]
+    },
+    {
+      "id": "lectura-de-confluencias",
+      "src": "/course-reconstruction/module-03/editorial/lectura-de-confluencias.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 84977,
+      "sha256": "d1814a86d4752d9d5acb0b436b15e900d5b95ebf69682d75f0a9a55659e5e8d4",
+      "description": "Contexto, ubicación, secuencia, condición pendiente y revisión. No presupone absorción institucional ni genera señales de compra.",
+      "sourcePages": [
+        43,
+        44,
+        45,
+        46
+      ]
+    }
+  ]
+}

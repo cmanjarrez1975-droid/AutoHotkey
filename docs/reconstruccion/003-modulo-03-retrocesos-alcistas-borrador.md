@@ -1,6 +1,6 @@
 # Módulo 3. Principales retrocesos en Tendencias Alcistas
 
-**Borrador editorial parcial, no integrado en la aplicación.** Los dos adjuntos recibidos son idénticos: se desarrolla una sola lección, sin duplicarla ni inventar una segunda parte. El texto termina cortado. Los bloques de estudio y el laboratorio de este documento son divisiones editoriales, no nuevas clases atribuidas al profesor.
+**Borrador editorial parcial.** Su adaptación visual ya puede estudiarse en `/curso/modulo-3`: doce originales comentados, cinco diagramas nuevos y cinco ejercicios. Véase el [registro de integración visual](003-modulo-03-integracion-visual.md). Los dos adjuntos recibidos son idénticos: se desarrolla una sola lección, sin duplicarla ni inventar una segunda parte. El texto termina cortado. Los bloques de estudio y el laboratorio de este documento son divisiones editoriales, no nuevas clases atribuidas al profesor.
 
 Fuente principal: [transcripción 004](fuentes/004-modulo-03-retrocesos-original.txt); [segundo adjunto idéntico, conservado](fuentes/005-modulo-03-retrocesos-duplicado-original.txt). Complemento visual: [manual original](../../public/course-originals/01-APRENDE_NUEVAS_ESTRATEGIAS_TRADING-1-.pdf), páginas 37–46. Las dudas y correcciones están en [trazabilidad](003-modulo-03-trazabilidad.md).
 

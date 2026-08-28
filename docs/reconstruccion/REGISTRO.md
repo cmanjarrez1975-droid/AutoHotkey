@@ -1,6 +1,6 @@
 # Reconstrucción del curso desde las nuevas entregas
 
-Estado: recepción y preparación editorial, con **integración visual local del módulo 2** en `/curso/modulo-2`. Todavía no sustituye el catálogo completo ni migra el progreso de la ruta actual. La publicación alojada sigue pendiente.
+Estado: recepción y preparación editorial, con **integración visual local de los módulos 2 y 3** en `/curso/modulo-2` y `/curso/modulo-3`. Todavía no sustituye el catálogo completo ni migra el progreso de la ruta actual. La publicación alojada sigue pendiente.
 
 ## Acuerdo de trabajo
 
@@ -38,6 +38,7 @@ La correspondencia provisional del recorrido restante es: 4. Movimientos tendenc
 | 004 | «Modulo 3 Principales retrocesos en Tendencias alcistas»; primer adjunto | [Original](fuentes/004-modulo-03-retrocesos-original.txt) | Archivado; [borrador](003-modulo-03-retrocesos-alcistas-borrador.md); final cortado |
 | 005 | Mismo módulo 3; segundo adjunto | [Duplicado original conservado](fuentes/005-modulo-03-retrocesos-duplicado-original.txt) | Idéntico byte por byte a 004; no se cuenta como parte 2 ni como otra clase; [trazabilidad](003-modulo-03-trazabilidad.md) |
 | IMG-M02 | Doce imágenes para integrar en el módulo 2 | [Inventario y revisión visual](002-modulo-02-integracion-visual.md) | Originales preservados; 5 diagramas editoriales nuevos y vista de estudio local |
+| IMG-M03 | Doce imágenes para integrar en el módulo 3 | [Inventario y revisión visual](003-modulo-03-integracion-visual.md) | Originales preservados; 5 diagramas nuevos, 5 ejercicios y vista local; fuente todavía parcial |
 
 Los ID 001–005 identifican **archivos recibidos**, no IDs de lecciones de la aplicación ni versiones del historial. Las entregas 002 y 003 pertenecen al mismo módulo 2. Las entregas 004 y 005 contienen el mismo texto del módulo 3: se conservan ambos adjuntos, pero el contenido solo se desarrolla una vez.
 
@@ -102,3 +103,9 @@ Validación de esta recepción: 28 enlaces locales de la documentación de recon
 Solicitud explícita: integrar las doce imágenes aportadas junto con diagramas complementarios. Base inicial `66d5451`, árbol limpio y 56 pruebas existentes aprobadas. Se añade una vista local `/curso/modulo-2` con acceso desde la ruta principal; no se cambian IDs, prerrequisitos, evaluaciones, progreso ni los módulos pendientes de reconstrucción.
 
 Las 12 imágenes se conservan byte por byte en `public/course-reconstruction/module-02/originals`, con dimensiones, tamaños y SHA-256 en su manifiesto. Las 5 nuevas láminas se generan desde coordenadas esquemáticas con el mismo entorno gráfico local usado para los medios existentes; no editan ni sustituyen los archivos aportados. [Detalle de integración, notas y comprobaciones](002-modulo-02-integracion-visual.md).
+
+### Integración visual del módulo 3 — 2026-08-28
+
+Base inicial `ad7091d`, árbol limpio y 61 pruebas aprobadas. Se conservaron doce PNG originales (1.668.877 bytes) y se añadieron cinco láminas editoriales, siete bloques de lectura y cinco ejercicios en `/curso/modulo-3`. Accesos desde la portada y el módulo 2. No se cambian IDs, evaluaciones, progreso ni los módulos pendientes.
+
+Se aclararon especialmente la confusión W/V, el POC sin datos de volumen y las flechas de Fibonacci. Manifiestos, fuentes, cálculos y verificaciones en el [registro visual](003-modulo-03-integracion-visual.md). La suite final tiene 67 pruebas aprobadas; la transcripción continúa parcial y la publicación alojada sigue pendiente.

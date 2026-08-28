@@ -1,6 +1,6 @@
 # Trazabilidad: módulo 3. Principales retrocesos en Tendencias Alcistas
 
-Fecha: 2026-08-28. Estado: recepción parcial y preparación editorial. [Borrador](003-modulo-03-retrocesos-alcistas-borrador.md). No se altera el catálogo de la aplicación ni el progreso de los alumnos.
+Fecha: 2026-08-28. Estado: recepción parcial con integración visual local en `/curso/modulo-3`. [Borrador](003-modulo-03-retrocesos-alcistas-borrador.md). No se altera el catálogo de la aplicación ni el progreso de los alumnos.
 
 ## Originales y duplicación
 
@@ -15,7 +15,7 @@ Se conservan dos archivos recibidos, pero **una sola unidad de contenido fuente*
 
 [Manual original](../../public/course-originals/01-APRENDE_NUEVAS_ESTRATEGIAS_TRADING-1-.pdf). Revisión visual de las páginas completas 37–46: tipos, ubicaciones, combinaciones, advertencia tras verticalidad, salida de rangos, patrones de velas, ubicaciones de esos patrones y dos formas de corrección profunda. Para esas páginas, el número impreso coincide con la posición del PDF.
 
-La extracción textual de la página 47 identifica «Inicio Segunda Parte Retrocesos Tendencias Alcistas». Ese título no permite dar por recibida la segunda parte ni reemplazarla con el adjunto duplicado. No se reconstruyen las prácticas posteriores sin su nueva entrega.
+La extracción textual de la página 47 identifica «Inicio Segunda Parte Retrocesos Tendencias Alcistas». Ese título no permite dar por recibida la segunda parte ni reemplazarla con el adjunto duplicado. Las dos láminas de prácticas recibidas después se integran como imágenes comentadas, sin atribuirles una transcripción ni un video no recibidos.
 
 ## Mapa del texto recibido
 
@@ -61,7 +61,7 @@ El ejercicio Fibonacci usa la definición explícita de retroceso `(máximo − 
 
 No se añadieron fuentes externas ni se presentaron resultados de backtesting. Si se complementa posteriormente la microestructura, el volumen o la validez estadística, ese contenido deberá verificarse por separado y quedar identificado como complemento, sin atribuirlo al profesor.
 
-## Recursos visuales para la futura integración
+## Plan visual de la recepción inicial
 
 | Tema | Referencia comprobada | Preparación pendiente |
 | --- | --- | --- |
@@ -72,8 +72,8 @@ No se añadieron fuentes externas ni se presentaron resultados de backtesting. S
 | Grupos compradores | Pp. 43–44 | Anotar mínimos, cuerpos y referencias de recuperación; no inventar nombres oficiales ni volumen. |
 | Corrección profunda | Pp. 45–46 | Mostrar por separado estructura, anclajes y zonas coincidentes; no confundir retroceso con proyección. |
 
-Estas son indicaciones de preparación, no imágenes nuevas ni videos ya producidos. Los medios anteriores se conservan sin reasignarlos automáticamente.
+Esta tabla conserva el plan de la recepción inicial. La entrega posterior incorporó doce imágenes y cinco láminas nuevas: [inventario y revisión](003-modulo-03-integracion-visual.md). No se produjeron videos ni una reproducción progresiva de velas; los dibujos son estáticos y sus posibles desenlaces se identifican como hipotéticos.
 
 ## Pendientes para publicar
 
-Recibir la continuación no duplicada y las prácticas disponibles; completar las referencias operativas que afecten evaluaciones; comprobar el contenido definitivo y su correspondencia visual; después integrar la nueva ruta conservando datos y progreso. Esta recepción no implica una compilación ni una prueba de interfaz del nuevo módulo.
+La integración visual local ya está compilada y comprobada en servidor. Sigue pendiente recibir la continuación no duplicada y los videos de prácticas, resolver referencias operativas antes de construir evaluaciones y completar la migración del catálogo. El progreso existente se conserva. La publicación alojada continúa bloqueada por el problema de acceso documentado.
