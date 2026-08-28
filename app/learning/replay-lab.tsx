@@ -1,6 +1,6 @@
 'use client';
 import { useEffect, useRef, useState } from 'react';
-import { learningRequest } from './workspace';
+import { learningRequest } from './request';
 type PublicCase={id:string;title:string;context:string;rule:string;closes:number[];reasons:string[];direction?:string;cost:number;minimumRr:number};
 type Result={score:number;decisionCorrect:boolean;reasonCorrect:boolean;planValid:boolean;rr:number;size:number;future:number[];explanation:string;outcome:string;expectedDecision:string};
 function PriceChart({prices,cut}:{prices:number[];cut:number}){

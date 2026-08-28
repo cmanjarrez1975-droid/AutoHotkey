@@ -6,17 +6,13 @@ import type { PublicLesson } from './catalog';
 import { ReplayLab } from './replay-lab';
 import { SourceLibrary } from './source-library';
 import { PracticeJournal } from './practice-journal';
+import { learningRequest } from './request';
 import './workspace.css';
 
 export type StudyRecord = { lesson_id: string; course_id: string; draft: string; revision: number; studied: number; practiced: number; check_passed: number; study_seconds: number };
 type Attempt = { case_id: string; result: string; response: string; created_at: string };
 type LearningState = { records: StudyRecord[]; attempts: Array<{ lesson_id: string; score: number }>; caseAttempts: Attempt[]; local?: boolean };
-export async function learningRequest(body: Record<string, unknown>) {
-  const response = await fetch('/api/learning', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ ...body, version: CONTENT_VERSION }) });
-  const payload = await response.json() as { error?: string; [key: string]: unknown };
-  if (!response.ok) throw new Error(payload.error ?? 'No se pudo completar la solicitud.');
-  return payload;
-}
+
 
 export default function LearningWorkspace({ lessons, caseList }: { lessons: PublicLesson[]; caseList: Array<{ id: string; title: string; lessonId: string }> }) {
   const [view, setView] = useState('ruta');

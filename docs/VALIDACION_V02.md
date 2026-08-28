@@ -2,6 +2,8 @@
 
 ## Qué comprueban las pruebas
 
+Resultados locales de cierre: 28 pruebas aprobadas, TypeScript sin errores, compilación correcta y ESLint sin errores (8 advertencias sobre optimización de imágenes). GET `/`, `/api/learning` y `/api/state` respondieron HTTP 200 con la base local inicializada. El prefijo de caso consultado por HTTP no incluyó el futuro. El respaldo de producción coincide con su SHA-256 en el manifiesto original; ese manifiesto no incluye los 16 archivos añadidos después en `fuentes_originales`.
+
 `npm test` construye primero el artefacto que se sirve y después ejecuta las pruebas. `npm run test:unit` reutiliza el último artefacto; no sustituye la validación completa después de modificar código.
 
 - Integridad del catálogo y orden de prerrequisitos; campos educativos explícitos y ausencia de párrafos repetidos.
