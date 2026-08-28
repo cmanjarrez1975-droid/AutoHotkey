@@ -18,7 +18,7 @@ Estado: recepción y preparación editorial, con **integración visual local de 
 | Sección 1 | Introducción | Nueva entrega 001: módulo 1 introductorio |
 | Sección 2 | Módulo 1. Tipos de tendencias alcistas | Nuevo módulo 2 indicado por el usuario; dos partes recibidas |
 | Sección 3 | Módulo 2. Principales retrocesos alcistas | Nuevo módulo 3 indicado por el usuario; una transcripción única recibida en dos adjuntos idénticos; final cortado |
-| Sección 4 | Módulo 3. Principales movimientos tendenciales bajistas | Pendiente |
+| Sección 4 | Módulo 3. Principales movimientos tendenciales bajistas | Nuevo módulo 4 indicado por el usuario; dos partes distintas recibidas y borrador desarrollado |
 | Sección 5 | Módulo 4. Velas póker | Pendiente |
 | Sección 6 | Módulo 5. Order Block. Nuevo | Pendiente |
 | Sección 7 | Módulo 6. Creando rutinas de trabajo | Excluido por solicitud del usuario |
@@ -26,7 +26,7 @@ Estado: recepción y preparación editorial, con **integración visual local de 
 
 No se interpretan los contadores y duraciones de la captura como el detalle completo de cada clase. No se inventan secciones posteriores a las visibles.
 
-La correspondencia provisional del recorrido restante es: 4. Movimientos tendenciales bajistas; 5. Velas póker; 6. Order Block; 7. Velas profesionales. Se confirmará con cada nueva entrega. La exclusión corresponde al **título original «Creando rutinas de trabajo»**, no a cualquier contenido que reciba ahora el número 6.
+El módulo 4, Principales movimientos tendenciales bajistas, queda confirmado por su nueva entrega. La correspondencia provisional restante es: 5. Velas póker; 6. Order Block; 7. Velas profesionales. Se confirmará con cada nueva entrega. La exclusión corresponde al **título original «Creando rutinas de trabajo»**, no a cualquier contenido que reciba ahora el número 6.
 
 ## Entregas recibidas
 
@@ -37,10 +37,12 @@ La correspondencia provisional del recorrido restante es: 4. Movimientos tendenc
 | 003 | Misma entrega del módulo 2; segunda parte | [Original, parte 2](fuentes/003-modulo-02-alcistas-parte-02-original.txt) | Archivado después de la parte 1; [trazabilidad](002-modulo-02-trazabilidad.md) |
 | 004 | «Modulo 3 Principales retrocesos en Tendencias alcistas»; primer adjunto | [Original](fuentes/004-modulo-03-retrocesos-original.txt) | Archivado; [borrador](003-modulo-03-retrocesos-alcistas-borrador.md); final cortado |
 | 005 | Mismo módulo 3; segundo adjunto | [Duplicado original conservado](fuentes/005-modulo-03-retrocesos-duplicado-original.txt) | Idéntico byte por byte a 004; no se cuenta como parte 2 ni como otra clase; [trazabilidad](003-modulo-03-trazabilidad.md) |
+| 006 | «Modulo 4 Principales movimientos tendenciales bajistas»; primera parte | [Original, parte 1](fuentes/006-modulo-04-bajistas-parte-01-original.txt) | Teoría archivada; [borrador conjunto](004-modulo-04-bajistas-borrador.md) |
+| 007 | Misma entrega del módulo 4; segunda parte | [Original, parte 2](fuentes/007-modulo-04-bajistas-parte-02-original.txt) | Aplicación práctica distinta de 006; [trazabilidad](004-modulo-04-trazabilidad.md); video de prácticas adicional pendiente |
 | IMG-M02 | Doce imágenes para integrar en el módulo 2 | [Inventario y revisión visual](002-modulo-02-integracion-visual.md) | Originales preservados; 5 diagramas editoriales nuevos y vista de estudio local |
 | IMG-M03 | Doce imágenes para integrar en el módulo 3 | [Inventario y revisión visual](003-modulo-03-integracion-visual.md) | Originales preservados; 5 diagramas nuevos, 5 ejercicios y vista local; fuente todavía parcial |
 
-Los ID 001–005 identifican **archivos recibidos**, no IDs de lecciones de la aplicación ni versiones del historial. Las entregas 002 y 003 pertenecen al mismo módulo 2. Las entregas 004 y 005 contienen el mismo texto del módulo 3: se conservan ambos adjuntos, pero el contenido solo se desarrolla una vez.
+Los ID 001–007 identifican **archivos recibidos**, no IDs de lecciones de la aplicación ni versiones del historial. Las entregas 002 y 003 pertenecen al mismo módulo 2. Las entregas 004 y 005 contienen el mismo texto del módulo 3: se conservan ambos adjuntos, pero el contenido solo se desarrolla una vez. Las entregas 006 y 007 son partes distintas del módulo 4 y se desarrollan en ese orden.
 
 ## Pendientes que no se deben resolver por suposición
 
@@ -49,6 +51,7 @@ Los ID 001–005 identifican **archivos recibidos**, no IDs de lecciones de la a
 3. El módulo 2 menciona un video de prácticas separado que no está entre los dos adjuntos. No declarar completa la colección audiovisual ni deducir las cuatro clases del contador de la imagen.
 4. Conservar como pendientes los términos y reglas operativas que no resuelvan las transcripciones y los diagramas originales; consultar la trazabilidad del módulo 2.
 5. El módulo 3 termina en «el marco de tiempo que sea, porque esto funciona en todos los marcos de tiempo y os va a dar muchísima». Falta su continuación; el segundo adjunto repite ese mismo corte. Las prácticas anunciadas al inicio no están desarrolladas en esta transcripción. No declarar completo el módulo ni inventar una segunda parte.
+6. El módulo 4 tiene dos transcripciones distintas con despedida, pero la segunda remite a un video de prácticas adicional que no se ha recibido. No deducir duraciones, número total de clases, reglas de órdenes o resultados desde referencias como “aquí”. Su borrador todavía no está integrado en la aplicación.
 
 ## Uso del contenido anterior
 
@@ -109,3 +112,18 @@ Las 12 imágenes se conservan byte por byte en `public/course-reconstruction/mod
 Base inicial `ad7091d`, árbol limpio y 61 pruebas aprobadas. Se conservaron doce PNG originales (1.668.877 bytes) y se añadieron cinco láminas editoriales, siete bloques de lectura y cinco ejercicios en `/curso/modulo-3`. Accesos desde la portada y el módulo 2. No se cambian IDs, evaluaciones, progreso ni los módulos pendientes.
 
 Se aclararon especialmente la confusión W/V, el POC sin datos de volumen y las flechas de Fibonacci. Manifiestos, fuentes, cálculos y verificaciones en el [registro visual](003-modulo-03-integracion-visual.md). La suite final tiene 67 pruebas aprobadas; la transcripción continúa parcial y la publicación alojada sigue pendiente.
+
+### Recepción del módulo 4 — 2026-08-28
+
+Base al iniciar: `ded3c13`, árbol limpio. Se conserva la aplicación 0.2.3 sin cambios funcionales. La entrega consta de dos partes distintas: teoría y aplicación práctica. Ambas tienen despedida; la segunda remite a otro video de prácticas que no se ha recibido.
+
+| Entrega | Tamaño | Líneas no vacías | SHA-256 |
+| --- | --- | --- | --- |
+| 006 | 37.124 bytes | 492 | `9B5E3BEAAFF51B4DF6602AEBC23E7C32E8FA054E393454E80796752826E3791C` |
+| 007 | 52.371 bytes | 795 | `227FCFA8D0C183CD33DF2DC4DE97A54A218C75ACA07CC9370DB0C802318DBD62` |
+
+Copias verificadas byte por byte contra los adjuntos. El [borrador](004-modulo-04-bajistas-borrador.md) organiza cuatro tendencias, tres retrocesos, lectura de velas, cinco continuaciones, dos agotamientos, dos escalas de Fibonacci y aplicación de los casos. Incluye seis ejercicios editoriales con soluciones. La [trazabilidad](004-modulo-04-trazabilidad.md) identifica las líneas fuente, las ambigüedades y los límites de los ejemplos.
+
+Complemento revisado visualmente: páginas completas 58–69 y 71–74 del manual; la p. 71 es una portada. Se conservan los siete grupos sin nombre de la p. 66 y el 76,4 % de la p. 67. No se calculan POC, stops ni resultados desde dibujos o referencias deícticas.
+
+Validación: 67 pruebas existentes aprobadas antes de la edición; 92 enlaces locales de la documentación con destino válido; cálculos de recuperaciones y proyección comprobados con aritmética decimal; seis ejercicios y seis soluciones verificados. No se recompila, modifica ni publica la aplicación por esta recepción documental, y no se afirma una prueba de interfaz del módulo 4.
