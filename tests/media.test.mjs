@@ -51,6 +51,8 @@ test('capítulos y subtítulos cubren cada escena con tiempos ordenados dentro d
   function seconds(text) { const [h, m, s] = text.split(':').map(Number); return h * 3600 + m * 60 + s; }
   for (const media of Object.values(lessonMedia)) {
     assert.ok(media.chapters.length >= 5);
+    assert.ok(!readAsset(media.captions).includes(13), 'VTT debe conservar LF para hashes portables');
+    assert.ok(!readAsset(media.transcript).includes(13), 'Transcripción debe conservar LF para hashes portables');
     const cues = [...readAsset(media.captions).toString('utf8').matchAll(/(\d\d:\d\d:\d\d\.\d{3}) --> (\d\d:\d\d:\d\d\.\d{3})/g)];
     assert.equal(cues.length, media.chapters.length);
     assert.equal(media.chapters[0].start, 0);

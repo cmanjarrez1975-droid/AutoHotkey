@@ -245,11 +245,11 @@ def produce(row, ffmpeg, ffprobe, stills_only=False):
     duration = float(probe['format']['duration'])
     if abs(duration - elapsed) > .5:
         raise RuntimeError(f'Unexpected concat drift: {row["id"]}: {duration} vs {elapsed}')
-    (output / 'subtitulos.vtt').write_text('\n'.join(vtt), encoding='utf-8')
+    (output / 'subtitulos.vtt').write_text('\n'.join(vtt), encoding='utf-8', newline='\n')
     transcript = f'{row["title"]}\n\nNarración sintética en español. Ejemplo didáctico, no datos de mercado.\n\n'
     transcript += '\n\n'.join(f'{timestamp(ch["start"])} · {ch["title"]}\n{ch["text"]}' for ch in chapters)
     transcript += f'\n\nBase de la clase: {row["source"]}\nAdaptación audiovisual editorial propia.\n'
-    (output / 'transcripcion.txt').write_text(transcript, encoding='utf-8')
+    (output / 'transcripcion.txt').write_text(transcript, encoding='utf-8', newline='\n')
     base = f'/course-media/{row["id"]}'
     media = {'title': row['diagram']['title'], 'video': f'{base}/explicacion.mp4', 'poster': f'{base}/lamina.webp',
              'captions': f'{base}/subtitulos.vtt', 'transcript': f'{base}/transcripcion.txt', 'duration': round(duration, 2),
