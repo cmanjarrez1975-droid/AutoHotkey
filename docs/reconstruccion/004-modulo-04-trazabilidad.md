@@ -1,6 +1,6 @@
 # Trazabilidad del módulo 4. Principales movimientos tendenciales bajistas
 
-Fecha: 2026-08-28. Base inicial: `ded3c13`, árbol limpio. Alcance: archivar y desarrollar las dos transcripciones como [borrador editorial](004-modulo-04-bajistas-borrador.md). No se integra todavía una página del módulo 4 ni se modifica el catálogo, las evaluaciones o el progreso existentes.
+Fecha: 2026-08-28. Base inicial: `ded3c13`, árbol limpio. Alcance: archivar y desarrollar las dos transcripciones como [borrador editorial](004-modulo-04-bajistas-borrador.md). En esa recepción no se integró todavía una página del módulo 4. La entrega posterior añade una [vista con imágenes y ejercicios](004-modulo-04-integracion-visual.md), sin modificar el catálogo, las evaluaciones o el progreso existentes.
 
 ## Fuentes originales
 

@@ -1,6 +1,6 @@
 # Reconstrucción del curso desde las nuevas entregas
 
-Estado: recepción y preparación editorial, con **integración visual local de los módulos 2 y 3** en `/curso/modulo-2` y `/curso/modulo-3`. Todavía no sustituye el catálogo completo ni migra el progreso de la ruta actual. La publicación alojada sigue pendiente.
+Estado: recepción y preparación editorial, con **integración visual local de los módulos 2, 3 y 4** en `/curso/modulo-2`, `/curso/modulo-3` y `/curso/modulo-4`. Todavía no sustituye el catálogo completo ni migra el progreso de la ruta actual. La publicación alojada sigue pendiente.
 
 ## Acuerdo de trabajo
 
@@ -18,7 +18,7 @@ Estado: recepción y preparación editorial, con **integración visual local de 
 | Sección 1 | Introducción | Nueva entrega 001: módulo 1 introductorio |
 | Sección 2 | Módulo 1. Tipos de tendencias alcistas | Nuevo módulo 2 indicado por el usuario; dos partes recibidas |
 | Sección 3 | Módulo 2. Principales retrocesos alcistas | Nuevo módulo 3 indicado por el usuario; una transcripción única recibida en dos adjuntos idénticos; final cortado |
-| Sección 4 | Módulo 3. Principales movimientos tendenciales bajistas | Nuevo módulo 4 indicado por el usuario; dos partes distintas recibidas y borrador desarrollado |
+| Sección 4 | Módulo 3. Principales movimientos tendenciales bajistas | Nuevo módulo 4 indicado por el usuario; dos partes distintas recibidas, desarrollo editorial e integración visual local |
 | Sección 5 | Módulo 4. Velas póker | Pendiente |
 | Sección 6 | Módulo 5. Order Block. Nuevo | Pendiente |
 | Sección 7 | Módulo 6. Creando rutinas de trabajo | Excluido por solicitud del usuario |
@@ -41,6 +41,7 @@ El módulo 4, Principales movimientos tendenciales bajistas, queda confirmado po
 | 007 | Misma entrega del módulo 4; segunda parte | [Original, parte 2](fuentes/007-modulo-04-bajistas-parte-02-original.txt) | Aplicación práctica distinta de 006; [trazabilidad](004-modulo-04-trazabilidad.md); video de prácticas adicional pendiente |
 | IMG-M02 | Doce imágenes para integrar en el módulo 2 | [Inventario y revisión visual](002-modulo-02-integracion-visual.md) | Originales preservados; 5 diagramas editoriales nuevos y vista de estudio local |
 | IMG-M03 | Doce imágenes para integrar en el módulo 3 | [Inventario y revisión visual](003-modulo-03-integracion-visual.md) | Originales preservados; 5 diagramas nuevos, 5 ejercicios y vista local; fuente todavía parcial |
+| IMG-M04 | Trece imágenes para integrar en el módulo 4 | [Inventario y revisión visual](004-modulo-04-integracion-visual.md) | Originales preservados; 6 diagramas nuevos, 6 ejercicios y vista local; video anunciado pendiente |
 
 Los ID 001–007 identifican **archivos recibidos**, no IDs de lecciones de la aplicación ni versiones del historial. Las entregas 002 y 003 pertenecen al mismo módulo 2. Las entregas 004 y 005 contienen el mismo texto del módulo 3: se conservan ambos adjuntos, pero el contenido solo se desarrolla una vez. Las entregas 006 y 007 son partes distintas del módulo 4 y se desarrollan en ese orden.
 
@@ -127,3 +128,9 @@ Copias verificadas byte por byte contra los adjuntos. El [borrador](004-modulo-0
 Complemento revisado visualmente: páginas completas 58–69 y 71–74 del manual; la p. 71 es una portada. Se conservan los siete grupos sin nombre de la p. 66 y el 76,4 % de la p. 67. No se calculan POC, stops ni resultados desde dibujos o referencias deícticas.
 
 Validación: 67 pruebas existentes aprobadas antes de la edición; 92 enlaces locales de la documentación con destino válido; cálculos de recuperaciones y proyección comprobados con aritmética decimal; seis ejercicios y seis soluciones verificados. No se recompila, modifica ni publica la aplicación por esta recepción documental, y no se afirma una prueba de interfaz del módulo 4.
+
+### Integración visual del módulo 4 — 2026-08-28
+
+Base inicial `40d883b`, árbol limpio y 67 pruebas existentes aprobadas. Se conservan trece PNG originales y se añaden seis láminas nuevas, ocho bloques y seis ejercicios guiados en `/curso/modulo-4`. Acceso desde la portada y desde el módulo 3. No se modifican IDs, evaluaciones, progreso, APIs ni base de datos.
+
+Las notas aclaran las cuatro tendencias de la fuente, la geometría de sus cinco continuaciones, los anclajes invertidos de Fibonacci y los límites de afirmaciones sobre volumen o desenlaces obligatorios. Detalle en el [registro visual](004-modulo-04-integracion-visual.md). La publicación alojada y el video de prácticas anunciado siguen pendientes.

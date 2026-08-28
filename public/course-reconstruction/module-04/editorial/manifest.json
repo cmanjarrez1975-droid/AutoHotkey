@@ -1,0 +1,390 @@
+{
+  "module": 4,
+  "kind": "editorial-schematic",
+  "generator": "scripts/render-module-four-diagrams.py",
+  "assets": [
+    {
+      "id": "cuatro-tendencias",
+      "src": "/course-reconstruction/module-04/editorial/cuatro-tendencias.png",
+      "width": 1800,
+      "height": 1550,
+      "bytes": 75942,
+      "sha256": "24d109f7fc8ca6c493b2d1b157adda44538e83eff94fdc51ebc4baa0da7abba6",
+      "description": "Cuatro secuencias del manual según la pausa después de I1 e I2: sencilla/sencilla, sencilla/compleja, compleja/sencilla y compleja/compleja.",
+      "sourcePages": [
+        58,
+        59
+      ],
+      "series": [
+        [
+          10,
+          7,
+          8,
+          4,
+          5,
+          1
+        ],
+        [
+          10,
+          7,
+          8,
+          4,
+          6,
+          4.8,
+          5.8,
+          1
+        ],
+        [
+          10,
+          7,
+          8.5,
+          7.4,
+          8.3,
+          4,
+          5,
+          1
+        ],
+        [
+          10,
+          7,
+          8.5,
+          7.4,
+          8.3,
+          4,
+          6,
+          4.8,
+          5.8,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "tres-retrocesos",
+      "src": "/course-reconstruction/module-04/editorial/tres-retrocesos.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 57500,
+      "sha256": "532173644132bd345d19572c16c04ef98882414a8ac8c673c00294ff5fd988fa",
+      "description": "Tres secuencias completas de velas ficticias con la misma escala. Las velas posteriores sirven para comparar retrospectivamente, no para predecir.",
+      "sourcePages": [
+        60,
+        61
+      ],
+      "ohlc": [
+        [
+          {
+            "open": 10,
+            "high": 10.22,
+            "low": 7.78,
+            "close": 8
+          },
+          {
+            "open": 8,
+            "high": 8.22,
+            "low": 5.78,
+            "close": 6
+          },
+          {
+            "open": 6,
+            "high": 6.22,
+            "low": 3.78,
+            "close": 4
+          },
+          {
+            "open": 4,
+            "high": 5.22,
+            "low": 3.78,
+            "close": 5
+          },
+          {
+            "open": 5,
+            "high": 5.22,
+            "low": 2.78,
+            "close": 3
+          },
+          {
+            "open": 3,
+            "high": 3.22,
+            "low": 1.78,
+            "close": 2
+          }
+        ],
+        [
+          {
+            "open": 10,
+            "high": 10.22,
+            "low": 7.78,
+            "close": 8
+          },
+          {
+            "open": 8,
+            "high": 8.22,
+            "low": 5.78,
+            "close": 6
+          },
+          {
+            "open": 6,
+            "high": 6.22,
+            "low": 3.78,
+            "close": 4
+          },
+          {
+            "open": 4,
+            "high": 5.22,
+            "low": 3.78,
+            "close": 5
+          },
+          {
+            "open": 5,
+            "high": 6.22,
+            "low": 4.78,
+            "close": 6
+          },
+          {
+            "open": 6,
+            "high": 6.22,
+            "low": 3.78,
+            "close": 4
+          },
+          {
+            "open": 4,
+            "high": 4.22,
+            "low": 1.78,
+            "close": 2
+          }
+        ],
+        [
+          {
+            "open": 10,
+            "high": 10.22,
+            "low": 7.78,
+            "close": 8
+          },
+          {
+            "open": 8,
+            "high": 8.22,
+            "low": 5.78,
+            "close": 6
+          },
+          {
+            "open": 6,
+            "high": 6.22,
+            "low": 3.78,
+            "close": 4
+          },
+          {
+            "open": 4,
+            "high": 5.22,
+            "low": 3.78,
+            "close": 5
+          },
+          {
+            "open": 5,
+            "high": 6.72,
+            "low": 4.78,
+            "close": 6.5
+          },
+          {
+            "open": 6.5,
+            "high": 8.22,
+            "low": 6.28,
+            "close": 8
+          },
+          {
+            "open": 8,
+            "high": 8.22,
+            "low": 4.78,
+            "close": 5
+          },
+          {
+            "open": 5,
+            "high": 5.22,
+            "low": 1.78,
+            "close": 2
+          }
+        ]
+      ]
+    },
+    {
+      "id": "retrocesos-tras-rango",
+      "src": "/course-reconstruction/module-04/editorial/retrocesos-tras-rango.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 54339,
+      "sha256": "333277ca48874e472491cc772435972b53af9e5e6a4fd39786cb19ad74b66761",
+      "description": "Dos ubicaciones admitidas por la fuente: pausa por debajo del suelo roto o retorno hasta él. La recuperación del rango exigiría revisar el escenario.",
+      "sourcePages": [
+        58,
+        65
+      ]
+    },
+    {
+      "id": "cinco-continuaciones",
+      "src": "/course-reconstruction/module-04/editorial/cinco-continuaciones.png",
+      "width": 1800,
+      "height": 1300,
+      "bytes": 97120,
+      "sha256": "d9a22a65f370637ed2a60fe8b5e6fab11d9805a3582ff4fdbf9a0a4714a12e13",
+      "description": "Los patrones 3, 4 y 5 se distinguen por expansión, compresión y mínimo intermedio inferior. No se sustituyen por nombres genéricos de figuras.",
+      "sourcePages": [
+        68
+      ],
+      "series": [
+        [
+          10,
+          4,
+          7,
+          5,
+          7,
+          2
+        ],
+        [
+          10,
+          4,
+          7,
+          5,
+          8,
+          2
+        ],
+        [
+          10,
+          4,
+          7,
+          3,
+          8,
+          2
+        ],
+        [
+          10,
+          4,
+          7,
+          5,
+          6,
+          2
+        ],
+        [
+          10,
+          4,
+          7,
+          3,
+          6,
+          1
+        ]
+      ]
+    },
+    {
+      "id": "agotamiento-y-referencia",
+      "src": "/course-reconstruction/module-04/editorial/agotamiento-y-referencia.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 60567,
+      "sha256": "4dd69b925986d77fc8b8e707e304673c6941b3b69124ef9f5a9a0bfb4a81a108",
+      "description": "Comparación del mismo comienzo: el estado A termina en 93 y no supera 94; el B termina en 95 y sí lo supera. Son escenarios separados, no pasos obligatorios.",
+      "sourcePages": [
+        69
+      ],
+      "states": [
+        [
+          95,
+          90,
+          94,
+          87,
+          94,
+          89,
+          93
+        ],
+        [
+          95,
+          90,
+          94,
+          87,
+          94,
+          89,
+          95
+        ]
+      ]
+    },
+    {
+      "id": "fibonacci-verificado",
+      "src": "/course-reconstruction/module-04/editorial/fibonacci-verificado.png",
+      "width": 1800,
+      "height": 1040,
+      "bytes": 76639,
+      "sha256": "769406db60aff545a406c3157968c20d8d405465cae19f695a82f6e40d82bfc6",
+      "description": "Con extremos 9 y 4, el 38,2 % de rebote es 5,91; con los rótulos invertidos es 7,09. Declara siempre el origen de la escala.",
+      "sourcePages": [],
+      "calculations": [
+        {
+          "low": 4,
+          "high": 9,
+          "ascending": true,
+          "levels": [
+            {
+              "ratio": 0,
+              "price": 4
+            },
+            {
+              "ratio": 0.236,
+              "price": 5.18
+            },
+            {
+              "ratio": 0.382,
+              "price": 5.91
+            },
+            {
+              "ratio": 0.5,
+              "price": 6.5
+            },
+            {
+              "ratio": 0.618,
+              "price": 7.09
+            },
+            {
+              "ratio": 0.764,
+              "price": 7.82
+            },
+            {
+              "ratio": 1,
+              "price": 9
+            }
+          ]
+        },
+        {
+          "low": 4,
+          "high": 9,
+          "ascending": false,
+          "levels": [
+            {
+              "ratio": 0,
+              "price": 9
+            },
+            {
+              "ratio": 0.236,
+              "price": 7.82
+            },
+            {
+              "ratio": 0.382,
+              "price": 7.09
+            },
+            {
+              "ratio": 0.5,
+              "price": 6.5
+            },
+            {
+              "ratio": 0.618,
+              "price": 5.91
+            },
+            {
+              "ratio": 0.764,
+              "price": 5.18
+            },
+            {
+              "ratio": 1,
+              "price": 4
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

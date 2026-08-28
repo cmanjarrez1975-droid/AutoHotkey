@@ -1,6 +1,6 @@
 # Módulo 4. Principales movimientos tendenciales bajistas
 
-**Borrador editorial de las dos partes recibidas. Todavía no integrado en la aplicación.** Se conservan la [parte 1 original](fuentes/006-modulo-04-bajistas-parte-01-original.txt) y la [parte 2 original](fuentes/007-modulo-04-bajistas-parte-02-original.txt). Son textos distintos, ambos con despedida; eso no acredita que se hayan recibido todos los videos del módulo. La segunda parte remite a otro video de prácticas.
+**Desarrollo editorial de las dos partes recibidas.** Una adaptación con imágenes y ejercicios está disponible en la vista local `/curso/modulo-4`; consulta la [integración visual](004-modulo-04-integracion-visual.md). Este documento conserva la explicación extensa de la recepción inicial. Se conservan la [parte 1 original](fuentes/006-modulo-04-bajistas-parte-01-original.txt) y la [parte 2 original](fuentes/007-modulo-04-bajistas-parte-02-original.txt). Son textos distintos, ambos con despedida; eso no acredita que se hayan recibido todos los videos del módulo. La segunda parte remite a otro video de prácticas.
 
 Complemento principal: [manual original](../../public/course-originals/01-APRENDE_NUEVAS_ESTRATEGIAS_TRADING-1-.pdf), páginas 58–69 y 72–74, revisadas visualmente. Las correcciones y dudas están en la [trazabilidad](004-modulo-04-trazabilidad.md). Los bloques siguientes organizan el aprendizaje; no son clases adicionales atribuidas al profesor.
 

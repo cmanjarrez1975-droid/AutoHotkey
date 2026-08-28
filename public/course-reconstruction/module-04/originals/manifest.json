@@ -1,0 +1,110 @@
+{
+  "module": 4,
+  "received": "2026-08-28",
+  "assets": [
+    {
+      "id": "tipos-de-tendencias-bajistas",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-tipos-de-tendencias-bajistas.png",
+      "width": 2393,
+      "height": 885,
+      "bytes": 181487,
+      "sha256": "061daf36ab557fd7f8e7c24a8b1097cff33a8867b859d7f8d296ed07563a3fa1"
+    },
+    {
+      "id": "tipos-de-retrocesos-bajistas",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-tipos-de-retrocesos-bajistas.png",
+      "width": 2310,
+      "height": 885,
+      "bytes": 100125,
+      "sha256": "5e06d65df562bb0b87ccada6bf07a8fcc4a2d96c478f14521442ef4695e77421"
+    },
+    {
+      "id": "retrocesos-despues-de-rangos",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-retrocesos-despues-de-rangos.png",
+      "width": 1734,
+      "height": 876,
+      "bytes": 119473,
+      "sha256": "63590d06a11a537f36e439d360c5590ad80d0e6cf9913ef2df26a9734f929f00"
+    },
+    {
+      "id": "patrones-velas-vendedores",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-patrones-velas-vendedores.png",
+      "width": 2370,
+      "height": 738,
+      "bytes": 118543,
+      "sha256": "f94eb121e7722ca618ede51d57af6ef357754c7d4ae079850daadd5f7634dccb"
+    },
+    {
+      "id": "mapa-confluencia-vendedora",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-mapa-confluencia-vendedora.png",
+      "width": 1473,
+      "height": 1022,
+      "bytes": 195194,
+      "sha256": "576f15566736442b2f37013f3b690a3110568264a0128336f67192f274325f1a"
+    },
+    {
+      "id": "patrones-continuacion-bajistas",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-patrones-continuacion-bajistas.png",
+      "width": 2691,
+      "height": 738,
+      "bytes": 153613,
+      "sha256": "c6ea26ee46135d0c077a8b83d33ebff9b38788c1d93e3137de82532e234ff1a1"
+    },
+    {
+      "id": "patron-continuacion-3-detalle",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-patron-continuacion-3-detalle.png",
+      "width": 2076,
+      "height": 885,
+      "bytes": 154574,
+      "sha256": "77eb9329f42333fdeb7998f8b025c571c4621931e6bd95cda8ea8d65b06d076e"
+    },
+    {
+      "id": "patron-continuacion-5-detalle",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-patron-continuacion-5-detalle.png",
+      "width": 2076,
+      "height": 885,
+      "bytes": 152298,
+      "sha256": "6c57b7097f7ade057c11e675bc72fc2e6a4da4ba774fdb2260d474bced56faa4"
+    },
+    {
+      "id": "agotamiento-bajista-giro",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-agotamiento-bajista-giro.png",
+      "width": 1431,
+      "height": 876,
+      "bytes": 140591,
+      "sha256": "150556994a2d3f027484974569cf6a92c16660e9cf8210012cec06956b770eb4"
+    },
+    {
+      "id": "ubicaciones-retrocesos-tendencia-1",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-ubicaciones-retrocesos-tendencia-1.png",
+      "width": 2376,
+      "height": 1032,
+      "bytes": 191880,
+      "sha256": "a354676c464f901a83c28674e669752af3bb76f2e6d1371545d90b6107d3cf27"
+    },
+    {
+      "id": "practica-1-analisis",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-practica-1-analisis.png",
+      "width": 1762,
+      "height": 1026,
+      "bytes": 124601,
+      "sha256": "e05edd56d64ab660237eeeeaf3a12c2306aaee85445a437954efa49119b15eb5"
+    },
+    {
+      "id": "practica-un-dia-complicado",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-practica-un-dia-complicado.png",
+      "width": 1767,
+      "height": 1026,
+      "bytes": 229198,
+      "sha256": "df58e9576a4e149c0adbfde7a36518a1ed228c415b3bacba39ea3597c0c1401a"
+    },
+    {
+      "id": "practica-2-analisis",
+      "src": "/course-reconstruction/module-04/originals/20260828_m3-practica-2-analisis.png",
+      "width": 1776,
+      "height": 1026,
+      "bytes": 122884,
+      "sha256": "25fd962aecfa12d2f6b81f34840cf76fa64ef2c26d018a1d7a70181357345be9"
+    }
+  ]
+}
