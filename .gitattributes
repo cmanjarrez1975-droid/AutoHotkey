@@ -3,3 +3,5 @@ public/course-media/**/subtitulos.vtt text eol=lf
 public/course-media/**/transcripcion.txt text eol=lf
 public/course-media/**/*.mp4 binary
 public/course-media/**/*.webp binary
+# Preserve newly supplied course transcripts byte for byte, including line endings.
+docs/reconstruccion/fuentes/*.txt binary
