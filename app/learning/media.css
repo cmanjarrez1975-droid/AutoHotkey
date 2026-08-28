@@ -1,0 +1,15 @@
+.a2-media { margin: 30px 0; padding: 24px; border: 1px solid #385069; border-radius: 14px; background: #101f30; }
+.a2-media video { display: block; width: 100%; height: auto; aspect-ratio: 16 / 9; border-radius: 10px; background: #09111e; margin: 20px 0 12px; }
+.a2-media .a2-media-description { font-size: 12px; line-height: 1.7; }
+.a2-media-chapters ol { list-style: none; margin: 18px 0; padding: 0; display: grid; gap: 7px; }
+.academy-v2 .a2-media-chapters button { width: 100%; display: flex; align-items: baseline; gap: 12px; font-size: 13px; }
+.a2-media-chapters button span { min-width: 40px; font-variant-numeric: tabular-nums; color: #83decc; }
+.a2-media figure { margin: 18px 0; }
+.a2-media img { width: 100%; height: auto; display: block; border-radius: 8px; }
+.a2-media figcaption { margin-top: 10px; font-size: 12px; color: #adbed0; }
+.a2-media-transcript { margin-top: 20px; }
+.a2-media-transcript h3 { font-size: 15px; }
+.a2-media-transcript p { font-size: 14px; }
+.a2-media-downloads { display: flex; flex-wrap: wrap; gap: 12px 20px; margin: 20px 0 14px; font-size: 13px; }
+.a2-media > small { display: block; }
+@media (max-width: 600px) { .a2-media { padding: 18px 12px; } }

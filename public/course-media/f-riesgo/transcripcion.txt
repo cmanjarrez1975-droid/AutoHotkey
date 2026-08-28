@@ -1,0 +1,24 @@
+Órdenes, stop y pérdida planificada
+
+Narración sintética en español. Ejemplo didáctico, no datos de mercado.
+
+00:00:00.000 · Qué vamos a observar
+En esta explicación veremos: Calcula la pérdida antes del tamaño. Calcular tamaño desde una pérdida permitida y reconocer los límites del cálculo. Trabajaremos con un ejemplo didáctico, no con precios de un mercado real.
+
+00:00:18.083 · Paso 1 · Incorporar fricción
+Paso 1. Presupuesto de pérdida: 50.
+
+00:00:24.167 · Paso 2 · Incorporar fricción
+Paso 2. Entrada 100 y stop 98: distancia 2.
+
+00:00:31.417 · Paso 3 · Incorporar fricción
+Paso 3. Costo conservador de ida y vuelta: 0,5 por unidad.
+
+00:00:39.084 · Paso 4 · Incorporar fricción
+Paso 4. Tamaño máximo teórico: 50 dividido entre 2,5 igual a 20 unidades. Ajusta hacia abajo al incremento permitido por el instrumento.
+
+00:00:53.001 · La idea que debes conservar
+La distancia y los costos consumen el mismo presupuesto. Verifica contrato y redondeo antes de simular. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no puedes afirmar. Después continúa con la práctica de la clase.
+
+Base de la clase: Manual módulo 10 pp. 269–277; nivelación editorial sobre órdenes y riesgo, sin recomendación de exposición.
+Adaptación audiovisual editorial propia.

@@ -1,0 +1,21 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.417
+En esta explicación veremos: Si cambia la entrada, recalcula. Convertir una hipótesis en condiciones
+observables y cancelables. Trabajaremos con un ejemplo didáctico, no con precios de un mercado
+real.
+
+00:00:17.417 --> 00:00:26.917
+Paso 1. Planifica entrada 105, stop 99, objetivo 118.
+
+00:00:26.917 --> 00:00:34.167
+Paso 2. El primer precio disponible después de la señal es 112.
+
+00:00:34.167 --> 00:00:46.500
+Paso 3. El nuevo riesgo es 13 y el recorrido 6. Debes volver a evaluar; no mantengas el ratio calculado
+en 105.
+
+00:00:46.500 --> 00:01:08.250
+La entrada disponible deja seis de recorrido y trece de riesgo. El ratio calculado en ciento cinco ya no
+describe esta operación. Pausa el video y explica con tus palabras qué dato observas y qué conclusión
+todavía no puedes afirmar. Después continúa con la práctica de la clase.

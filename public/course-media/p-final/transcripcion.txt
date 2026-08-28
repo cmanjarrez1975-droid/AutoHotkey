@@ -1,0 +1,21 @@
+Defender un método, sus límites y sus resultados
+
+Narración sintética en español. Ejemplo didáctico, no datos de mercado.
+
+00:00:00.000 · Qué vamos a observar
+En esta explicación veremos: Una entrega que otra persona pueda revisar. Entregar una explicación reproducible sin confundir estudio con acreditación financiera. Trabajaremos con un ejemplo didáctico, no con precios de un mercado real.
+
+00:00:19.000 · Paso 1 · Entrega sobre W2 conservadora
+Paso 1. Define soporte, tolerancia, cierre de base e invalidación antes de revisar casos.
+
+00:00:28.583 · Paso 2 · Entrega sobre W2 conservadora
+Paso 2. Incluye doble u dos válidas, candidatas sin confirmar y señales descartadas por costo.
+
+00:00:38.000 · Paso 3 · Entrega sobre W2 conservadora
+Paso 3. Presenta resultados de desarrollo separados de validación y explica al menos un error propio.
+
+00:00:47.250 · La idea que debes conservar
+Defiende el proceso y sus límites. Una conclusión honesta puede ser que todavía no hay evidencia suficiente. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no puedes afirmar. Después continúa con la práctica de la clase.
+
+Base de la clase: Integración editorial de las transcripciones y la matriz de estrategias. No representa certificación del profesor.
+Adaptación audiovisual editorial propia.

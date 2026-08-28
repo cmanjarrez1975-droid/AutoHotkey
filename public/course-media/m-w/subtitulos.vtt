@@ -1,0 +1,21 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.583
+En esta explicación veremos: doble u dos: recuperar el mínimo no basta. Clasificar la variante y
+separar formación de confirmación. Trabajaremos con un ejemplo didáctico, no con precios de un
+mercado real.
+
+00:00:17.583 --> 00:00:27.167
+Paso 1. Primer mínimo 100, base 104, segundo mínimo 99,4.
+
+00:00:27.167 --> 00:00:35.667
+Paso 2. Recuperar 100 muestra rechazo del barrido, pero aún falta 104.
+
+00:00:35.667 --> 00:00:49.167
+Paso 3. Cierre 104,3: se cumple la confirmación conservadora. La invalidación se vincula al extremo
+99,4.
+
+00:00:49.167 --> 00:01:09.584
+La recuperación de cien y la confirmación de la base son eventos diferentes. Escribe cuál exige tu
+regla. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no
+puedes afirmar. Después continúa con la práctica de la clase.

@@ -1,0 +1,21 @@
+Retroceso medido: anclajes antes que porcentajes
+
+Narración sintética en español. Ejemplo didáctico, no datos de mercado.
+
+00:00:00.000 · Qué vamos a observar
+En esta explicación veremos: Fija los anclajes antes de calcular. Calcular un nivel y diferenciar medición de señal. Trabajaremos con un ejemplo didáctico, no con precios de un mercado real.
+
+00:00:16.167 · Paso 1 · Medición y confirmación separadas
+Paso 1. Impulso 200–240; retroceso de 61,8 por ciento: 240 menos 0,618 por 40 igual a 215,28.
+
+00:00:32.667 · Paso 2 · Medición y confirmación separadas
+Paso 2. El precio llega a 215,28 mientras sigue dejando máximos decrecientes.
+
+00:00:42.084 · Paso 3 · Medición y confirmación separadas
+Paso 3. El nivel no activa compra: identifica qué máximo menor tendría que recuperar.
+
+00:00:50.834 · La idea que debes conservar
+El porcentaje localiza un nivel. No confirma una compra: aún necesitas el evento que cambie la lectura. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no puedes afirmar. Después continúa con la práctica de la clase.
+
+Base de la clase: Manual módulo 2 pp. 35–55; Guía W p. 1; discrepancia 23/230 documentada en biblioteca.
+Adaptación audiovisual editorial propia.

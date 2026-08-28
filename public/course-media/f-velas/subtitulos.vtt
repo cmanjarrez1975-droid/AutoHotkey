@@ -1,0 +1,23 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:19.500
+En esta explicación veremos: La misma vela cambia mientras se forma. Reconstruir apertura, máximo,
+mínimo y cierre, distinguiendo vela activa y cerrada. Trabajaremos con un ejemplo didáctico, no con
+precios de un mercado real.
+
+00:00:19.500 --> 00:00:29.333
+Paso 1. Minuto 5: apertura 100 y último precio 96; el cuerpo parece bajista.
+
+00:00:29.333 --> 00:00:39.000
+Paso 2. Minuto 12: último precio 102; parte del cuerpo anterior se convirtió en mecha.
+
+00:00:39.000 --> 00:00:48.750
+Paso 3. Minuto 15: cierre 101. Solo entonces conoces su anatomía final.
+
+00:00:48.750 --> 00:00:57.334
+Paso 4. Si tu regla exige cierre por encima de 102, la señal no ocurrió.
+
+00:00:57.334 --> 00:01:16.417
+El último precio es provisional. Solo en el minuto quince existe cierre definitivo. Pausa el video y
+explica con tus palabras qué dato observas y qué conclusión todavía no puedes afirmar. Después
+continúa con la práctica de la clase.

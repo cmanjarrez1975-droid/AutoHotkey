@@ -1,0 +1,21 @@
+Un setup completo y una salida de no operación
+
+Narración sintética en español. Ejemplo didáctico, no datos de mercado.
+
+00:00:00.000 · Qué vamos a observar
+En esta explicación veremos: Si cambia la entrada, recalcula. Convertir una hipótesis en condiciones observables y cancelables. Trabajaremos con un ejemplo didáctico, no con precios de un mercado real.
+
+00:00:17.417 · Paso 1 · La oportunidad que llega tarde
+Paso 1. Planifica entrada 105, stop 99, objetivo 118.
+
+00:00:26.917 · Paso 2 · La oportunidad que llega tarde
+Paso 2. El primer precio disponible después de la señal es 112.
+
+00:00:34.167 · Paso 3 · La oportunidad que llega tarde
+Paso 3. El nuevo riesgo es 13 y el recorrido 6. Debes volver a evaluar; no mantengas el ratio calculado en 105.
+
+00:00:46.500 · La idea que debes conservar
+La entrada disponible deja seis de recorrido y trece de riesgo. El ratio calculado en ciento cinco ya no describe esta operación. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no puedes afirmar. Después continúa con la práctica de la clase.
+
+Base de la clase: Transcripción 03, «Creando rutinas de trabajo»; Blueprint p. 2; elaboración editorial del checklist.
+Adaptación audiovisual editorial propia.

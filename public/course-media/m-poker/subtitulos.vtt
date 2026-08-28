@@ -1,0 +1,21 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.083
+En esta explicación veremos: Reconocer la vela no basta para operar. Definir una confirmación sin
+atribuir intención por el tamaño. Trabajaremos con un ejemplo didáctico, no con precios de un
+mercado real.
+
+00:00:17.083 --> 00:00:26.917
+Paso 1. Tras rechazo en 100, una vela abre 102 y cierra 106 superando base 105.
+
+00:00:26.917 --> 00:00:35.250
+Paso 2. Una entrada en 106 con stop 99 arriesga 7 por unidad.
+
+00:00:35.250 --> 00:00:47.667
+Paso 3. Si la resistencia está en 110, el ratio bruto es 4 dividido entre 7; una señal reconocible puede
+no cumplir el plan.
+
+00:00:47.667 --> 00:01:08.334
+La señal puede ser reconocible y el plan insuficiente. No acerques el stop solo para dibujar un ratio
+mayor. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no
+puedes afirmar. Después continúa con la práctica de la clase.

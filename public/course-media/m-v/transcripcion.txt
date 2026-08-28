@@ -1,0 +1,21 @@
+Giro en V y entradas durante la vela activa
+
+Narración sintética en español. Ejemplo didáctico, no datos de mercado.
+
+00:00:00.000 · Qué vamos a observar
+En esta explicación veremos: El cierre no reconstruye el camino. Distinguir una recuperación rápida de una W y comparar reglas A/B/C. Trabajaremos con un ejemplo didáctico, no con precios de un mercado real.
+
+00:00:17.500 · Paso 1 · Lo que una vela de 15m no demuestra
+Paso 1. La vela final tiene apertura 100, mínimo 95 y cierre 104.
+
+00:00:26.500 · Paso 2 · Lo que una vela de 15m no demuestra
+Paso 2. No sabes si recuperó 102 antes o después de volver a 96.
+
+00:00:34.750 · Paso 3 · Lo que una vela de 15m no demuestra
+Paso 3. Sin datos menores no puedes validar una entrada intravela en 102 ni su stop en 97.
+
+00:00:44.583 · La idea que debes conservar
+Una vela terminada no demuestra cuándo ocurrió cada cruce. Para evaluar una entrada intravela falta detalle temporal. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no puedes afirmar. Después continúa con la práctica de la clase.
+
+Base de la clase: Guía W p. 2, situaciones A/B/C; Blueprint p. 9 y p. 12. Política conservadora editorial.
+Adaptación audiovisual editorial propia.

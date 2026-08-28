@@ -1,0 +1,21 @@
+Donchian: construir el canal antes de operarlo
+
+Narración sintética en español. Ejemplo didáctico, no datos de mercado.
+
+00:00:00.000 · Qué vamos a observar
+En esta explicación veremos: Compara con la banda previa. Calcular bandas con ventana explícita y evitar una ruptura imposible por definición. Trabajaremos con un ejemplo didáctico, no con precios de un mercado real.
+
+00:00:17.750 · Paso 1 · Ruptura y regreso
+Paso 1. Banda superior previa 102; cierre actual 103.
+
+00:00:25.417 · Paso 2 · Ruptura y regreso
+Paso 2. La nueva banda puede ampliarse, pero la referencia de ruptura sigue siendo la previa.
+
+00:00:34.250 · Paso 3 · Ruptura y regreso
+Paso 3. Si el siguiente cierre vuelve a 101, no hubo la permanencia exigida por una regla de dos cierres sobre 102.
+
+00:00:45.250 · La idea que debes conservar
+La primera ruptura no implica permanencia. El regreso a ciento uno incumple dos cierres seguidos sobre ciento dos. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no puedes afirmar. Después continúa con la práctica de la clase.
+
+Base de la clase: Manual módulo 9 pp. 213–268; Protocolo p. 3. Ventana excluyendo vela actual: convención explícita del ejercicio.
+Adaptación audiovisual editorial propia.

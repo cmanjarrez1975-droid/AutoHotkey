@@ -1,5 +1,15 @@
 # Cambios
 
+## 0.2.3 — Láminas y microvideos para las 24 clases
+
+- 24 nuevas láminas y 24 videos de 61–76 segundos con narración sintética en español, capítulos, subtítulos por escena y transcripción.
+- Gráficos y cálculos vinculados a cada ejemplo; no se inventan velas completas cuando faltan precios ni se presentan datos sintéticos como mercado real.
+- Reproductor sin autoplay ni precarga de video, láminas ampliables y descargas dentro de cada clase.
+- Se conservan imágenes, videos y audio originales, IDs, progreso, controles y versión curricular.
+- Los 24 MP4 se decodifican correctamente; 96 recursos accesibles localmente y 56 pruebas aprobadas. Reproducción interactiva en navegador y comprensión con alumnos pendientes de revisión.
+
+Detalle y regeneración en `docs/RECURSOS_AUDIOVISUALES.md`. Disponible localmente; versión alojada sin actualizar por el bloqueo de acceso conocido.
+
 ## 0.2.2 — Dos clases piloto desarrolladas con bibliografía complementaria
 
 - Velas y estructura pasan del resumen a una explicación progresiva, con ejemplos propios, pistas, pausas de razonamiento y repaso diferido.

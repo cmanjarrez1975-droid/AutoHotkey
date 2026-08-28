@@ -1,0 +1,20 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.583
+En esta explicación veremos: Redondear también es gestionar riesgo. Dimensionar un ejercicio lineal
+sin exceder el presupuesto por redondeo. Trabajaremos con un ejemplo didáctico, no con precios de
+un mercado real.
+
+00:00:17.583 --> 00:00:27.500
+Paso 1. Presupuesto 100; distancia 8; valor por punto 5; costo 2 por contrato.
+
+00:00:27.500 --> 00:00:37.584
+Paso 2. Pérdida por contrato: 42. Tamaño teórico: 2,38.
+
+00:00:37.584 --> 00:00:49.334
+Paso 3. Si el incremento es 1 contrato, se permiten 2: riesgo 84, no 3 con riesgo 126.
+
+00:00:49.334 --> 00:01:09.751
+El máximo entero permitido son dos contratos. Redondear hacia arriba excedería el presupuesto del
+ejemplo. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no
+puedes afirmar. Después continúa con la práctica de la clase.

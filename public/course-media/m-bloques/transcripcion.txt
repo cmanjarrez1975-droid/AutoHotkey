@@ -1,0 +1,21 @@
+Order Blocks: origen, visita y anulación
+
+Narración sintética en español. Ejemplo didáctico, no datos de mercado.
+
+00:00:00.000 · Qué vamos a observar
+En esta explicación veremos: El estado cambia por eventos. Registrar el estado de una zona sin redibujarla después de la reacción. Trabajaremos con un ejemplo didáctico, no con precios de un mercado real.
+
+00:00:16.917 · Paso 1 · Un registro que no cambia con el desenlace
+Paso 1. Base 100–102; desplazamiento posterior rompe 105. Se registra el rango 100–102.
+
+00:00:28.500 · Paso 2 · Un registro que no cambia con el desenlace
+Paso 2. El primer regreso toca 101 y recupera: cambia a visitado, no a fresco.
+
+00:00:37.667 · Paso 3 · Un registro que no cambia con el desenlace
+Paso 3. Dos cierres en 99,5 y 99 cumplen la anulación del ejemplo. No se mueve la zona hacia 99.
+
+00:00:50.417 · La idea que debes conservar
+Origen, primera visita y anulación deben registrarse en orden. Una zona visitada no vuelve a ser fresca. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no puedes afirmar. Después continúa con la práctica de la clase.
+
+Base de la clase: Transcripción 03, clases 06.1–06.6; Protocolo Avanzado p. 1; Guía de Estudio respuesta 5. Estados y regla de ejemplo editoriales.
+Adaptación audiovisual editorial propia.

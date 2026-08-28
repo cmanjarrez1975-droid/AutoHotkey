@@ -1,0 +1,21 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.750
+En esta explicación veremos: Mismos niveles, distintos costos. Distinguir infraestructura del activo y
+riesgo de ejecución del patrón. Trabajaremos con un ejemplo didáctico, no con precios de un
+mercado real.
+
+00:00:17.750 --> 00:00:28.833
+Paso 1. Activo A: entrada 100, stop 98, objetivo 106, costo por unidad 0,2.
+
+00:00:28.833 --> 00:00:36.833
+Paso 2. Activo B: mismas referencias, costo estimado 1,5.
+
+00:00:36.833 --> 00:00:51.000
+Paso 3. A: ratio neto 5,8 dividido entre 2,2; B: 4,5 dividido entre 3,5. No se transfiere el mismo plan sin
+recalcular.
+
+00:00:51.000 --> 00:01:12.000
+La geometría es idéntica, pero el costo cambia el ratio neto. No traslades el tamaño sin revisar el
+contrato. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no
+puedes afirmar. Después continúa con la práctica de la clase.

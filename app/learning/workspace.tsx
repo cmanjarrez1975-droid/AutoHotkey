@@ -9,6 +9,7 @@ import { PracticeJournal } from './practice-journal';
 import { learningRequest } from './request';
 import { LessonLectureContent, LectureReferences } from './lesson-lecture';
 import { lessonReadingMinutes } from './lecture-types';
+import { LessonMediaPanel } from './lesson-media';
 import './workspace.css';
 
 export type StudyRecord = { lesson_id: string; course_id: string; draft: string; revision: number; studied: number; practiced: number; check_passed: number; study_seconds: number };
@@ -124,6 +125,7 @@ function LessonReader({ lesson, lessons, record, records, onRecord, onDirty, nav
   return <article className="a2-reader">
     <header><span className="a2-overline">{lesson.unit} · ADAPTACIÓN EDITORIAL CON FUENTES</span><h1>{lesson.title}</h1><p className="a2-objective"><strong>Al terminar podrás</strong>{lesson.objective}</p><span className="a2-reading-time">Lectura estimada: {lessonReadingMinutes(lesson)} min · demostraciones y práctica a tu ritmo</span></header>
     {missing.length>0&&<div className="a2-prerequisites"><strong>Antes de esta lección</strong><p>Recomendamos estudiar estos temas. La navegación permanece libre.</p>{missing.map(id=><button key={id} onClick={()=>navigate(id)}>{lessons.find(item=>item.id===id)?.title} →</button>)}</div>}
+    {lesson.media && <LessonMediaPanel key={lesson.id} media={lesson.media} lessonId={lesson.id} />}
     {lesson.lecture ? <LessonLectureContent lecture={lesson.lecture} lessonId={lesson.id} /> : <section className="a2-prose"><h2>Comprende la idea</h2>{lesson.paragraphs.map(paragraph=><p key={paragraph}>{paragraph}</p>)}</section>}
     {lesson.image&&<figure className="a2-source-image"><img src={lesson.image.src} alt={lesson.image.caption} loading="lazy"/><figcaption>{lesson.image.caption}</figcaption></figure>}
     <section className="a2-example"><span className="a2-overline">EJEMPLO RESUELTO</span><h2>{lesson.example.title}</h2><ol>{lesson.example.steps.map(step=><li key={step}>{step}</li>)}</ol></section>

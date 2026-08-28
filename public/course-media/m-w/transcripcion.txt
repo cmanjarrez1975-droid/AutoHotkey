@@ -1,0 +1,21 @@
+W1, W2 y W3: dos mínimos y una base
+
+Narración sintética en español. Ejemplo didáctico, no datos de mercado.
+
+00:00:00.000 · Qué vamos a observar
+En esta explicación veremos: doble u dos: recuperar el mínimo no basta. Clasificar la variante y separar formación de confirmación. Trabajaremos con un ejemplo didáctico, no con precios de un mercado real.
+
+00:00:17.583 · Paso 1 · W2 sin atajos
+Paso 1. Primer mínimo 100, base 104, segundo mínimo 99,4.
+
+00:00:27.167 · Paso 2 · W2 sin atajos
+Paso 2. Recuperar 100 muestra rechazo del barrido, pero aún falta 104.
+
+00:00:35.667 · Paso 3 · W2 sin atajos
+Paso 3. Cierre 104,3: se cumple la confirmación conservadora. La invalidación se vincula al extremo 99,4.
+
+00:00:49.167 · La idea que debes conservar
+La recuperación de cien y la confirmación de la base son eventos diferentes. Escribe cuál exige tu regla. Pausa el video y explica con tus palabras qué dato observas y qué conclusión todavía no puedes afirmar. Después continúa con la práctica de la clase.
+
+Base de la clase: Guía Maestra Formación W pp. 1–3; manual módulo 7. Tolerancia numérica editorial.
+Adaptación audiovisual editorial propia.

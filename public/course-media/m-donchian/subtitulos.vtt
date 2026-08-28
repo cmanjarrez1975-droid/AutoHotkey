@@ -1,0 +1,21 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:17.750
+En esta explicación veremos: Compara con la banda previa. Calcular bandas con ventana explícita y
+evitar una ruptura imposible por definición. Trabajaremos con un ejemplo didáctico, no con precios
+de un mercado real.
+
+00:00:17.750 --> 00:00:25.417
+Paso 1. Banda superior previa 102; cierre actual 103.
+
+00:00:25.417 --> 00:00:34.250
+Paso 2. La nueva banda puede ampliarse, pero la referencia de ruptura sigue siendo la previa.
+
+00:00:34.250 --> 00:00:45.250
+Paso 3. Si el siguiente cierre vuelve a 101, no hubo la permanencia exigida por una regla de dos
+cierres sobre 102.
+
+00:00:45.250 --> 00:01:05.917
+La primera ruptura no implica permanencia. El regreso a ciento uno incumple dos cierres seguidos
+sobre ciento dos. Pausa el video y explica con tus palabras qué dato observas y qué conclusión
+todavía no puedes afirmar. Después continúa con la práctica de la clase.

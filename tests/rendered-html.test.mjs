@@ -45,6 +45,8 @@ test("renders the versioned learning route without legacy completion counts or s
   assert.match(html, /Una misma vela puede esconder dos historias/);
   assert.match(html, /Avanza sin concederte información del futuro/);
   assert.match(html, /www.cmegroup.com/);
+  assert.match(html, /course-media\/f-velas\/explicacion.mp4/);
+  assert.match(html, /course-media\/p-final\/subtitulos.vtt/);
   assert.doesNotMatch(html, /127(?:<!-- -->)? lecciones completadas/);
   assert.doesNotMatch(html, /correctReason|expectedDecision|stopRange/);
   // Production must not inherit the local owner identity, even on localhost.

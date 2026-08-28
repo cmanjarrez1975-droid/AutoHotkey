@@ -4,7 +4,8 @@ import type { LearningLesson } from './metadata.ts';
 import { foundations } from './foundations.ts';
 import { method } from './method.ts';
 import { practice } from './practice.ts';
-export const lessons: LearningLesson[] = [...foundations, ...method, ...practice];
+import { lessonMedia } from './media-manifest.ts';
+export const lessons: LearningLesson[] = [...foundations, ...method, ...practice].map(lesson => ({ ...lesson, media: lessonMedia[lesson.id] }));
 export type PublicLesson = Omit<LearningLesson, 'checks'> & {
   checks: Array<Pick<LearningLesson['checks'][number], 'prompt' | 'options'>>;
 };
