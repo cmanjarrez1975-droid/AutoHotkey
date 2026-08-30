@@ -1,0 +1,37 @@
+{
+  "module": 7,
+  "title": "Velas vendedoras",
+  "locator": "Líneas no vacías, numeradas desde 1 tras decodificar UTF-8 y omitir líneas en blanco. No son páginas ni minutos.",
+  "sources": [
+    {
+      "id": "015",
+      "name": "Sistema de lecturas.txt",
+      "file": "fuentes/015-modulo-07-sistema-lecturas-original.txt",
+      "role": "fundamentos",
+      "prefix": "S",
+      "bytes": 197376,
+      "sha256": "e63c4cd463e7462b232ea19a6d48cefab733f3c252b169568f129ab76b940a1d",
+      "nonemptyLines": 3418
+    },
+    {
+      "id": "016",
+      "name": "velas compradoras.txt",
+      "file": "fuentes/016-modulo-07-compradoras-complemento-original.txt",
+      "role": "comparacion",
+      "prefix": "C",
+      "bytes": 154648,
+      "sha256": "82ea2e1528688f9701110e3f66d3be2ed1e576c698c81cc49c4aac87d15cf834",
+      "nonemptyLines": 2529
+    },
+    {
+      "id": "017",
+      "name": "velas vendedoras.txt",
+      "file": "fuentes/017-modulo-07-vendedoras-original.txt",
+      "role": "principal",
+      "prefix": "V",
+      "bytes": 126186,
+      "sha256": "bce2dcc71a8fd23119be3ec039fe0252f15a18bc400796b7f36d9bb2927fb715",
+      "nonemptyLines": 2304
+    }
+  ]
+}

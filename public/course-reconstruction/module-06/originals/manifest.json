@@ -1,0 +1,88 @@
+{
+  "module": 6,
+  "kind": "user-originals",
+  "received": "2026-08-28",
+  "assets": [
+    {
+      "id": "m4-confluencia-poker-ob-alcista",
+      "src": "/course-reconstruction/module-06/originals/20260828_m4-confluencia-poker-ob-alcista.png",
+      "filename": "20260828_m4-confluencia-poker-ob-alcista.png",
+      "width": 1742,
+      "height": 1185,
+      "bytes": 200515,
+      "sha256": "786f6347b7964f32b4d1ff94bfd5bbc541febddebdaa5f356325fdd668e98a0e"
+    },
+    {
+      "id": "m4-confluencia-poker-ob-bajista",
+      "src": "/course-reconstruction/module-06/originals/20260828_m4-confluencia-poker-ob-bajista.png",
+      "filename": "20260828_m4-confluencia-poker-ob-bajista.png",
+      "width": 1742,
+      "height": 1189,
+      "bytes": 198912,
+      "sha256": "80118491bb2184bd64e8e4479526f8ae7d80075df60d80e1ecef8eb5059694e2"
+    },
+    {
+      "id": "ob-1-anatomia-comparativa",
+      "src": "/course-reconstruction/module-06/originals/20260828_ob-1-anatomia-comparativa.png",
+      "filename": "20260828_ob-1-anatomia-comparativa.png",
+      "width": 2020,
+      "height": 1014,
+      "bytes": 152429,
+      "sha256": "50eeacdf425ce071e39e684c4fc895d9be86aea0a589514f856be8e9e026a21a"
+    },
+    {
+      "id": "ob-2-criterios-validacion",
+      "src": "/course-reconstruction/module-06/originals/20260828_ob-2-criterios-validacion.png",
+      "filename": "20260828_ob-2-criterios-validacion.png",
+      "width": 1446,
+      "height": 882,
+      "bytes": 92685,
+      "sha256": "cb80aa3c6198cc2981d4ff76e90f347fec37840e8cc033317b169a8e18540ca1"
+    },
+    {
+      "id": "ob-3-operativa-mitigacion",
+      "src": "/course-reconstruction/module-06/originals/20260828_ob-3-operativa-mitigacion.png",
+      "filename": "20260828_ob-3-operativa-mitigacion.png",
+      "width": 1437,
+      "height": 882,
+      "bytes": 104242,
+      "sha256": "01181514c7b08b99e3b833965087e1cc32b10abbcfd189d5b3265c73fb6a2c1b"
+    },
+    {
+      "id": "ob-4-flujo-estructura",
+      "src": "/course-reconstruction/module-06/originals/20260828_ob-4-flujo-estructura.png",
+      "filename": "20260828_ob-4-flujo-estructura.png",
+      "width": 1785,
+      "height": 1033,
+      "bytes": 142073,
+      "sha256": "f555ee66136fa7081247c804b20d40185709f334c9f9bf30e2ec7a4c29488604"
+    },
+    {
+      "id": "m4-poker-ob-stops-seguros",
+      "src": "/course-reconstruction/module-06/originals/20260828_m4-poker-ob-stops-seguros.png",
+      "filename": "20260828_m4-poker-ob-stops-seguros.png",
+      "width": 1634,
+      "height": 1030,
+      "bytes": 143739,
+      "sha256": "9365bf7e30394d6650f293dd016dda391b5a3dfea877b689fea215b7d87a948d"
+    },
+    {
+      "id": "m4-poker-ob-dientes-sierra",
+      "src": "/course-reconstruction/module-06/originals/20260828_m4-poker-ob-dientes-sierra.png",
+      "filename": "20260828_m4-poker-ob-dientes-sierra.png",
+      "width": 1615,
+      "height": 1032,
+      "bytes": 142827,
+      "sha256": "13f3b10f71b2e35b1067583c51ad3403652f6e56770b210f37afea753cb86522"
+    },
+    {
+      "id": "m4-poker-ob-usdjpy-real",
+      "src": "/course-reconstruction/module-06/originals/20260828_m4-poker-ob-usdjpy-real.png",
+      "filename": "20260828_m4-poker-ob-usdjpy-real.png",
+      "width": 2348,
+      "height": 1029,
+      "bytes": 193569,
+      "sha256": "314af5d45b862d6daa3c4fda9535bd3778f7e80b6140aaf08b29b73c723d3713"
+    }
+  ]
+}

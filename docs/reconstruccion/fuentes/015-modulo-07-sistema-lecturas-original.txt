@@ -1,0 +1,6839 @@
+Cómo estás?
+
+Vamos a empezar la primera lección de este módulo titulado Sistema de lectura de velas.
+
+Vamos a ver qué es lo que vamos a poder aprender en este.
+
+En esta nueva primera lección.
+
+Lo primero que vamos a aprender a hacer.
+
+Unas pequeñas.
+
+Una pequeña introducción a lo que sería el método.
+
+Un aspecto, un aspecto.
+
+Conceptos, para que lo podamos entender mucho mejor.
+
+Veremos también unos patrones de giro bajistas.
+
+Veremos también patrones de giros alcistas.
+
+También algo muy importante.
+
+Y es que tenemos que empezar a entender las velas desde otro punto de vista, sobre todo cuando se mueven,
+
+cuando se están formando.
+
+Qué es lo que nos está indicando?
+
+Los procesos de absorción de ventas también lo vamos a poder ver.
+
+Veremos también los procesos de absorción de compras.
+
+Veremos también algo muy, muy, muy importante.
+
+Y es vamos a crear una herramienta que se llama Creando el marco de trabajo o el mapa de abajo.
+
+También vamos a ver los procesos en los patrones, en los procesos lo vamos a ver desde una perspectiva
+
+muy, muy, muy profunda y también con patrones colgados y niveles de de Fibonacci, patrones, vendedores
+
+en vendedores, perdón, en niveles de Fibonacci.
+
+Y todo esto tiene una importancia muy, muy, muy alta, porque lo vamos a aprender a leerlo en un marco
+
+temporal de 15 minutos para luego trasladar nuestro marco de actuación en gráfico de un un minuto o
+
+dos minutos.
+
+Déjame decirte también que esto va a ser también equivalente a poder analizar estos mismos patrones
+
+y este mismo comportamiento de estos patrones que lo que vamos a ver en marco mensual con gráfico diario
+
+y también de un gráfico diario o un marco temporal más reducido.
+
+Entonces todo esto lo vamos a poder utilizar también en otros marcos de tiempo.
+
+No hace falta que sea para hacer scalping.
+
+No muchas personas tienen la oportunidad o el tiempo para hacer scalping, pero es que esto se ajusta
+
+a otros métodos para poder invertir en otros marcos.
+
+Así que no os preocupéis para que ellos no puedan hacer scalping, que esto también sirve para otros
+
+marcos temporales.
+
+Y también vamos a ver cómo con todo lo que estamos aprendiendo, podemos unir todas las piezas del puzle,
+
+ojo del rompecabezas, para sacarle un mayor partido.
+
+Y como siempre, vamos a tener una serie de ejercicios prácticos para poder ver todos los conceptos
+
+teóricos en algunos ejemplos de gráficos reales.
+
+Así que vamos a hablar de la introducción al al método.
+
+Entonces vamos a a estar viendo los conceptos teóricos.
+
+Voy a estar leyendo esto porque he tenido que de alguna forma documentarlo de esta manera para que vosotros,
+
+cuando os descarguéis el PDF, podáis ver estas instrucciones de esta misma forma.
+
+Luego, después no os preocupéis, que luego como siempre, voy a ir desarrollando los conceptos en
+
+función de como vayan apareciendo las imágenes.
+
+Bueno, pues bueno.
+
+Antes de nada, este sistema está basado en una correcta lectura del movimiento de las velas en gráficos
+
+de 15 minutos.
+
+La verdad es que el gráfico de 15 minutos es uno de los gráficos más potentes que existen para hacer
+
+de ISO y no es un marco temporal muy muy corto ni tampoco muy largo.
+
+La verdad es que tiene un marco que es un es un tiempo para mí idóneo como para que todos los momentos
+
+de inversión que podamos ver a partir de ahora con el gráfico de las velas de 15 minutos, podamos verlo
+
+en gráfico de uno o dos, tres y también hasta de cinco minutos.
+
+Sí, recordar que estos mismos patrones que vamos a ver en gráfico de 15 de 15 minutos los podemos ver
+
+casi dos mensuales, gráficos, semanales y diarios para poder encontrar momentos de inversión interesantes.
+
+Como la importancia de su lectura radica en los últimos seis minutos de la vela de 15 minutos y es cuando
+
+cuando consume los últimos minutos en zonas de soportes y resistencias, el operador tendrá que estar
+
+atento ante un posible cambio de tendencia.
+
+Siempre vamos a estar buscando aquellas zonas en donde la probabilidad de giro sea muy elevada y eso
+
+sabemos que ocurre.
+
+Y los soportes y las resistencias, y especialmente cuando se ha producido un movimiento extendido,
+
+se ha llegado al final de de su estructura, ya sea de cualquiera de sus tres variantes en el tercer
+
+impulso, igual número menor que el primero o mayor que el primero.
+
+O también sucede que puede llegar a estas zonas, al soporte o a las resistencias, cuando ha llegado
+
+al final de un segundo impulso muy dilatado.
+
+Entonces, ante estas situaciones, cuando veamos los siguientes patrones de vela que crees que vas
+
+a vender, entonces es altamente probable que se produzca un giro de marcador.
+
+Bueno.
+
+Y si existe una tendencia alcista y el precio llega a una zona de resistencia y a la vega de 15 minutos
+
+le quedan seis minutos más o menos promedio.
+
+Suelen ser seis minutos.
+
+Puede variar un poquito, pero lo que sí que nos tenemos que fijar es que tenemos que esperar a que
+
+la vela.
+
+La vela llegue a la zona, ya sea un soporte o una resistencia, y fijarnos cuánto tiempo le queda,
+
+porque es altamente probable que se esté realizando un proceso de absorción de ventas.
+
+En este caso, cuando el precio está llegando a una zona de resistencia y cuando eso sucede, lo que
+
+lo que nos está indicando es una posible toma de control de la oferta.
+
+Lo mismo pasaría en sentido contrario.
+
+Si existe una tendencia bajista y el peso llega a una zona de soporte y a la vela de 15 minutos le quedan
+
+seis minutos de promedio aproximadamente.
+
+OS Como.
+
+Como estamos viendo anteriormente, es altamente probable que se esté realizando un proceso de absorción
+
+de compras tomando el control de la demanda.
+
+El operador tendrá que saber interpretar los movimientos de las velas cinco minutos.
+
+Esto es de vital importancia para detectar los movimientos de los profesionales.
+
+Lo que estamos viendo o lo que vas a aprender ahora.
+
+Más adelante con estos patrones que te voy a que te voy a mostrar, es precisamente eso, detectar los
+
+posibles movimientos de los profesionales con estas velas, con estos patrones de vela que te voy a
+
+poner, que te voy a enseñar.
+
+Nos vamos a fijar en aquellos que más funcionan y porque aquellos en donde se puede ver de una forma
+
+mucho más clara qué es lo que están haciendo los profesionales, porque existen otro tipo de patrones
+
+de velas que también se pueden ver en las partes de abajo, que no cumplen las mismas normas y que no
+
+tiene el mismo grado de éxito.
+
+Por tanto, yo os sugiero que os centres en estos tipos de patrones de velas, y cuando salgan las oportunidades,
+
+entonces os vais a dar cuenta de la efectividad.
+
+Bueno, continuamos con los patrones de velas que se presentan.
+
+Funcionan en zonas de soportes, resistencias, niveles de Fibonacci y en retrocesos, en tendencias
+
+y en marcos temporales de 15 minutos.
+
+Recordad que esto también lo tenemos el equivalente de mi marco temporal mensual de semanal y diario.
+
+Me pasa que cuando estaba haciendo las la el curso, las diapositivas.
+
+Pues por no confundir bastante pues.
+
+Lo he puesto cara y espero que esto que sepáis que lo podéis perfectamente trasladar a otros equipos
+
+de tiempo.
+
+No os preocupéis.
+
+Cuando el operador e identifica una vela de 15 minutos terminando en una zona, un soporte o una resistencia,
+
+tendrá que esperar a que termine la vela, sí o sí, sí, sí o sí.
+
+Tiene que dejar que la vela termine y más si están quedando esos cinco o seis minutos.
+
+Si la vela que termina en una zona es uno de los patrones que se presenta a continuación, es altamente
+
+probable que la siguiente vela Ojo.
+
+En la siguiente vela de 15 minutos se forme una forma de onda, dando la oportunidad al operador de
+
+entrar al mercado.
+
+Por tanto, nosotros siempre vamos a tener que tener la referencia de una vela determinada para que
+
+automáticamente nosotros estemos observando qué es lo que va a pasar en la siguiente vela de 15 minutos.
+
+Y automáticamente esa información la vamos a poder estar comparando con la información del gráfico de
+
+uno o dos minutos, porque ahí es donde vamos a estar viendo la posibilidad de una inversión de la vela
+
+que confirma la entrada al mercado será la que se está formando, o sea, la nueva vela de 15 minutos,
+
+siendo la anterior la que sirve de referencia al operador.
+
+Por tanto, una idea clara que me gustaría que tuvieras en la cabeza sería Este tipo de fórmula es vela
+
+terminada en zona, o sea, una vela de 15 minutos que ha terminado en una zona con un soporte o una
+
+resistencia.
+
+Nosotros automáticamente nos esperamos y en la siguiente tenemos que estar observando cómo se va a formar
+
+un retroceso o una forma de onda para automáticamente entrar al mercado que cubra.
+
+Esto también se ve en sentido contrario.
+
+Entonces las y si esto que estamos en si estamos en una tendencia alcista y termina una vela, una zona
+
+de resistencia vela terminada en 15 minutos, nos esperamos a la siguiente, porque la siguiente se
+
+produciría un retroceso que automáticamente nos daría la oportunidad de entrar en.
+
+Es exactamente lo mismo arriba que abajo.
+
+Pues es altamente probable que la entrada al mercado se produzca en los primeros minutos de la novela
+
+de 15 minutos.
+
+Generalmente.
+
+Generalmente esto suele ocurrir entre los cinco o seis minutos de la nueva vela de 15 minutos.
+
+Y es muy, muy importante que nosotros estemos viendo qué es lo que pasa con con esa vela que se está
+
+formando, porque muchas veces puede dar la nos estará dando la sensación de que el precio puede seguir
+
+avanzando en la dirección que estaba llevando la tendencia.
+
+Y resulta que estamos viendo cómo cambia el comportamiento de la vela, dejándonos precisamente esa
+
+oportunidad de entrar al mercado.
+
+Por eso, y quizás lo que hace que se complique este tipo de forma de lectura de la vela de 15 minutos,
+
+es que tenemos que estar muy atentos a cómo se está moviendo la nueva vela de de 15.
+
+Esto, como os comento, es más sencillo cuando vemos este tipo de comportamientos con una vela terminada
+
+en un gráfico de mensual, semanal o diario y a la siguiente simplemente tenemos que estar esperando
+
+a que salga ese retroceso.
+
+Por lo tanto, tenemos tiempo como para pensar o uno o varios días hasta que salga la oportunidad de
+
+venta del mercado.
+
+Esto.
+
+Cuando hacemos scalping nos sucede que estar mucho más atentos a la información en los meses que nos
+
+deja la vela de 15 minutos para ver dónde tenemos la opción de entrar al mercado.
+
+El sistema se puede emplear para dar tanto en compras como en ventas.
+
+La forma de onda más reciente, la más reciente, o sea, la primera, es la más segura y es la que
+
+yo aconsejo, que es la que hay que operar.
+
+En algunas ocasiones es posible que la forma de que se pueda dar una segunda forma de onda, pero si
+
+esta segunda forma de onda es lo primero, ha hecho un recorrido el precio mucho más, mucho más largo.
+
+Es posible que el precio este caro y pueda realizar un retroceso para volver otra vez a subir.
+
+Esto suele ocurrir en los últimos minutos de la nueva vela que se está formando.
+
+Entonces, cuando esto sucede, es mejor esperar a que haga un siguiente movimiento y en el siguiente
+
+retroceso, entonces ahí poder entrar porque es más probable que salga la operación exitosa.
+
+Bueno, no hay que operar en rupturas de formas de onda cuando queden cinco minutos para terminar la
+
+vela de 15 minutos.
+
+Precisamente por eso, porque se ha hecho un movimiento extendido y le quedan cinco minutos a la nueve
+
+a la novela que se está formando.
+
+Es lo que sucede, que se ha hecho y todo este movimiento es muy probable que pueda retroceder para
+
+luego subir.
+
+Por tanto, si vemos ahí una posible entrada en un retroceso, es mejor no tomarla.
+
+Por eso, cuando estábamos viendo los cursos anteriores, el sistema de retrocesos por en velas, en
+
+velas, que es algo muy sencillito, es el sistema conservador, que es lo que es lo que sucede que
+
+era mucho más probable que salieran las primera, primera inversión, la segunda inversión de buenas
+
+porque.
+
+Porque todavía no había desarrollado un gran movimiento.
+
+Pero a medida que el peso desarrolla un gran movimiento y me hace un retroceso, es altamente probable
+
+que cuando el precio vuelva a superar el máximo de la vela anterior, suba un poquito.
+
+Luego desciende y automáticamente nos saca de la operación.
+
+Eso lo hemos visto muchísimas veces y es precisamente eso.
+
+Por eso os comento que a partir de los de lo de una finalización de un segundo impulso, utilizar el
+
+sistema de las velas en retroceso no suele ser muy recomendable.
+
+Se puede hacer dependiendo de las circunstancias del mercado con los explosivos cuando hay ciertas coincidencias
+
+con un tercer toque.
+
+La independencia.
+
+Esto me lo habéis preguntado muchísimas veces.
+
+Ante estas circunstancias, si tenéis la obligación de hacerlo, no siempre es más seguro hacerlo en
+
+el rompimiento de una base, una m o una o una W o durante toda la longitud del recorrido de un segundo
+
+impulso.
+
+Es ahí es donde nosotros tenemos todas las probabilidades a nuestro favor cuando ya estamos en el.
+
+Recorridos de los terceros impulsos.
+
+Hay que ir con 100 ojos o mejor, no hacer absolutamente nada.
+
+Es muy importante que el operador identifique los niveles de apertura, cierres máximo y mínimos para
+
+entender el comportamiento de la abeja.
+
+No os preocupéis que esto lo vamos a desarrollando bien.
+
+Vamos a ver los los patrones de giro bajista.
+
+Bien.
+
+En cuanto a los patrones vendedores bajistas, tenemos esta vela que es la vela del tipo uno.
+
+Y es que es muy curiosa esta vela, porque resulta que tiene un componente de engaño, un componente
+
+de engaño muy potente.
+
+Pues por qué?
+
+Porque tú estás viendo un cuerpo de vela así enorme, que es que tiene un tamaño grande y a ti lo que
+
+te hace pensar a ti como a todos, no, que esto se va a continuar subiendo.
+
+Entonces a muchos operadores cuando se les presenta ese tipo de vela arriba un claro, resultaría más
+
+fácil poder ver un tipo de un tipo de vela de en un estudio.
+
+Me refiero a que el cuerpo de la vela sube y luego se retrae y nos está dejando un pábilo, una mecha
+
+muy grande por, en o por encima.
+
+Es que esta vela es todo lo contrario, que tiene un cuerpo grande, que se caracteriza por qué?
+
+Por cerrar en máximos, por cerrar el máximo.
+
+Entonces, ante esta situación, ante esta situación, si el pez llega ya después de un movimiento sostenido,
+
+final de un segundo o durante 1/3, hay que prestar mucha atención, porque si esta vela está terminada,
+
+es muy probable que la siguiente vela, pues nos esté dejando una posible oportunidad de entrar en corto.
+
+Y mira que estamos viendo una vela potente, una vela potente alcista compradora que nos hace pensar
+
+en que hay una fuerte demanda y sin embargo, en la gran mayoría de las ocasiones lo que te está indicando
+
+es todo lo contrario.
+
+Entonces, esta vela se caracteriza por un cuerpo grande que cierra máximos y sobre todo tiene suele
+
+tener poca mecha o poco pabilo.
+
+Si bien luego tenemos esta que es la de tipo dos, esta de tipo dos, esta también se suele dar muchísima,
+
+muchísimas veces en las mismas circunstancias que la vela de tipo uno, pero esta pues es más fácil
+
+de identificar.
+
+Por qué?
+
+Porque nos está dejando pues un pabilo, un pabilo, una mecha, una sombra en donde ya estamos viendo
+
+una reacción.
+
+O sea, porque para que el cuerpo de la vela haya cerrado aquí y nos haya dejado este máximo, significa
+
+que anteriormente el precio había subido hasta ese nivel de kilos.
+
+Se hace hasta aquí, pero la entrada de ventas ha hecho que el precio descienda.
+
+O sea que ya nos está indicando un principio de toma de control de la oferta.
+
+Por tanto, cuando nosotros veamos este tipo de velas, vamos a prestar mucha atención a la siguiente
+
+vela de 15 minutos que se está formando, porque es muy probable, y esto os lo voy a enseñar después
+
+que esto se haya, la primera forma triangular de una posible m de cualquiera de sus variantes, ya
+
+sea la primera, la segunda o la tercera.
+
+Y luego tenemos esta actividad más sencilla, que es la más sencilla de beber y que es la de tipo tres.
+
+Aquí pues, como vemos aquí, abre, genera un máximo y el cierre lo tiene aquí abajo.
+
+Esta es muy sencilla de ver y esta sale en muchos, en muchos manuales, esta se la vemos en muchos
+
+manuales.
+
+Lo que sucede es que este tipo de este tipo de vela en la que muchas personas ya automáticamente lo
+
+ven como una señal en corto, automáticamente se ponen a invertir esperando que así de movimientos rápidamente
+
+se dé la vuelta.
+
+Y qué es lo que pasa?
+
+Que este tipo de este tipo de vela sale tanto en los manuales que los peces gordos, los peces gordos
+
+saben perfectamente que nosotros vamos a actuar o que las masas van a actuar de la misma forma.
+
+Por qué?
+
+Porque todos han visto los mismos manuales.
+
+Entonces tenemos que empezar a cambiar ese chip.
+
+Porque si los gordos saben que automáticamente en cuanto vean ese tipo de de martillo invertido arriba
+
+del todo en un soporte o en una o en una resistencia.
+
+Bueno, en una resistencia se van a poner en corto.
+
+Qué es lo que van a hacer ellos?
+
+Pues si están perfectamente pueden subir el precio un poco más para arriba, o quizás subirlo mucho
+
+más hasta donde ellos quieran y luego al pecho darse la vuelta.
+
+Continua subiendo.
+
+A veces una vela por sí misma no está indicando nada.
+
+Por esto es que este sistema, lo que yo os voy a enseñar es que ojo, vamos a esperar a uno de los
+
+patrones y nos vamos a fijar y la confirmación de la siguiente vela, porque así nos evitamos, nos
+
+evitamos el entrar en situaciones en donde podemos perder bastante dinero, entonces vamos a ser un
+
+poco más precavidos, vamos, vamos a hacer un tipo de trading mucho más tranquilo, menos estresante,
+
+porque el trading cuando, cuando se hace con esto es la verdad es que si lleva mucho peor, si es así
+
+como veis, pues bueno, está este tipo de velas.
+
+Se caracteriza por tener un una mecha, pabilo o sombra por la parte de arriba.
+
+Y luego tenemos esta de un este martillo.
+
+Este martillo arriba del todo, arriba del todo, de una, de una resistencia.
+
+Esto ya anuncia un giro de mercado.
+
+Es altamente probable un giro en mercado.
+
+Si no queréis optar por entrar en este tipo de vela, lo que si que tenéis que hacer es no darle la
+
+importancia que tiene, porque estos se ven muchísimas veces este tipo de patrón arriba del todo cuidado
+
+porque anuncia un cambio, un cambio y esto lo vamos a ver en los ejercicios prácticos.
+
+Así que bueno, aquí tenemos.
+
+Tipo uno, tipo dos, tipo tres y tipo cuatro.
+
+La que más suele engañar es la tipo uno, tipo dos.
+
+Tipo tres son las más fáciles de identificar.
+
+Y la tipo cuatro.
+
+No os preocupéis que ahora os vamos a estar viendo ejercicios donde lo vamos a poder identificar mucho
+
+mejor.
+
+Altura mínimo.
+
+Y aquí tenemos este gran pábilo, mecha o sombra en la parte inferior.
+
+Bien.
+
+Ahora lo que os voy a enseñar es cómo vamos a poder establecer un marco de actuación para poder identificar
+
+cómo se forman las las emes de primera variante de segunda y tercera, en función de la lectura del
+
+gráfico de 15 minutos con los patrones de vela que hemos estado viendo.
+
+Bueno, aquí tenemos una vela tipo uno que se caracteriza por tener un cuerpo grande y que cierra en
+
+máximos.
+
+Y aquí luego tenemos una vela envolvente.
+
+Esta es una de las partes, una.
+
+Un patrón.
+
+Un patrón que se ve muy, muy, muy, muy a menudo, una zona de máximos.
+
+Y lo que quiero que veáis ahora es que el tipo de movimiento, este tipo de movimiento.
+
+La primera forma triangular de la formación de la base.
+
+Si.
+
+Está.
+
+Estará aquí.
+
+Viene se forma en la última vela que cierra en máximos, que es donde nosotros tenemos que estar vigilando.
+
+Cuando estoy mencionando que hay que estar observando los últimos cinco o seis minutos de promedio,
+
+cuando una vela llega a la zona de resistencia, me estoy refiriendo a que este último movimiento,
+
+esta última, este movimiento, la primera forma triangular de la M suele durar aproximadamente ese
+
+tiempo.
+
+Cinco o seis minutos.
+
+Por tanto.
+
+En los últimos cinco o seis minutos que pueden, pueden o no pueden, de alguna forma estar contenidos
+
+en esto.
+
+En este margen de tiempo estaríamos viendo uno o máximo un retroceso.
+
+Y es.
+
+En la segunda forma triangular de la M de la M, donde empezaremos a ver la la oportunidad de entrar
+
+en en corto.
+
+En este caso, entonces estamos viendo vela terminada.
+
+O sea que este movimiento de aquí.
+
+Esta primera forma singular equivale a una vela determinada, que es lo que veremos y el siguiente movimiento
+
+que se estará formando.
+
+La segunda forma triangular.
+
+Estará contenida en la novela de 15 minutos que está formando y es ahí donde nosotros tenemos que estar
+
+vigilando.
+
+Porque si yo veo esta vela de tipo uno y yo estoy viendo esto, lo primero yo ya me tengo que ya me
+
+estoy imaginando, o por lo menos voy a estar pensando que la siguiente, el siguiente movimiento,
+
+me puede generar cualquiera de las tres opciones que tenemos de formación de la clase media, sea primera,
+
+segunda o tercera.
+
+No sé cuál va a salir.
+
+Yo no tengo ni idea y nadie lo sabe.
+
+Pero lo que sí que tengo es una vela que me termina en zona con la primera forma triangular y yo simplemente
+
+tengo que estar esperando a ver qué sucede en la nueva vela de 15 minutos para ver qué tipo de formación
+
+me está dejando.
+
+Sí.
+
+Entonces, qué es lo que pasa?
+
+Que si me hace esto ya estamos viendo que automáticamente tengo un doble techo.
+
+Sí, que eso, al fin y al cabo es una resistencia.
+
+Y este último movimiento, este último movimiento, la segunda forma triangular, estará contenida en
+
+la nueva vela que le llamo activa, porque cuando se forma la a la base de la M, todavía no ha terminado
+
+esta vela.
+
+Si aquí la ves como si hubiera terminado.
+
+Pero esto no ha terminado.
+
+Eso es.
+
+Lo vamos a ver en directo.
+
+No, no, no os preocupéis.
+
+Sí, entonces esto es muy importante.
+
+Que lo tengáis.
+
+Que lo tengáis claro.
+
+Necesitamos una vela que termina y nos va a dejar la primera forma triangular y automáticamente vamos
+
+a esperar a ver qué tipo de movimiento hace, porque generalmente sólo puede hacer un doble máximo,
+
+que sería una m de primera variante, una m de segunda variante, haciendo un máximo más alto que la
+
+anterior, o una m de tercera variante que nos estaría indicando un máximo más bajo que el anterior.
+
+Correcto.
+
+La idea principal de los patrones de todos estos patrones de vela es exactamente la misma.
+
+La vela que termina en una zona, ya sean tipo uno, tipo dos o tipo tres, nos estará dejando la primera
+
+forma triangular de cualquiera de las M.
+
+Por tanto, estaremos esperando al siguiente movimiento de la formación de la nueva vela de 15 minutos
+
+a identificar e identificar la el tipo de M que se está formando y por tanto tener una señal mucho más
+
+clara, más fiable y más tranquila a la hora de obra.
+
+Pues bien, aquí tendríamos la base y la base y la base de la M.
+
+En muchas ocasiones puede estar contenida en la vela que ha terminado, como a veces, a veces puede
+
+estar la base dentro de la nueva vela que se está formando.
+
+La verdad es que no tiene mucha importancia que la base, o sea el punto de rompimiento de la vela M
+
+Este o la vela terminada o en la vela activa me da exactamente igual.
+
+Lo que sí que tengo que ver es que por lo menos la primera forma triangular coincide con una vela terminada
+
+y la segunda forma triangular coincide con la nueva vela de 15 minutos.
+
+Eso es lo importante.
+
+El punto de compra está en el punto de venta, en este caso estar aquí, pero siempre teniendo la confirmación
+
+de los patrones de vela tipo uno, tipo dos tipos, eso sí, o luego como veremos, que la tipo tipo
+
+cuatro es otro tipo de de entrada u otro tipo de muy correcto.
+
+Bueno, este tipo de patrón de M de poca variante también la podemos ver con una vela de tipo de tipo
+
+dos como es esta?
+
+Si como estáis viendo se caracteriza por tener un un pabilo, una mecha, una sombra muy extendida por
+
+la parte de arriba.
+
+Y aquí estamos ya viendo un rechazo, un rechazo de la demanda.
+
+Estamos viendo cómo esta aditivos está anticipando un posible giro de presencia, tomando el control,
+
+la oferta.
+
+Si esto, como digo, lo vemos arriba del todo, vamos a esperar a que termine, a que termine esta
+
+vela.
+
+Y una vez terminada esta vela, ya nos estará indicando la primera forma triangular de una posible m.
+
+Si vela terminada, forma angular está contenida aquí.
+
+Correcto.
+
+Entonces vamos a estar esperando a la siguiente vela.
+
+Para que?
+
+Para que la siguiente vela con la información que nos está dejando el siguiente movimiento, veamos
+
+cuál va a ser el síntoma o la o si verdaderamente está tomando el control, la oferta o no, porque
+
+en este caso tened en cuenta que abre el precio, abre aquí, sube y luego baja.
+
+Claro que es lo que pasa que muchísimas ocasiones cuando nosotros estamos viendo este tipo de este tipo
+
+de de vela.
+
+Sí, pero nosotros no estamos anticipando nada.
+
+Pero qué sucede?
+
+Que cuando esto lo voy a dibujar.
+
+A ver, un momentito.
+
+Para que lo vean.
+
+Si.
+
+Tengo una vela.
+
+Este tipo de vega.
+
+Está.
+
+Sí.
+
+Y la has abierto aquí?
+
+Sí.
+
+Y cierra aquí.
+
+Y la siguiente abre aquí.
+
+Entonces esta vela terminada.
+
+Tengo que estar esperando algún tipo de movimiento que debo hacer.
+
+Y esto es lo que quiero que observéis cuando hagáis streaming.
+
+Y es la nueva vela de 15 minutos que se está formando.
+
+Porque.
+
+Porque si esto hace esto.
+
+Suele hacer esto.
+
+Y viene hasta aquí.
+
+Sí.
+
+Y luego se retrae y hace esto.
+
+Sí.
+
+Necesitamos que vuelva a hacer un tipo de retroceso para entrar de nuevo al mercado.
+
+Algo tal que así.
+
+Este tipo.
+
+Este mismo movimiento.
+
+Hecho.
+
+Subida y bajada.
+
+Si después de este movimiento de aquí lo podríamos ver de esta forma.
+
+Este movimiento correspondería a este movimiento aquí.
+
+Si ha bajado.
+
+Ha cerrado aquí la siguiente vela.
+
+Recordar a hecho este movimiento nos deja el doble techo.
+
+Podríamos entrar en corto ya en la base de la M y acordaros que a que he hecho este movimiento.
+
+Os acordáis que he hecho este movimiento?
+
+Ha hecho así?
+
+Ha hecho?
+
+Sí.
+
+Y ha hecho así.
+
+Bien, este movimiento aquí haría algo así, pero no así y algo así.
+
+Ante este hecho nos recordar que esta sería una entrada agresiva.
+
+Perdón.
+
+Una entrada agresiva, teniendo en cuenta los principios de la teoría de Down que hablaba sobre la mala
+
+oscilación.
+
+Sí.
+
+Y en este punto de aquí.
+
+Y ahora sólo voy a dibujar.
+
+Tendríamos la buena oscilación.
+
+Cortó.
+
+Vale.
+
+En muchos de los casos, cuando los movimientos suelen ser bastante rápido.
+
+O sea, si vos hay dinero en el mercado, este tipo de movimientos, este tipo de movimientos no suele
+
+darse.
+
+Suele aparecer directamente este tipo de este movimiento.
+
+Movimiento así, de este tipo abre.
+
+Llega aquí con esto.
+
+En el supuesto que sea una inteligencia valiente, también puede hacer esto.
+
+Que luego la vamos a ver aquí y luego hace haces esto?
+
+Lo hace muchísimas veces y luego hace esto en la noche la vela de 15 minutos, si bien.
+
+O también podría hacer esto.
+
+Esto, en vez de 15 estaríamos viendo el gráfico de un de uno o dos minutos.
+
+Como el precio está subiendo y parece como que quiere seguir subiendo.
+
+Pero nosotros como estamos vigi, hemos vigilado ya una vela en esta, una vela terminada en zona tipo
+
+uno, tipo dos, el nosotros quietos en la mata porque ya estamos viendo este tipo de movimiento y solo
+
+quiero identificar o esperar a ver si sale este tipo de movimiento, si no sale y el piezo si eso viendo
+
+chicos pues espera a la siguiente y si no pasa nada no perdemos nada.
+
+Pero si no sucede eso y parece que viene aquí.
+
+Y hace esto.
+
+Seguimos viendo una M de TD de tercera variable.
+
+Ni más ni menos.
+
+Sí.
+
+Entonces sí.
+
+Los movimientos rápidos sube y baja.
+
+Este tipo de movimientos generalmente no suele aparecer, pero en caso de que aparezcan, también podéis
+
+o V2 entrar en corto, en la mala oscilación o en la buena vida.
+
+Exactamente igual.
+
+Las dos son válidas.
+
+Tened en cuenta que lo que estábamos hablando anteriormente es lo que os voy a hablar.
+
+Es que si una vela de 15 minutos la la dividimos en tres.
+
+En tres franjas, en tres marcos de tiempo de cinco minutos cada uno.
+
+Pues en los últimos cinco o seis minutos de la vida de 15.
+
+Pues no me hagáis nada.
+
+Por qué?
+
+Porque es muy probable que el precio si me ha hecho esto.
+
+En los primeros cinco, cinco minutos, cinco minutos y cinco minutos.
+
+Me ha hecho la primera forma de onda para entrar en corto en el margen de cinco de los primeros cinco
+
+minutos.
+
+Aquí.
+
+Aún podemos entrar en la siguiente.
+
+Pero aquí cuando le quieren los últimos cinco minutos no se incorpo ante un retroceso porque es muy
+
+probable que.
+
+Los encontremos.
+
+Esto quiere decir que este movimiento sea un cambio de tendencia?
+
+No, pero en muchísimas ocasiones estamos viendo esto.
+
+Y vuelve a caer.
+
+Esto lo hemos visto mucho en muchas ocasiones.
+
+Si, mejor lo voy a hacer así.
+
+Hace este tipo de movimiento uno.
+
+Un nuevo mínimo engaña.
+
+Sube, vuelve, vuelve a engañar y luego vuelve a bajar.
+
+Tiene todo el sentido del mundo, porque claro, es que durante casi, casi 15 minutos ha estado bajando
+
+ya.
+
+El precio está muy barato.
+
+Es muy susceptible de ser comprado.
+
+Entonces no tiene mucha lógica que estemos vendiendo a estos niveles.
+
+Ya hemos tenido la oportunidad aquí en estos primeros cinco minutos.
+
+Otra posible oportunidad lo tiene en el otro cuadrante de otros cinco minutos.
+
+Pero aquí, chicos, os sugiero que no corto.
+
+Bueno, pues aclarado esto, pues ya podemos continuar.
+
+Vista desde estos tipos de deformaciones.
+
+Como verás.
+
+Ya sea con el patrón de tipo uno o con el patrón de tipo.
+
+El dejar el tipo con el que aparezcan las mechas a la misma altura.
+
+Al fin y al cabo, lo único que nos está indicando es una resistencia.
+
+Si es un doble techo.
+
+Una señal.
+
+Una señal.
+
+Muy bueno, muy interesante, que suele ser muy, muy fácil de observar y de operar también.
+
+La que es más complicada suele ser la M de segunda variante por el componente de engaño que hacen E.
+
+La forma de estar viendo este tipo de patrones es exactamente la misma.
+
+Siempre estamos fijándonos en una vez la eternidad en zona en este caso es esta uno y ahora este es
+
+el el patrón que suele aparecer en muchísimas ocasiones.
+
+Te invito a que lo identifiques porque la verdad es que te vas a sorprender cómo ante una vela potentísima
+
+verde que anuncia desde la parte psicológica que hay una fuerte demanda, que es lo que es la interpretación
+
+que la gran mayoría haría, que es lo que sucede, que siguen pensando en la opción de compra y automáticamente
+
+el precio abre.
+
+Donde cierro lo anterior, sube hasta aquí habría un cuerpo haber de irse, retiras la demanda, empieza
+
+a entrar la oferta y automáticamente el peso.
+
+Es que qué es lo que estaríamos viendo en este movimiento?
+
+Por lo mismo.
+
+Este tipo de movimiento una la primera forma triangular de una posible formación de una M.
+
+Como os digo, es puede suceder que el precio siga subiendo?
+
+Desde luego que sí, pero es que a mí eso me da igual.
+
+Por qué?
+
+Porque yo ya estoy vigilando que esta misma vela que me aparece en una zona yo ya tengo un marco de
+
+referencia que generalmente ya tengo aquí.
+
+La primera las vi en la primera forma triangular de la de la R, espero que es lo que va a pasar en
+
+la siguiente vela.
+
+Y si la siguiente vela pues continúa subiendo y no retrocede.
+
+Es genial, pero es que si no suele hacer esto y luego baja, qué es lo que yo estaré viendo en la vela?
+
+En la nueva vela que se está formando esto?
+
+Esto.
+
+Ni más ni menos.
+
+Si esto mismo.
+
+Entonces, qué es lo que pasa?
+
+Que en la vela que se encuentra activa, que se encuentra activa, estamos viendo la segunda forma triangular
+
+de la X, que en este caso es una M de segunda variante que tiene el componente de engaño que en cuanto
+
+uno lo identifica.
+
+La verdad es que I se acostumbra a operar, da muy buenos resultados, pero cuando se está haciendo
+
+check in a un minuto o dos minutos estamos viendo eso.
+
+Generalmente los movimientos suelen ser rápidos, o sea, sube, sube, sube y automáticamente baja.
+
+Llevo y a muchos de los alumnos que me escribís me decís que a veces que cuesta verlas y que cuando
+
+se ve se ven, se ven ya cuando ha terminado, pero que de alguna forma es cuando se está formando,
+
+como que te quedas ahí, como que paralizado, pensando en algo que estaba teniendo la referencia esta
+
+vela.
+
+Esto parece como que va hacia arriba un o máximo vela de cuerpo verde.
+
+Joaquín Cardona Gama ya está pensando en copas o que si no está comprando ahí que seguirá subiendo el
+
+precio.
+
+Sin embargo, yo estoy pensando en la probabilidad de que esto se vaya a dar una vuelta y que pueda
+
+ser un engaño.
+
+Ante estas circunstancias es donde yo estoy prestando atención y ya sí he identificado la base de la
+
+M.
+
+En el supuesto de que la base de la M esté contenida aquí, a mí me va a resultar mucho más fácil estar
+
+mirando que si el precio sube, por mucho que suba y empiece aquí a retraerse.
+
+Este movimiento pueden ser los primeros minutos de la nueva vela de 15 y seis.
+
+Si se empieza a retener aquí, de aquí y aquí, aquí pueden pasar uno o dos minutos.
+
+Yo ya estoy anticipando un posible giro, pero ya tengo mi punto de entrada ya mirado aquí.
+
+Pero porque tengo la referencia a ésta y estoy pensando en un posible engaño.
+
+Entonces este tipo de formaciones va a resultar más fácil superarlas.
+
+Cuando identificamos este tipo de movimiento en gráfico.
+
+Y entonces aquí lo que probablemente se dice, lo que dificulte un poquito esta técnica, es aprender
+
+a leer y a estar fijándonos en qué es lo que está haciendo la nueva vela de 15 minutos que se está formando.
+
+Si luego la otra opción, lo que pasa aunque suene que suele aparecer, es este, si es de nuevo, es
+
+una vela tipo dos con las mismas, las mismas características que fueron durante cualquiera de los que
+
+se de las tres posibilidades de la del movimiento del tercer impulso o durante un segundo y acaba y
+
+el movimiento es exactamente lo mismo.
+
+Este por ejemplo, pues claro, es exactamente lo mismo.
+
+Aquí abre un habría un.
+
+Un cuerpo verde hasta aquí y automáticamente se da la vuelta.
+
+En esta vela de aquí estaríamos viendo la primera forma triangular de la M, que obviamente estaríamos
+
+viendo ya una vez terminada, que corresponde a esta y esta esta aquí sería la que se encuentra activa.
+
+Entonces todo este movimiento sube o baja estaría contenido en los primeros minutos delante de la vela
+
+de.
+
+De de 15 minutos que todavía no ha terminado.
+
+O sea que en muchas ocasiones la base de la M cuando es rota y nos da la oportunidad de comprar esta
+
+vela, o sea, la vela de 15 minutos todavía no ha terminado.
+
+Entonces, qué es lo que puede pasar?
+
+Que cuando nosotros estemos viendo la oportunidad de entrar en venta en este punto aquí.
+
+Veamos este tipo de vela, pero al final luego si el precio sigue bajando, se puede quedar una vela
+
+envolvente y de un rechazo fuerte.
+
+Si eso es lo que quiero que quede.
+
+Vale.
+
+Bueno, otra de las cosas que identifica muy, muy, muy, muy bien los patrones de la segunda variante,
+
+es precisamente eso en que tenemos el segundo o el segundo máximo más alto que el anterior.
+
+Yo os sugiero que si os cuesta un poco el identificar este tipo de movimientos, graficar lo que sería
+
+la unión de ambos máximos, porque eso visualmente os puede ayudar mucho.
+
+Bueno, vamos a ver ahora la tercera opción, que es la tercera variante.
+
+Y que se suele dar en muchísimas ocasiones con este tipo de formación.
+
+Es tipo dos.
+
+Una vela de tipo dos que abre aquí, cierra aquí.
+
+Y tenemos este pábilo o mecha que suele ser pocos cuerpos.
+
+Pues bastante, bastante largo, sin llegar a ser una de tipo tres.
+
+Y luego estamos viendo como el intento de de la demanda por hacer subir el precio, pues hace que el
+
+no máximo se quede mucho más bajo que la anterior.
+
+Por tanto, aquí en este, en esta vela que ha terminado en zona, estaremos viendo este movimiento.
+
+Si.
+
+Como estáis viendo, el precio sube.
+
+Nos deja este máximo.
+
+Se retrae hasta aquí y aquí.
+
+Ahora, si te das cuenta, aquí en la nueva vela de 15 es de 15 minutos.
+
+O sea, en esta se encuentra la base de la M que se está formando.
+
+Ahí lo veis.
+
+Y fijaros si nosotros observamos la base de la M.
+
+50 a 50.
+
+Que se encuentra en la vela activa.
+
+O sea, aquí os dais cuenta?
+
+Esto, al fin y al cabo no tiene ningún tipo de inconveniente o que la tengamos que operar de una forma
+
+distinta.
+
+Es exactamente igual.
+
+Es exactamente igual.
+
+Solo que quiero que os deis cuenta que en algunas ocasiones será de mi.
+
+Puede estar en la vela que he terminado como el agua que se encuentra activo, tal cual.
+
+Aquí podéis ver como la segunda forma triangular se encuentra aquí, que pertenece a esta nueva vela.
+
+Entonces el aquí estáis viendo una vela que ha terminado, pero no tiene por qué ser esto así, porque
+
+si no ha terminado, es muy probable que también se convierta en una vela.
+
+Envuelve este 4.º.
+
+Entonces esto puede seguir cayendo.
+
+Que por lo menos para que lo entendáis.
+
+Entonces este máximo del del rechazo que ha tenido era la de la demanda por absorción de las ventas
+
+que genera este tipo de retroceso.
+
+Que cuando la vela.
+
+A quien hablé hasta este punto me di cuenta.
+
+Sí, y automáticamente estamos observando como tenemos máximos decrecientes.
+
+Entonces el punto de entrada aumenta lo que tenemos aquí, pero de una forma mucho más sencilla, porque
+
+estamos viendo la confirmación de una vela de 15 minutos terminada.
+
+Si yo me voy a esperar aquí, la idea es estar esperando a que termine una vela de 15 minutos y esperar
+
+a ver una confirmación de la siguiente vela.
+
+Por eso esta forma de hacer trading es mucho más tranquila y menos estresante.
+
+Al menos si hacemos trn o scalping.
+
+Esto también lo vamos a poder ver en distintos marcos temporales mayores que pueden ser de de mensual.
+
+Estaríamos fijándonos en esta IE y en el y en el y en los gráficos semanal o hasta diario, encontraríamos
+
+aquí la siguiente forma triangular.
+
+Pero necesito ver este tipo de vela en una zona importante.
+
+Desciendo de marco temporal a semanal o a diario, y aquí me obvia encontrar exactamente lo mismo.
+
+Claro, hay una gran diferencia entre si eres Calvin y hacer un tipo de swing en este.
+
+Teniendo en cuenta estos marcos de tiempo más elevados.
+
+Por qué?
+
+Porque aquí sí.
+
+Si estoy viendo esto gráfico mensual y estoy buscando una oportunidad de un corto en un gráfico diario.
+
+Tengo tiempo de sobra como para estar observando lo que está pasando y por tanto poner mejor.
+
+Esto está bien.
+
+Se puede hacer que comprando exactamente igual.
+
+Sí, o sea, cuando hacemos inversiones de largo plazo en marcos mensuales o y haciendo y operando luego
+
+en el gráfico diario, generalmente se suele hacer más cosas.
+
+También puedes hacer una venta?
+
+No, esto ya depende del activo, pero generalmente se suelen aprovechar más las las compras.
+
+Por qué?
+
+Porque son movimientos, tendencias mucho más largos, con mayores oportunidades de de recorrido.
+
+Y luego tenemos aquí el siguiente.
+
+El siguiente movimiento.
+
+Sí, que serían los giros en nubes bajistas.
+
+Este tipo de movimientos.
+
+Si os dais cuenta.
+
+Esta vela que es la vela martillo invertida.
+
+Abre aquí.
+
+Ha llegado hasta aquí.
+
+Se hace el control, la oferta y automáticamente empieza el precio a descender.
+
+Lo que hay que entender está en estas velas.
+
+Que me da igual que sea de cuerpo rojo que.
+
+Que verde.
+
+Para mí eso no tiene mucha importancia.
+
+Lo que a mí si que tiene más importancia es.
+
+Que identificas que si el.
+
+Que si el precio ha llegado a marcar.
+
+Y esto está mal, pero.
+
+Entonces máximos.
+
+Es el precio ha llegado hasta aquí.
+
+Significa que el cuerpo.
+
+Que el cuerpo de la Bella ha llegado hasta aquí.
+
+O sea que había que el cuerpo era verde, era alcista y que automáticamente algo ha pasado.
+
+Se juntan dos factores cierre, cierre de beneficios, beneficios parciales o tomas de beneficios totales,
+
+más luego desde que la misma demanda desaparece y también la suma de entrada de off.
+
+De nuevo oferta al mercado.
+
+Más millones más.
+
+Los mismos cierres de las operaciones porque una operación alcista de compra se cierra con una venta.
+
+Pelota donde se junta la ausencia de demanda.
+
+Más cierres de posiciones, más on, más aumento de oferta.
+
+Significa que al final hay un balance a favor de la oferta.
+
+Entonces que es lo que sucede?
+
+El precio cae entonces hasta que su cuerpo verde luego se retrae.
+
+Toma de control de la oferta.
+
+Y aquí es donde estaríamos viendo la vela arruinada.
+
+Y estaríamos viendo este tipo de movimiento.
+
+Sí que es cierto que estamos viendo una forma triangular.
+
+Cortó.
+
+La idea es exactamente la misma.
+
+Solo que estaríamos esperando a la siguiente vela.
+
+Es la siguiente vela?
+
+Aquí hay que ver una cosa.
+
+Y es que no hay que confundir este tipo de giros en nube con una formación de una m de tercera variante
+
+se caracteri, se diferencia en una de la otra en que el siguiente máximo, que es menor que el anterior,
+
+suele quedar muy alejado del último máximo o muy por debajo.
+
+Si las emes de tercera variante suelen venir por aquí o por aquí, pero no vienen precedidas de una
+
+fuerte caída subida y luego bajada.
+
+Generalmente esta caída, esta caída no suele ser muy, muy, muy grande.
+
+Suele sí que es cierto que obviamente cae, pero la recuperación suele ser por estos niveles de aquí.
+
+Pero cuando estamos viendo un giro, un giro nube bajista es un fuerte movimiento, un fuerte rechazo,
+
+rápido, un retroceso.
+
+Y luego en la siguiente estamos viendo este tipo de momentos.
+
+Si.
+
+Entonces, claro, este tipo de movimientos.
+
+Si, lo estamos viendo en en gallego de uno o dos minutos.
+
+Esto suele ser muy rápido, muy rápido y en muchas ocasiones no nos da tiempo orientar al mercado.
+
+Pero nuestra referencia al ver esto.
+
+Y automáticamente estamos viendo como el gráfico de un minuto ya tengo la primera forma triangular.
+
+Solo necesito el que el precio haga un retroceso y que luego vuelva a bajar y le meto una orden.
+
+Por qué?
+
+Pues porque estoy viendo esto.
+
+Porque estoy viendo esto.
+
+Es cierto que a veces este tipo de movimiento, esta subida y bajada.
+
+Si estamos viendo un marco de un minuto, este tipo de movimientos a veces suceden en tres minutos,
+
+o sea que suele ser bastante rápido en muchas ocasiones, dependiendo de cómo estemos ese día, hasta
+
+los aprendemos el año pasado.
+
+A mi me ha pasado que dependiendo del día, por ejemplo hoy día se ve un día bastante bastante, con
+
+bastante bochorno.
+
+Está lloviendo, la presión atmosférica está baja y muchas veces no se ve las cosas exactamente igual.
+
+Entonces ante estas situaciones, pues se suelen, se suele perder la oportunidad.
+
+Pero bueno, marcado siempre da nuevas oportunidades.
+
+Por tanto, la segunda forma regular estará contenida en la nueva vela que se está formando y que todavía
+
+no ha terminado.
+
+Entonces este esto es un típico patrón de giro en uve bajista.
+
+Así que ahora ya vais a tener unas referencias muy, muy buenas a la hora de estar observando.
+
+A ver qué es lo que pasa con las velas de 15 minutos cuando lleguen a una zona.
+
+Y aquí estáis viendo la forma de onda que está contenida en la vela de 15 que se está formando.
+
+Y aquí es donde entraríamos en corto.
+
+Bien, vamos a ver los patrones alcistas, que es exactamente igual o más que en sentido contrario.
+
+Los pastores compradores.
+
+Sólo ve la de tipo tipo uno, que como verás tiene el mismo componente de engaño que que Las Vegas vendedoras.
+
+Es un cuerpo bajista y muy muy potente que se caracteriza por cerrar el cuerpo en mínimos teniendo muy
+
+poco pabilo, mecha o sombra en la parte de abajo.
+
+Si a eso me refiero.
+
+Luego tenemos la vela de tipo dos.
+
+El buen color puede ser verde, como que puede ser roja húmeda exactamente igual.
+
+Esto va va a depender mucho del tema del anterior, pero generalmente lo que tenemos que identificar
+
+es que exista un pabilo, una mecha, una sombra y sobre todo, que sea más o menos claro, que sea
+
+fácil de identificar.
+
+Apertura mínima cotización y obviamente aquí tenemos nuestra sombra o mecha, que suele ser bastante,
+
+bastante grande.
+
+Quieto.
+
+Y luego tenemos esta de aquí.
+
+Esto está mal.
+
+Perdón.
+
+Esta aquí.
+
+Es apertura.
+
+Me pasa por.
+
+Haberle dedicado.
+
+Una a que dedicarle tiempo a una corrección.
+
+Disculparse sin faltas por el mismo.
+
+Ese es el máximo.
+
+Mínimo de cotización y apertura de seis.
+
+Si.
+
+Este caso?
+
+Sí.
+
+En este caso es la siguiente vela.
+
+La siguiente vela que saques de cuerpo, que es de cuerpo verde.
+
+Sí, dio cuerpo rojo.
+
+Tenemos la apertura aquí.
+
+Obviamente tenemos que decodificar aquí.
+
+Y es que aquí es donde cierra.
+
+Si por eso es la diferencia entre una y otra, entonces da igual si es si.
+
+Aquí abre la.
+
+La vela está viva.
+
+Es porque la anterior cerró en este mismo lugar y aquí pasa exactamente lo mismo, solo que dependiendo.
+
+Aquí no, aquí es distinto.
+
+Aquí la vela anterior.
+
+Cerraré aquí.
+
+Aquí el precio abre, la anterior baja.
+
+Haz un mínimo y no gozarás.
+
+Es que es distinta la lectura?
+
+Es distinta a la lectura.
+
+Luego tenemos la hipótesis, que también se caracteriza por apertura, un mínimo de cotización y el
+
+cierre aquí.
+
+Pero claro, estamos viendo esto.
+
+Es el típico martillo de rechazo que es increíble.
+
+La cantidad de veces que aparecen en los gráficos, ya sea de 15 minutos, ya sea los mensuales, los
+
+semanales y en los diarios esto se ve muchísimas veces.
+
+Os invito a que lo podáis identificar.
+
+En cuanto a la forma en la que vamos a estar viendo los patrones de DW de la segunda o tercera es exactamente
+
+lo mismo que hemos estado viendo con lo o con el ejemplo anterior, con los pasos previos de M.
+
+Es una vela que termina en zona, va a contener la primera forma circular y vamos a esperar a ver qué
+
+es lo que pasa en la siguiente.
+
+Para ver que tipo de información aparece en la siguiente vela de 15 minutos que se está formando.
+
+Estaremos viendo la segunda forma triangular.
+
+Esta es la clave.
+
+Sí, quizás se haga un poco más denso, es posible, pero es muy fácil de.
+
+De que.
+
+De que lo entendáis.
+
+Cuando luego lo plasmamos en un.
+
+En un gráfico de la equipo uno.
+
+Generalmente suele venir este tipo de este tipo de comportamiento se ve muchísimas veces si una vela
+
+que denomina EM se termina en mínimos y es rechazada por una vela envolvente.
+
+Claro, nosotros no sabemos que va y esto nadie lo sabe, pero yo con ver este tipo de vela que me termina
+
+en mínimos y que justo los últimos cinco o seis minutos el precio ha llegado o en el activo ha llegado
+
+una zona de un soporte.
+
+La dejó terminar y se identifica y la puedo identificar con una vida de tipo uno.
+
+Pues yo ya voy a estar fijándome.
+
+Entonces este último, este movimiento bajista potente con su recuperación, ya nos estará dando la
+
+primera forma singular de la de una posible W, que puede seguir cayendo, desde luego, pero si es
+
+que cae.
+
+Generalmente no suele hacer esto.
+
+No suele hacer eso.
+
+La gran mayoría de las ocasiones lo puede hacer.
+
+Sí, pero generalmente una una m de segunda de continuación lo suele hacer más en los retrocesos de
+
+una caída para luego volver a caer.
+
+Pero los mismos soportes no lo suele hacer.
+
+No es muy no es muy común.
+
+Bolso y yo generalmente le suelo que está con bastante bastante atención a este tipo de velas.
+
+Si bien de la nueva vela activa, la nueva vela activa que se está formando en los primeros cinco o
+
+seis minutos es donde el precio hará un retroceso y luego volver a subir.
+
+Entonces en la base de la base de la M, de la W, perdón, no la podemos encontrar.
+
+O bien el pico en la base de la M aquí, o bien dentro de la vela ha terminado o en la nueva vela.
+
+Como comentaba anteriormente, esto no es, digamos, no hay mucha diferencia.
+
+O sea, la forma de operar es exactamente la misma, sólo que hay alumnos que me han comentado esta
+
+misma duda y que se les complica un poquito entenderlo.
+
+No os preocupéis, la idea es exactamente la misma.
+
+Aquí lo importante es identificar una vela por el stop.
+
+Entonces otro de los movimientos de las W es de primera, de primera variante son esta, este tipo si
+
+es vela tipo dos y que generalmente suele ir acompañada de una de las velas que para mí suelen tener
+
+muchísima, muchísima importancia y se ve muy muy muy a menudo.
+
+Y ese siete, este tipo de vela es una vela de rechazo, de toma de control de la demanda.
+
+Caracterizada por un un pabilo, una mecha o una sombra relativamente grande y sobre todo, que se convierte
+
+en una vaina envolvente.
+
+Es que aquí hay una una as, una psicología muy potente.
+
+Es un fuerte rechazo, fuerte rechazo de la de la tela o de la demanda.
+
+O sea, la demanda toma el control y toma tanto el control que al final se hace con todo el inventario
+
+bajista.
+
+Y ahí arriba, o sea, no estamos viendo esto, si no estamos viendo esto, que para mí es más importante,
+
+porque todo esto es una absorción.
+
+Si todo esto ha sido toda un movimiento de acumulación que le ha llevado un poco más, un poco más de
+
+tiempo, ha hecho un test a la oferta, se quedan sin inventario bajista porque ya no hay, ya no hay
+
+oferta flotante sobre estos niveles y automáticamente el precio sube.
+
+Y generalmente en este en este movimiento de aquí.
+
+Al ver este tipo de este tipo de comportamientos, es donde estamos viendo aquí una fuerte carga de
+
+volumen y aquí en la siguiente suele ser una carga de volumen inferior que cuando estábamos hablando
+
+de los patrones que hablábamos en el curso.
+
+En su volumen.
+
+Y ahora vamos a.
+
+Vamos a hacer ahora con nuestra parte.
+
+Esta aquí, tenía una fuerte carga de volumen y en la siguiente os acordáis que había menos carga de
+
+volumen lado.
+
+Esto lo hablábamos.
+
+Sí.
+
+Y que claramente.
+
+Tenía mucho, mucho menos volumen.
+
+Este tipo de movimiento es un test a la oferta con toma de control y no le hace falta mucho esfuerzo
+
+a la demanda para llevarse el precio.
+
+Porque?
+
+Porque si tuviera que hacer mucho más esfuerzo, la demanda para hacerse con todo es que todo el inventario
+
+o la oferta flotante.
+
+Tendría que.
+
+Hacer esto?
+
+Sí.
+
+Hacer esto.
+
+Entonces, cuando ya se dan cuenta de que no existe oferta flotante o a estos niveles de aquí, ya no
+
+tienen que hacer tanto esfuerzo para llevarse el PC hacia arriba.
+
+En el supuesto de que sí que la encuentren, entonces van a tener que realizar más esfuerzo, que significa
+
+más esfuerzo, más cooperación, más hombres.
+
+Entonces es a este volumen de aquí, este volumen de aquí se suma el total de las obras y el total de
+
+las ventas.
+
+Sólo que no estaremos dando cuenta del tipo de movimiento en función de la lectura de las velas.
+
+Sí.
+
+Entonces eso es lo que nos quería comentar.
+
+Gente.
+
+Generalmente este aquí.
+
+Este tipo de movimiento cae y luego vuelve a subir.
+
+Suele ir acompañado de mucho menos volumen.
+
+Como veréis aquí, ante estos dos ejemplos que estamos viendo tanto tipo uno, tipo dos tenemos mínimos
+
+a la misma altura, es un soporte, sí.
+
+Entonces acordaros el en una vela terminada encontramos una forma triangular y en la segunda vela,
+
+que es la que se está formando, tomamos en cuenta la segunda forma segura y la base nos estaría dando
+
+la entrada al mercado.
+
+En cuanto a los patrones de WDS o una variante, es exactamente lo mismo.
+
+Si tenemos una vela de tipo uno ya estamos viendo que cierra en mínimos y ya hay poca mecha o poco o
+
+poco pabilo.
+
+Y luego tenemos este tipo de movimientos y la verdad es que este tipo de movimientos a mi me gustan
+
+mucho, son como un ser problemáticos a la hora de operarlos, porque tiene un componente de engaño
+
+muy potente, es decir, el precio continua bajando, todo el mundo va a estar esperando a que el precio
+
+siga bajando.
+
+Sí, entonces claro, estamos viendo una vela que me ha terminado en mínimos sin terminar mínimos,
+
+con poco pábilo me hace un retroceso.
+
+Al ver este cuerpo tan potente, todo el mundo va a pensar que esto va a continuar cayendo.
+
+Todo el mundo.
+
+Solo que la diferencia de que exista la posibilidad de que ella vuelva es si esto coincide en zona y
+
+los últimos minutos se están consumiendo en la parte de abajo, porque los últimos minutos lo que nos
+
+está indicando es que hay baja y está subiendo otra vez.
+
+Está empezando a darse la primitiva.
+
+Los primeros movimientos de una posible acumulación, sí.
+
+Sólo que el componente este de engaño, tan potente y de una vena bajista te hace pensar, lo cuentas
+
+bien y el siguiente movimiento te marca un mínimo más bajo.
+
+Y este mínimo más bajo.
+
+Si.
+
+Estará, se estará formando en la novela de 15 minutos o ya habrá aquí de baja aquí?
+
+Y qué es lo que pasa?
+
+Como todavía está activa el siguiente movimiento.
+
+Sí, ya será este.
+
+Entonces qué es lo que estás viendo?
+
+Ya, pues aquí la entrada incumple en la base y aunque el precio llegue hasta esta parte de aquí y te
+
+haya entrado, la ponga todavía esta vela que no ha terminado.
+
+O sea que.
+
+Ya que puede se puede tener un cuerpo mucho más grande.
+
+Solo que gracias a que has visto este tipo de vela.
+
+Si tú ya te estás planteando la posibilidad, la posibilidad de entrar en combate en una posible W.
+
+Como os comento, ya uno no sabe que tipo de W se va a formar, pero alguna se va a formar.
+
+Entonces yo al tener esta referencia me sirve y me basta con esto.
+
+Luego la siguiente es la siguiente.
+
+El siguiente patrón suele ser este una vela de tipo dos y luego este así.
+
+Esto también se suele ver muchísimas veces.
+
+Si se tiene claro, tiene un componente de engaño muy potente, porque claro ya estamos viendo este
+
+rechazo y el el cuerpo de la nueva vela abre donde cero lo anterior y llegó hasta aquí siendo rojo ya,
+
+porque si el bebe llegó hasta aquí significa que durante un momento determinado hubo ventas, cae el
+
+precio, se produce una un proceso de absorción de ventas, la demanda esta tomando el control y automáticamente
+
+el precio sube, por eso estaríamos viendo a lo bonita que es si esto esto se ve muchísimas veces.
+
+Ya os digo que os invito por favor a que identificáis donde se encuentran estos patrones y os vais a
+
+dar cuenta que lo vais a ver muchísimas veces y os comento que hacer premium de esta manera se simplifica
+
+mucho la toma de riesgos, la toma de decisiones, porque estamos esperando a que termine una vela para
+
+identificar la primera forma triangular de la W y esperar simplemente la confirmación de la segunda.
+
+En esto y mucho más tranquilos, ver como estamos viendo esta referencia de esta línea de aquí pertenece
+
+al mínimo de la primera o de la primera forma triangular de la W, y este mínimo aquí del de la segunda
+
+vela, si corresponde a este caso, en que estaría?
+
+Estaría dando la el nuevo mínimo, mucho más bajo que la anterior, de la segunda forma triangular de
+
+la de la W.
+
+Con esto y como veis, pues bueno, estamos viendo que son mínimos decrecientes, componente de viento
+
+y el patrón de la W y tercera variante, pues los hago muy bien, es lo mismo que demostrado menos,
+
+por lo que generalmente se suele dar con este tipo de movimiento.
+
+Si una vela de tipo dos y la siguiente vela suele ser esta, si suele ser esta, recordar que esta se
+
+estará formando y que nos estará dando la opción de dar al mercado cuando todavía no ha terminado y
+
+esta vela si se estará formando, que generalmente suelen ser los primeros minutos de la de la vela,
+
+cinco o seis minutos de esta vela.
+
+Si importante eso que no lo encontramos, por tanto en la vela de tipo dos, si tendríamos este tipo
+
+de movimientos.
+
+Recupera de la terminada todo este movimiento bajada y subida.
+
+Esta es la representación de esta vela.
+
+Si son 15 minutos de movimiento de 15 minutos y estos son 15 minutos también.
+
+Si.
+
+Entonces aquí el luego el medio hace una nueva caída, una nueva bajada.
+
+El mínimo es mucho más alto que la anterior.
+
+Si se puede ver si y automáticamente todo este movimiento, bajada y subida está contenida en la nueva
+
+vela que se está formando y por tanto nuestra, nuestra base si que se encuentra pues cuerpos casi casi
+
+es la mitad de la finalización de una vela con el índice de la otra vez.
+
+El punto de entrada en combate en la gran mayoría de las ocasiones por la mayoría son un porcentaje
+
+del 95%.
+
+Vamos a entrar.
+
+Vamos a entrar en compra en la nueva vela de 15 minutos.
+
+Sí.
+
+Y lo mismo pasa con las ventas.
+
+Y las ventas entraríamos generalmente en los primeros minutos de la novela que se está formando.
+
+Da igual donde se encuentre la base.
+
+Eso es indiferente.
+
+Sí.
+
+Solo que quiero que memorices este tipo de movimientos.
+
+Aquí tenemos el mínimo y el otro mínimo.
+
+Y claramente tenemos mínimos ascendentes.
+
+Si en cuanto a los giros o nubes alcistas, cuando se presenta este tipo de patrón, sí que la verdad
+
+es que suelen ser un patrón bastante potente.
+
+Bastante potente.
+
+Esto lo que significa que tenemos el mínima cotización aquí para que el precio llegase a marcar este
+
+mínimo antes de que el cuerpo cerrase.
+
+Siendo verde, tuvo que ser rojo.
+
+Tuvo que ser rojo.
+
+Es que no hay otra cae.
+
+El precio es la de la.
+
+La oferta es absorbida por la o la demanda y el cuerpo bajista se contrae, se contrae, se contrae
+
+hasta que al final se queda en un cuerpo que es finito.
+
+Si esto lo vemos en un gráfico semanal, automáticamente nos vamos a gráfico diario y que es lo que
+
+vamos a estar esperando?
+
+Un retroceso para luego meternos en bucle, ni más ni menos.
+
+Ya fijaros como este mismo patrón, aunque sea en gráfico diario, nos da la oportunidad, o sea, o
+
+gráfico semanal nos da la oportunidad de descender en el marco de la ecuación y esperar a que a que
+
+haya un movimiento.
+
+Pero necesito que la vela este terminada.
+
+Entonces todo esto de aquí es este tipo de movimiento?
+
+Si, es de aquí.
+
+En algunas ocasiones, antes de que termine esta vela.
+
+Suele suceder esto.
+
+He.
+
+Retrocede.
+
+Nos deja aquí un nuevo mínimo y automáticamente sube.
+
+Si esto se suele, se suele ver en San Marcos, que es más elevado y algunas veces en los mismos marcos
+
+temporales de 15 minutos.
+
+Y este rechazo es muy, muy muy fuerte, muy potente.
+
+En estos 15 minutos se produce una caída, una subida, una bajada y hacia arriba es muchísima, al
+
+revés.
+
+Por tanto, nosotros podíamos entrar perfectamente en este tipo, en este momento en compra.
+
+Pero claro, cuando estamos viendo que hay que ser rápidos en que todo esto de aquí, si el precio fue,
+
+tuvo una fuerte caída o el rojo recupera, hace esto y hace esta pregunta, entonces nos lo voy a dibujar.
+
+Este tipo de movimientos haría esto?
+
+Tenemos esta vez.
+
+Esto aquí y esto.
+
+Sí.
+
+Este patrón siempre vale.
+
+Si hace hable aquí cae.
+
+Hace esto, hace esto y luego hace esto.
+
+Sigue proceso.
+
+Aproximadamente si el tipo de movimiento en tiempo real estaríamos viendo con este.
+
+Con este movimiento sería abre.
+
+Cae, es cuerpo rojo.
+
+Sube.
+
+Estaríamos viendo pabilo.
+
+Pabilo, pabilo, pabilo.
+
+Llega hasta aquí.
+
+Cae.
+
+Y luego.
+
+Viene hasta aquí.
+
+Sí.
+
+Esto es el movimiento.
+
+Esto es.
+
+Ese es el tipo de movimiento que estaríamos viendo ante este.
+
+Este tipo de vela.
+
+Lo repito.
+
+Cuerpo rojo cae.
+
+Cuerpo rojo.
+
+Sube.
+
+Jaja.
+
+Y vuelve a subir.
+
+Sí, y generalmente cuando estamos viendo esto es lo que viene después.
+
+Es esto y viene esto.
+
+Por eso viene muy bien que identifiquemos este tipo de curiosidad.
+
+Entonces.
+
+Con qué tipo de movimiento nos podemos ver en velas de un minuto de esta forma?
+
+Si el precio de aquí cae, cae, cae, cae, cae.
+
+Si produce un fuerte rechazo con una vela envolvente, sube.
+
+Hace un retroceso.
+
+Y vuelve otra vez a subir cerrando el precio.
+
+Si, pues todo este movimiento sucede muchas veces que se hace en una vela de 15 minutos.
+
+Ahora esto también lo podemos ver en una.
+
+En una vela semanal.
+
+Semanal?
+
+Podríamos encontrarnos esto, el equivalente en un gráfico diario, solo que mucha menos velas.
+
+Por si esto no lo encontramos en un gráfico.
+
+En un gráfico semanal significa que un gráfico diario tendría que tener 555 velas.
+
+Si esto no lo encontramos en un gráfico mensual, pues entonces obviamente aquí estaríamos viendo 20
+
+velas.
+
+Entonces estaría dando muchas más.
+
+Sería más fácil entrar en el mercado viendo esto y el gráfico mensual y entrar en gráfico diario aquí
+
+como que también podríamos ver gráfico mensual, que sería equivalente a 20 días, pero en gráfico semanal
+
+estaríamos viendo solo cuatro velas bajistas, entonces es más difícil de operar.
+
+Entonces, si buscamos el equivalente en mensual a entrar en diario, sí que vamos a tener más tiempo
+
+para operar y vamos a estar viendo este tipo de retrocesos.
+
+Así que hoy os lanzo la sugerencia para que le echéis un vistazo, porque la verdad es que funciona
+
+muy, muy, muy bien.
+
+Así que, bueno, hemos llegado aquí al final de esta primera parte.
+
+Muchísimas gracias por tu atención y sólo me queda decirte que bueno, que nos vemos en la siguiente,
+
+en la siguiente elección.
+
+Espero.
+
+Hasta pronto.
+
+Vamos a empezar esta segunda parte de esta.
+
+De esta lección.
+
+Y ahora lo que vamos a estar viendo es.
+
+Vamos a profundizar un poquito sobre las velas.
+
+Vamos a ver cómo las podemos entender de una forma un poco más sencilla, entendiendo las velas.
+
+Le he puesto el nombre porque la verdad es que hay que entenderlas, hay que entenderlas, hay que hay
+
+que saber leerlas, como hace los movimientos y sobre todo traducir que ese tipo de movimiento, que
+
+es lo que podríamos estar viendo en un gráfico de menor temporalidad, en cuanto empezamos a entender
+
+este tipo de modo de movimiento, ya sabes que eso que te vas a encontrar en un gráfico de menor temporalidad,
+
+entonces como que resulta todo un poco más sencillo saberlo que saber leer lo que pasa dentro de una
+
+vela de 15 minutos.
+
+Dar al operador no sólo una ventaja estadística, sino una gran tranquilidad a la hora de operar.
+
+Ahora que el operador ya comprende porque se retrae o en coja una vela, le será más fácil leer y anticipar
+
+el tipo de movimiento siguiente.
+
+Si en una vela de 15 minutos se suele producir al menos dos retoques, esto es lo más, lo más, lo
+
+más normal, siempre y cuando no haya mucha volatilidad, porque mucha volatilidad es posible que solo
+
+haya un solo retroceso en la vela de 15 minutos, que lo llamaremos de ahora en adelante.
+
+Una forma de onda en gráfico.
+
+De esto se producía una forma de onda en los gráficos de uno o dos minutos.
+
+Es de vital importancia identificar en qué tiempo se produce la forma de una nube.
+
+La metrología de este sistema divide la vela de 15 minutos en tres fragmentos de tiempo de cinco minutos
+
+cada uno, que es lo que estábamos viendo anteriormente.
+
+Mire, los momentos más interesantes para invertir en formas de onda serán en los primeros diez minutos
+
+de la nueva vela que se está formando.
+
+Lo que estábamos comentando en el anterior vídeo los últimos cinco minutos el operador no hará nada
+
+por mucho que aparezca una forma de onda.
+
+Por qué?
+
+Porque si el movimiento ha sido ya extendido, es muy posible que se esté agotando, que necesite tomar
+
+un descanso para luego volver otra vez a subir o que en muchas ocasiones vuelva de nuevo a bajar.
+
+En el supuesto de que haya hecho una fuerte caída, suba y luego pueda volver a bajar y que este tipo
+
+de movimiento alcista simplemente sea una una recuperación más profunda para luego seguir cayendo.
+
+Vale, en muchos casos, cuando se forma una una onda, en los últimos cinco minutos el peso ya ha realizado
+
+un movimiento extendido, puede ser alcista o bajista y lo más probable sería que realice un retroceso,
+
+después un retroceso para después continuar con su movimiento precedente.
+
+Bien, cuando una vela consume sus últimos cinco minutos en una zona, el operador deberá estar atento
+
+a la formación de un posible patrón de giro.
+
+Estábamos viendo la de Ovidio en estos casos.
+
+Lo.
+
+Los últimos minutos han sido de intercambio de inventarios y lo que esto se traduce en terminología,
+
+digamos, de volumen o lo que sea, en un proceso de acumulación o un proceso de distribución simple
+
+es cuando existe un equilibrio entre ambas fuerzas y se está produciendo los procesos de acumulación
+
+y distribución.
+
+En este caso, el operador tendrá que esperar una confirmación para entrar al mercado en la nueva dirección,
+
+que es lo que lo que nos va a dar va a ser el poder entrar de una forma más tranquila y más segura.
+
+Cuando la vela consume los últimos cinco minutos sin llegar a la zona y se produce un retroceso, esto
+
+es muy importante.
+
+Esto es muy importante que.
+
+Que lo que lo diferencia es.
+
+O sea, cuando una vela consume los últimos cinco minutos sin llegar a una zona y se produce un retroceso,
+
+lo más probable es que continúe con su movimiento tendencia previa, porque no hay nada que lo pare.
+
+Entonces, aquí la la idea principal es que todo esta información que nosotros estamos buscando sí o
+
+sí, tiene que estar en zona y en zona me refiero a una resistencia o un soporte, porque si tenemos
+
+ya, ya tenemos ya identificados una resistencia y un soporte y estamos viendo una vela que está terminando
+
+después de una caída en medio donde no hay nada que lo pare, o sea, no hay un soporte ahí.
+
+Por mucho que estemos viendo, cualquiera de los patrones de vela que hemos visto, no lo vamos a tomar
+
+como referencia ante un posible giro de mercado.
+
+No confundir, por favor, porque existe la probabilidad, que es lo más seguro, que el precio haga
+
+un retroceso y luego vuelva otra vez a caer.
+
+Y esto mismo pase exactamente igual cuando bajo el precio hacia arriba, si el precio uno está terminando
+
+sus cinco o seis minutos en una zona donde.
+
+No hay una resistencia o quedarse, o que la resistencia está aquí arriba.
+
+Por mucho que me parezca uno de esos patrones que hemos estado viendo, yo no lo voy a tomar como un
+
+patrón de giro, porque lo más probable es que retroceda y luego vuelva a subir.
+
+Yo seguiré pensando cosas y no seguiré pensando metas, porque lo más probable es que continúe con el
+
+movimiento tendencial previo hasta que llegue a la zona.
+
+Esto es muy importante y lo vamos a estar viendo ahora.
+
+En qué mayor profundidad si vale esto lo voy a hacer lo que me de un poquito más poquito.
+
+Eso es bueno.
+
+Aquí se dibujado un cuerpo de la representación de un cuerpo de vela bajista y hincada en cada palo.
+
+Y he dividido la vela de cuerpo bajista en tres marcos de cinco minutos.
+
+Si, pues bueno, esto es lo que quiero que entendáis y que lo veáis muy bien.
+
+Sí, lo que hablábamos generalmente los primeros cinco minutos de la primera vez de la novela que se
+
+está o que se está formando, por tanto esta es la que se está formando y yo ya tengo que ver o haber
+
+visto terminado una vela en zona, una en una resistencia.
+
+Yo voy a estar viendo que en los primeros minutos de la nueva vela el precio cae.
+
+Cae y retrocede.
+
+Y este es el punto que yo tengo que estar vigilando para entrar en meta.
+
+Correcto.
+
+Entonces.
+
+Qué es lo que pasa?
+
+Que en estos primeros minutos, la primera forma de onda que se produce es la.
+
+Es la más segura de operar.
+
+Especialmente si la vez anterior ha terminado la zona y corresponde con algún patrón de giro de los
+
+que hemos estado viendo.
+
+Si bien aquí la ventaja que tenemos es que todavía el pez destacado, entonces está claro existe la
+
+probabilidad de que sea un buen negocio.
+
+Claro, estoy.
+
+Estoy vendiendo a un precio a un precio caro para luego comprarlo a un precio mucho más barato.
+
+Entonces, ya por la diferencia de precios, ganamos dinero.
+
+Vale?
+
+Existe la posibilidad que si los movimientos no son muy fuertes, donde no hay mucha volatilidad, el
+
+siguiente rango del siguiente cuadrante que ya estaríamos dentro de los siguientes de los próximos cinco
+
+minutos, nos podamos encontrar un retroceso siempre.
+
+Ante esta situación todavía podríamos entrar en corto.
+
+Si se producen una segunda forma de onda en este rango de precio, el operador también puede operar.
+
+Tiene probabilidades de éxito.
+
+Es posible que el que en los diez minutos se produzca la primera forma de onda.
+
+También es posible esto.
+
+Esto haría.
+
+Esto sería que el precio alcanzado mucha fuerza.
+
+Haría esto y haría esto cuando eso sucediese.
+
+Entonces, lo más probable es que creo que podríamos ver un giro.
+
+Un giro nubes.
+
+Un giro, nubes.
+
+Porque si los primeros minutos están cayendo con fuerza, con fuerza, con fuerza, cae, hace este
+
+movimiento y vuelve a caer y se produce el retroceso en el siguiente cuadrante, o sea, dentro de los
+
+siguientes diez, diez minutos o entre los cinco, los diez minutos siguientes, pues entonces estaríamos
+
+viendo un giro que no es.
+
+Si bien es posible que los diez minutos se produzca, la primera forma de onda, en este caso el operador
+
+tendría felicidad que no existan soportes que dificulten la caída del peso.
+
+O sea que por aquí no hubiera históricos, no hubiera soportes, porque de ser así, lo más probable
+
+es que el precio sígame.
+
+Sí.
+
+Entonces, si existe, si existen los soportes, sería mejor no hacer absolutamente nada y esperar una
+
+nueva oportunidad.
+
+Porque?
+
+Porque también coincidiría que si el precio ha caído mucho y hay aquí soportes, esto puede que pueda
+
+generar un rechazo, una subida o un fuerte movimiento impulsivo alcista.
+
+Y luego tendríamos esta posibilidad.
+
+Si, esta posibilidad.
+
+O sea que entramos en los últimos cinco minutos y aquí es cuando se suelen producir este tipo de movimientos,
+
+si una lateralidad o a pared, o un aparente cambio de tendencia o una aparente formación de de una
+
+W no quiere decir esta esta v2 u esta posible w sea de cambio de tendencia, esta w.
+
+Dependiendo de las circunstancias que vemos más adelante, puede ser de continuación, de tendencia.
+
+O sea que de aquí vuelva de nuevo a caer.
+
+Ves que este tipo de movimientos, este tipo de movimientos generalmente suelen suceder cuando a eso
+
+estamos.
+
+Si, eso es lo que quería.
+
+Si suele ocurrir en los últimos cinco minutos de durante una vela.
+
+Esto generalmente no lo vemos aquí y no lo vemos aquí.
+
+Este tipo de movimientos al principio, en los últimos cinco minutos o en los siguientes cinco minutos,
+
+si suelen ser movimientos muy limpios.
+
+O sea que es como que ya aquí la demanda ha desistido por completo y que la toma de control es la oferta
+
+y por eso se producen movimientos más limpios, formas de onda.
+
+Esto es una onda.
+
+Impulso, onda o retroceso inmediato.
+
+Cuando encontramos este tipo de movimientos suelen ser cuando ya el precio pues está muy barato y es
+
+muy susceptible de ser descolgado.
+
+O sea, esto de aquí, si el precio no cae con la misma fuerza que antes, significa que está que no
+
+están dando golpes ni más ni menos, porque si no el precio seguiría cayendo sin ningún tipo de problema.
+
+No te parece?
+
+Pues esto es lo que quiero que sepáis, que los últimos minutos de la vela de 15 minutos, cuando ya
+
+he caído y me ha hecho ya uno, dos y tres, aquí encaja todo el 4.º ya empieza a encajar todo.
+
+Si tenemos tres impulsos con lo más normal, lo más normal sería que este tipo de movimientos no lo
+
+pasemos en esto en ningún beat ni en cortos.
+
+Si, especialmente si este tipo de vela, este tipo de vela, sobre todo en coma.
+
+Perdón, yo estoy viendo este tipo de movimiento bajista cuando el anterior estado viendo una vela que
+
+me termina en zona y veo esto, yo no voy a estar pensando en copas, voy a estar pensando más en la
+
+probabilidad de venta, pero es que si quiero ver, si quiero vender, no voy a vender aquí en la siguiente
+
+me voy a esperar a que inicien un nuevo movimiento, una nueva vida, porque es posible que el precio
+
+o se quede en rango y luego vuelva de nuevo a caer.
+
+Entonces este tipo de movimientos, este de aquí, yo los voy a estar observando, porque de nuevo pasa
+
+exactamente exactamente lo mismo.
+
+Voy a estar mirando que es lo que pasa en esta vela y este tipo de movimientos hará que o bien el cuerpo
+
+de la vela me cierre aquí, o por ejemplo que cierre aquí viendo un pabilo más o menos claro.
+
+Por eso hay que esperar, hay que esperar a que termine la vela, a ver, la información nos deja y
+
+tenemos las oportunidades de inversión en los primeros cinco minutos o durante el segundo fragmento
+
+de los siguientes cinco minutos.
+
+Si, bueno, cuando se produce una onda en los últimos minutos, el operador tendría que identificar
+
+que ha llegado a un soporte.
+
+De ser así, tendrá que esperar a ver si se produce, si se forma algún tipo de patrón de giro alcista
+
+y esperar una forma de onda en la vela siguiente.
+
+Esto siempre y cuando esto pase en en una en una, en una vela que termine en zona gris.
+
+Pero si esto está iniciando un movimiento tendencial bajista, automáticamente esto aquí sería más una
+
+opción bajista que no alcista.
+
+Ahora, si este mismo movimiento que es lo que está explicando el texto, si este mismo movimiento es
+
+el de una vela bajista de 15 minutos que el que nos ha dado la oportunidad vender en venta y en venta
+
+y este tipo de movimientos está consumiendo los cinco minutos en una zona de una zona de soporte.
+
+Es altamente probable que se esté generando un proceso de acumulación dependiendo del horario en que
+
+lo que nos encontremos, la cantidad de volumen y otros factores.
+
+Es posible que el tipo de proceso de acumulación se dé de forma rápida o que le cueste más tiempo.
+
+O sea, no todos los procesos de acumulación son rápidos, de giro rápido.
+
+O sea, muchas veces se queda el precio en un rango y no avanza y se queda lateral o hace muchos movimientos
+
+de engaño.
+
+Esto pasa cuando las caídas son muy fuertes y hay mucha diferencia entre entre el inicio de la caída
+
+hasta el lugar en donde el precio suponemos que se está parando.
+
+Por qué?
+
+Porque todavía hay mucha presión de la oferta ya.
+
+O una de dos o se para y le cuesta mucho recuperarse el precio o se para, se queda a un lateral durante
+
+varias horas o incluso se dan situaciones en donde se queda la tela echado varios días hasta que al
+
+final se produce todo el proceso de acumulación.
+
+Están comprando poco a poco, poco a poco y luego al final, pues consiguen llevarse el precio al lugar
+
+de donde quieren llevarse o cambiar.
+
+Sí.
+
+Entonces esto hay que estar vigilando así si no ha llegado a la zona el operador.
+
+El operador.
+
+Pero.
+
+Si no ha llegado a la zona del operador, no la operará, ya que es altamente probable que se produzca
+
+un retroceso más profundo, ya que el precio está muy barato y en este caso lo más probable sería que
+
+el precio continuase baja.
+
+Bueno, vamos allá.
+
+Mirando dentro de una vela al Cristo.
+
+Ahora os voy a dibujar.
+
+El mismo.
+
+El mismo.
+
+Lo mismo que pasaría en una vela de que hemos estado viendo en una vela maciza.
+
+La idea es exactamente la misma.
+
+Acabo de dibujar una vela alcista y la he dividido en tres fragmentos de el de cinco minutos.
+
+Si bien generalmente cuando nos encontramos una vela de una vela que ha terminado en el FONA y ahora
+
+nos estamos fijando en la novela de 15 minutos que está formando esa que sería esta.
+
+Nosotros vamos a estar fijándonos que en los primeros cinco minutos no se hace, en estos vamos a estar
+
+vigilando que se forme una subida, una caída y una nueva subida.
+
+Por qué?
+
+Pues porque esto ya no está dando la posibilidad de golpe.
+
+Aquí ya tendríamos que estar viendo lo que sería la segunda forma triangular de uno W y lo estaríamos
+
+viendo.
+
+Los primeros cinco minutos aproximadamente los hacemos que puede ser seis, pero más o menos, para
+
+que tengáis una referencia los primeros cinco o seis minutos de la nueva vela que se está formando bien.
+
+La primera forma de onda que se produce es la más segura de operar, especialmente si la vela anterior
+
+ha terminado en una zona y corresponde con algún patrón de giro de los que estamos viendo anteriormente.
+
+Aquí todavía el precio es barato.
+
+Entonces puede ser un buen negocio para comprarlo.
+
+Entonces también existe esta posibilidad que esto sucede cuando no hay mucha agresividad por parte de
+
+la demanda y que el precio necesite hacer una recuperación que en este caso sería este tipo de movimiento.
+
+Si esto sucede en los primeros cinco, en los siguientes cinco minutos, en el siguiente cuadrante de
+
+cinco minutos, todavía podríamos llegar a entrar en opción de compra.
+
+No me suele gustar mucho a mí estas opciones, pero las he estado observando y suelen y suelen funcionar.
+
+En estos casos estaríamos entrando.
+
+Bueno, pues yo me canse de un tercer impulso de la.
+
+En el inicio de la confirmación del tercer impulso.
+
+Yo no lo suelo recomendar mucho si no lo suelo recomendar mucho, pero si vosotros estáis viendo que
+
+funciona, yo he visto que funciona.
+
+Sólo que a mi me resulta más cómodo estar comprando aquí por el hecho de que aquí el precio yo lo veo
+
+muy barato, pero en cuanto yo veo, aunque hayan pasado 7U8 minutos que el precio me hace un retroceso,
+
+si este movimiento desde aquí hasta aquí es muy largo, por mucho que hayan pasado sólo ocho minutos
+
+de la formación de esta vela.
+
+Yo la verdad es que me lo pensaría dos veces.
+
+Si me lo pensaría dos veces.
+
+Puedes tomarla.
+
+Puedes tomarla a ningún problema.
+
+Ya sabemos como poder establecer los objetivos de precio utilizando figuras y condiciones con las extensiones
+
+para mirar dónde quedaría los terceros impulsos.
+
+Porque generalmente, cuando esto es así, los terceros impulsos se suelen agotar en los últimos cinco
+
+minutos de esta vela.
+
+Entonces, claro, coincidiría algo, algo como esto si hago muestro para que me aparezca una forma
+
+de onda, por mucho que me retroceda aquí, faltando tan sólo cinco minutos para que termine, no tiene
+
+sentido entrar en compra en un Breakout.
+
+Si a eso es a lo que me estoy refiriendo.
+
+Entonces, si nosotros estamos viendo esto, sí, sería mucho mejor entrar en compra en un retroceso
+
+aquí que no nombre.
+
+Sí, entonces aquí sí que estaríamos entrando en el origen de un tercer impulso.
+
+Pero si entramos por patrones de vela, o sea que esperamos una vela que haga un máximo más bajo que
+
+el anterior, ponemos dos.
+
+Ahora no lo supera, lo bajamos y entonces entraríamos, pues aproximadamente por este punto de aquí.
+
+Ahí así si.
+
+Y todavía entendemos margen de recorrido, porque todavía el precio que tiene podría tener margen para
+
+sí en sueño, pero aquí en los últimos minutos no, por favor, si vamos a ver qué es lo que dice el
+
+texto en esta franja, en este cuadrante de los segundos, cinco minutos, si se produce una segunda
+
+forma de onda y el operador también podría operarla, tiene alta probabilidad de éxito.
+
+Es posible que los diez en los diez minutos o los diez primeros minutos se produzca la primera onda.
+
+En este caso, el operador tendría que vigilar que no existan resistencias que dificulten la subida
+
+de precio.
+
+Sí, si las hubiese, sí.
+
+Sería mejor no hacer absolutamente nada y esperar a una nueva oportunidad.
+
+Qué pasaría ante esta situación?
+
+Que nosotros estaríamos viendo este tipo de movimiento baja y subiría, que sería lo más parecido a
+
+un giro.
+
+Y luego sería esta esto lo que nos está indicando bien, pues este tipo de situaciones, este tipo de
+
+situaciones pasan muchísimas veces.
+
+Si, estas formaciones, si.
+
+Dientes de sierra, engaños.
+
+En los últimos minutos de la de la vela está a punto de terminar.
+
+Entonces fijaros la diferencia.
+
+O sea, yo no voy a estar pensando en comprar aquí, porque aquí estoy viendo esto clásico de unos.
+
+12123.
+
+Y que el tercero me coincide también en los últimos minutos.
+
+Pues no sé si es que tiene que seguir subiendo el precio, porque este tipo de este tipo de comportamiento
+
+o este movimiento ha sucedido abajo del todo de una fuerte caída.
+
+Existe una gran probabilidad de que el precio haga un retroceso para luego volver a subir.
+
+Bien.
+
+Correcto.
+
+Lo que pasa es que lo que voy a estar esperando, ya que habrá una caída, el precio retroceda y luego
+
+vuelva otra vez a subir.
+
+Pero primero espero la caída y me meteré en copa.
+
+Pero espero la caída.
+
+No me pongo a comprar en los últimos cinco minutos de la venta de 15.
+
+Esperaré a ver si la siguiente vez de 15 me hace un retroceso y luego vuelvo a entrar donde sí.
+
+Pero si no, no miento.
+
+Cuando se produce una onda y los últimos minutos de la vela de 15 minutos, si el operador tendrá que
+
+identificar si ha llegado a una resistencia.
+
+De ser así, tendrá que esperar a ver si se forma algún patrón de giro bajista y esperar una onda en
+
+la siguiente vela.
+
+En este caso, bien, lo que está haciendo es es mostrarnos si este este tipo de vela puede terminar
+
+directamente en una resistencia.
+
+Por tanto, ya lo que está indicando es que viene de un movimiento tendencial alcista.
+
+Lo que estaba comentado anteriormente era el el ejemplo contario.
+
+O sea, se ha producido una fuerte caída y nosotros estamos viendo la posibilidad de un giro, entonces
+
+se suelen dar esas dos opciones, pero sobre todo la idea sigue siendo la misma, o sea, ya sea un
+
+cambio de tendencia en los últimos minutos no?
+
+Pero y ya sea que el precio esté llegando a una zona de resistencia que yo por mucho que me aparezca
+
+este tipo de movimientos, yo no me voy a poner en copa.
+
+Porque no, las probabilidades no van por ti.
+
+Bueno, si no ha llegado a una zona, el operador no lo operará, ya que es altamente probable que se
+
+produzca un retroceso más profundo, ya que el precio está caro.
+
+Pues es que es esto.
+
+Si por ejemplo esto, este tipo de movimiento alcista se ha iniciado en un soporte y no hay nada que
+
+pare al precio, es muy probable que empezó a esto y luego vuelva de nuevo a subir.
+
+Eso es lo que está iniciando.
+
+En este caso sería mejor esperar a la siguiente vela, porque la siguiente vela es debido a que se está
+
+formando hace este tipo de movimiento.
+
+Sube, vuelve a caer y hace eso.
+
+Es este tipo de movimiento que acabo de ahora de dibujar.
+
+Os lo voy a reproducir.
+
+Si tengo.
+
+Esta situación sí es.
+
+No hemos visto esto.
+
+Esto.
+
+Esto, si no recuerdo mal y atascado aquí.
+
+Se atasca, se atasca.
+
+Se atasca, se atasca.
+
+Sí.
+
+Muy bien.
+
+Verán que termina.
+
+Sí.
+
+Una vez que termina, hay posibilidades de que el precio siga subiendo.
+
+Porque todo este movimiento provenía de una fuerte caída de grafito.
+
+Qué es lo que ha pasado?
+
+Sí, este es este movimiento de aquí.
+
+Bueno, esto para que cierre aquí la vela.
+
+Vamos a hacerle esto.
+
+Sí.
+
+Ha llegado hasta aquí?
+
+Me encierra aquí?
+
+Sí, y me encierro.
+
+Por tanto.
+
+Este tipo de movimiento en ciencia.
+
+Pabilo.
+
+Esto, aproximadamente esto.
+
+Si me seguís ahora.
+
+Y todo esto son cinco minutos, cinco minutos y cinco minutos.
+
+Que si sigue así será mucho mejor así.
+
+Abuelita esto.
+
+En.
+
+Bien.
+
+Correcto.
+
+Vale, pues aquí lo tenemos.
+
+Sí, máximo.
+
+Máximo aproximadamente.
+
+Si sube.
+
+Y aquí el precio cierra.
+
+Aquí?
+
+Sí.
+
+Por tanto, la siguiente vela de 15 minutos me abrirá aquí.
+
+Sí.
+
+Vale.
+
+Entonces, qué es lo que pasa?
+
+Que obviamente, aquí tenemos la oportunidad.
+
+Tenemos aquí otra siguiente oportunidad.
+
+Yo estaría más por delante de retroceso.
+
+Si, pero aquí obviamente no, ya no, porque esto pasa muchas veces en los últimos cinco minutos.
+
+Bueno, voy a esperar el comportamiento de la vela siguiente, porque si la siguiente vela de 15 minutos
+
+que abre aquí.
+
+Haz esto.
+
+Durante esos 15 minutos me hice esto.
+
+Y hasta aquí.
+
+Haz este movimiento.
+
+Hace este movimiento.
+
+Que hace este movimiento?
+
+Tendríamos algo tal que.
+
+Hago tal que así.
+
+Algo parecido.
+
+Y nosotros estaríamos viendo el gráfico de un minuto.
+
+Este movimiento?
+
+Si.
+
+Esto.
+
+Y no saldrán a encontrarse ahí.
+
+Por tanto, caro esperar.
+
+Si yo estoy viendo todo esto y le falta a le falta la vela 15 minutos.
+
+Cinco minutos por terminar.
+
+Yo aquí no quiero su bomba.
+
+Vamos a esperar a ver si el precio hace un siguiente movimiento.
+
+Si?
+
+Si esto no se produce.
+
+Y la siguiente vela?
+
+Sí.
+
+Tendremos movimiento.
+
+Podemos esperar.
+
+Se produce esto.
+
+Sí.
+
+Ya le hemos sacado ya dinero o vienen en esta franja.
+
+O viene la siguiente señal.
+
+Bueno, esto puede seguir subiendo.
+
+Desde luego que sí.
+
+Si.
+
+Otra vez más de 15 minutos aquí.
+
+Pues.
+
+Bueno, pues puede.
+
+Puede darse otro tipo de movimientos.
+
+Si esto podía ser algo tal que así.
+
+Hemos visto esto.
+
+Esto es todo esto.
+
+Y esto sí que suele pasar muchísimas veces.
+
+Entonces, qué es lo que pasa?
+
+Que si yo estoy viendo esta opción y estoy aquí, no tengo nada que lo pare.
+
+Y esta es la primera.
+
+La primera vela.
+
+La primera vela alcista después de una fuerte caída.
+
+Por ejemplo.
+
+Así.
+
+Así que.
+
+Bueno.
+
+Pues posible que el precio recupere.
+
+Yo estoy viendo este tipo de pábilo y generalmente puede pasar este tipo de este tipo de formaciones.
+
+Sin este tipo de informaciones estaríamos viendo una M de tercera, solo que yo aquí al ver una M de
+
+tercera.
+
+Yo no estoy pensado en corto aquí porque el precio viene de AC, viene de aquí abajo, sube, rechaza
+
+y se da este tipo de situación.
+
+Yo estoy pensando, estaría pensando más en que en compras.
+
+Aquí nos está dejando algo tal que así.
+
+Sí, a veces se suele dar movimientos de engaño y luego este tipo de información.
+
+Se da la oportunidad de compra.
+
+Dos opciones de compra.
+
+Ante esta situación.
+
+Esta.
+
+Y esta sino fijaros la gran diferencia.
+
+Espero a que termine la vela de 15 minutos y observo el movimiento.
+
+Si no me hace este retroceso y el precio sigue subiendo.
+
+Generalmente solemos ver este tipo de movimiento.
+
+Una de tercera variante.
+
+Si no.
+
+Hace este tipo de movimiento y el precio sale disparado.
+
+Lo que estaríamos viendo.
+
+Sería algo tal que así.
+
+Esto ya lo hemos visto.
+
+Sube, sube.
+
+Bien, pues se llega hasta aquí aproximadamente.
+
+Y otro movimiento limpio.
+
+Entonces aquí aplicaría ya.
+
+El criterio de 123 terminados si en gráfico de uno o dos minutos.
+
+Estos tres impulsos estarían dentro de la vela de 15 minutos y automáticamente nosotros.
+
+Toda esta longitud.
+
+De los tres impulsos.
+
+Si se convierten en uno.
+
+Paella.
+
+Buscar aquí dos.
+
+Siempre.
+
+Entonces, en estos casos, si aquí tuviera toda esta sería la producción de un segundo impulso.
+
+Este segundo impulso.
+
+Podría estar.
+
+En cada grupo.
+
+Podría ser en una vela u otra vela de 15 minutos.
+
+O sea que.
+
+Una vela de 15 a vela de 15.
+
+Nos estaría dando un.
+
+Un impulso y dos impulsos.
+
+Sí.
+
+Entonces, si al final de un segundo impulso de la proyección en gráfico de uno o dos minutos.
+
+Resulta que el pc llega hasta aqui y me consume los ultimos cinco minutos.
+
+Pues cuidadito.
+
+Porqué estaríamos?
+
+Es posible que nunca.
+
+También podíamos ver esto.
+
+Si hago esto?
+
+Sí.
+
+Entonces esto significa que.
+
+La vela ha cerrado aquí.
+
+Ha hecho esto y ha vuelto a subir.
+
+Y lo mismo.
+
+Sí.
+
+Entonces, si estos son los últimos cinco minutos y me coincide los últimos cinco minutos por el final
+
+de un segundo impulso, pues ni que decir tiene que ni siquiera estoy pensando en cómo va a reaccionar.
+
+Vamos.
+
+Coña.
+
+Sabes que no tiene sentido.
+
+Es que no tiene sentido.
+
+Entonces, cuidado.
+
+Es posible que el precio pueda seguir subiendo?
+
+Claro que sí.
+
+Claro que sí.
+
+Si el precio puede hacer lo que le dé la real gana.
+
+Sólo que si lleva uno, dos y tres venas subiendo y me sale una 4.ª vela verde potente.
+
+Tipo uno arribita de todo.
+
+Sí.
+
+Aquí.
+
+Después de 123 y cuatro horas de 15 minutos que estaríamos hablando de una hora y veo una vela de tipo
+
+uno aquí y que me coincide.
+
+O una resistencia.
+
+Pues yo estaría viendo que.
+
+El final de un segundo.
+
+Vamos a ponerlo un poquito mejor.
+
+Si.
+
+Para que?
+
+Es un nuevo patio.
+
+Sí que lo más normal sería que ahora estuviéramos viendo este rechazo de aquí.
+
+Porque ha hecho esto la vela?
+
+Sí.
+
+Y volver a subir.
+
+Y los últimos cinco minutos de la Bella Esta está terminando en este punto.
+
+Aquí cortó.
+
+Bien, como hemos estado viendo anteriormente.
+
+Qué es lo que nosotros vamos a estar vigilando en esos últimos cinco minutos de una vela que terminó
+
+en zona y es de tipo uno y que además coincide con que.
+
+Con el Oric.
+
+Con un tercer impulso.
+
+Hasta aquí.
+
+Este último movimiento es altamente probable.
+
+De que esté viendo ya una forma triangular correspondiente a una posible m.
+
+Sí.
+
+Es posible.
+
+Sí.
+
+Entonces, claro que es lo que pasa.
+
+Que yo ante una, dos, tres, una hora subiendo tres impulsos terminados en tráfico de un minuto en
+
+zona de resistencia.
+
+Pues no creéis que lo más probable sería que yo tuviera que estar vigilando a ver que pasa?
+
+Sí.
+
+Entonces si estoy vigilando a ver qué pasa.
+
+No sé si me permite ahora cambiar todo.
+
+Estoy.
+
+Te voy a permitir ponerlo un poco más abajo.
+
+Eso es perfecto.
+
+Si una pequeña desaparición me lleva a dibujarme con ese dibujo.
+
+Para entonces.
+
+Bien.
+
+Que es lo que podríamos estar viendo aquí?
+
+Vamos a estar esperando el comportamiento de la novela.
+
+Porque la siguiente vela al ver esto.
+
+Un cuerpo verde potente.
+
+La gran mayoría de la gente va a pensar que esto se puede ir para arriba.
+
+Es que no tienen en cuenta que ya dentro de las estructuras, dentro de otras, estamos.
+
+Estamos ya con un tercer impulso y una ola subiendo.
+
+Sea esto ya lo vais a ver, que cuando en vez de lleva una hora subiendo y coincide con la finalización
+
+de un tercer impulso, pues la verdad es que las probabilidades de retroceso son elevadas y si lleva
+
+mucho más tiempo el precio cayendo todavía más.
+
+Entonces esto puede ser que esto.
+
+Abre donde sea ropa interior.
+
+Indirectamente empece.
+
+Empecemos sobre esto.
+
+A esto.
+
+Una caída.
+
+Una subida.
+
+Y una caída.
+
+Que estaríamos viendo en la vela.
+
+Esta.
+
+Esto.
+
+Esto.
+
+Y esto.
+
+Ahora tienen todo mucho más sentido.
+
+Tiene más sentido el poder estar vigilando el comportamiento de la vela de 15 minutos en una zona con
+
+todo esto que ha pasado en los últimos cinco minutos.
+
+Nos vamos a encontrar esto y los primeros minutos de la nueva vida que se está formando y que acabo
+
+de dibujar ahora.
+
+El comportamiento, que es lo más normal que está aquí que suceda, es que ha habido un intento.
+
+De bajar ha ido un retroceso y ha bajado.
+
+Por tanto, la segunda forma, forma triangular de la M tercera, estaría en la nueva del equipo.
+
+Sí.
+
+Pues es que hay mucha diferencia eh?
+
+Hay mucha diferencia en entrar en mis 40 nm y no siempre.
+
+Y es bueno o bueno, no siempre las mejores oportunidades de entrada en mes, pues es donde la gran
+
+mayoría de la gente la mira.
+
+Por que no?
+
+Porque tienes que leer, o sea, tienes que saber leer todo este tipo de información.
+
+Si, vale.
+
+Pues bueno, visto ya esta explicación, pues ya pasamos ya a siete, esto ya hemos visto.
+
+Proceso de absorción de compras.
+
+Tenemos una guerra de tipo dos.
+
+Donde?
+
+Aquí abrió, marcó un mínimo y aquí me cerró.
+
+Se caracteriza todo este tipo de pábilo, sombra o mecha?
+
+Hay que tener en cuenta.
+
+Es recordar que para que el pecio llegase hasta aquí tuvo que haber bajado mucho más el precio.
+
+O sea que aquí el precio para que cayese tuvieron que haber ventas y en un momento dado las compras.
+
+Absorbe todas las ventas y se retrae la vela.
+
+Si se retrae la vela y se encoge.
+
+Y es lo que pasa que nosotros estamos.
+
+Cómo veríamos esto en.
+
+En un ejemplo de movimiento bajista?
+
+Sí, estaríamos viendo que cada cuadrante equivalen a cinco minutos.
+
+El precio viene ya de una caída.
+
+Entonces que estaríamos viendo?
+
+Un retroceso.
+
+Una nueve.
+
+Cae una nueva caída.
+
+Esta última caída puede ser fuerte y es que hay mucha actividad.
+
+Si el precio estaría llegando los últimos cinco minutos, marcado este mínimo y que encima coincidiese
+
+con un.
+
+Con un soporte importante donde anteriormente también hubiera sido rechazado el precio.
+
+Y que estaríamos viendo este tipo de movimientos.
+
+Generalmente.
+
+Y entonces en los últimos minutos.
+
+Los últimos minutos es donde aquí cuando se producen esos procesos de absorción rápidos, sin rápidos,
+
+que en este caso en una única vela nos estaría dando la opción de compra.
+
+Nosotros estaríamos viendo un proceso de absorción rápido.
+
+Cae, recupera y compra.
+
+Claro que yo os estaba mostrando anteriormente que los procesos de formaciones del WC se podrían dar
+
+con dos patrones de vela, o sea una una vela terminada en zona más, luego la siguiente que entraríamos
+
+en compra.
+
+Y aquí os estoy diciendo que en muchas ocasiones la misma vela de 15 minutos que se está terminando
+
+nos está dando la opción de coca.
+
+Entonces este tipo de movimientos suelen ser rápidos, solo que nosotros tenemos que estar ahí atentos
+
+a esa oportunidad y estar viendo el movimiento que se produce de esta vela.
+
+Cuerpo grande, bajista llega hasta aquí abajo, se retrae, baja y hace esto para que vuelva a subir.
+
+Este tipo de movimientos voy a dibujar porque es que.
+
+Quiero que lo veáis.
+
+Tengo esto.
+
+Y tengo esto.
+
+Hemos aparecía con esto en el dibujo.
+
+Cae.
+
+Recupera.
+
+Vuelve a caer.
+
+Recupera.
+
+Vuelve a caer y recuperar todo este movimiento.
+
+Lo hace en 15 minutos.
+
+Sólo que nosotros estamos viendo una vida terminada una vez terminada en un café de 15 minutos.
+
+Y todo este movimiento lo estamos viendo en los gráficos de un minuto.
+
+Pero mientras que se está formando la vida y por eso hay que estar viendo qué es lo que pasa, es lo
+
+que pasa.
+
+Qué movimiento estaremos viendo en esta vida aquí?
+
+Lo primero a ver en este punto, aquí tendría cuerpo rojo.
+
+Hasta este punto.
+
+Correcto.
+
+Hace un retroceso.
+
+Tiene una fuerte caída.
+
+Plaza fuerte y fuerte control de la oferta.
+
+Fuerte control de la oferta.
+
+Vale.
+
+Una vista de todos los operadores, estaríamos pensando que el precio segundo va a caer en picado,
+
+seguirá cayendo y seguirá cayendo.
+
+Y sin embargo, se produce esto.
+
+Ese tipo de movimiento.
+
+Vuelve de nuevo a caer.
+
+Sigamos viendo otra vez cuerpo de bajista y ya se retrae.
+
+Y estamos viendo ya la W.
+
+Correcto.
+
+Hasta que lo golpee.
+
+Haz esto.
+
+Y si nos quedamos?
+
+Este es el tipo de movimiento que estaríamos viendo en directo de una vela de 15 minutos ante este tipo
+
+de situación.
+
+Correcto.
+
+Entonces tenemos que estar viéndolo desde ese.
+
+Desde ese y desde ese punto de vista.
+
+Por.
+
+Y luego tendríamos el siguiente movimiento, el siguiente movimiento que sería una vela, una vela envolvente
+
+alcista.
+
+Si queda ahí que estaría de esta forma si tendríamos.
+
+La siguiente forma de onda la tendríamos en este punto.
+
+Y un retroceso.
+
+Lo hice.
+
+Entraríamos en compra en este punto.
+
+Aquí estaríamos todavía dentro de los primeros cinco minutos de la nueva vela que se está formando y
+
+este siguiente movimiento impulsivo.
+
+Solo que aquí si saliera un retroceso para no dar en Colombia, ya no entraríamos en Cuba en ese punto,
+
+de ahí nada, ya nos esperaríamos sacrificio y fiera o un siguiente movimiento alcista y luego un retroceso
+
+para entrar en compra o esperar a que la siguiente vela nos hiciese un contrapeso.
+
+Me refiero a vela.
+
+Vela de 15 minutos.
+
+Sí, porque esto puede seguir subiendo a corto.
+
+Pues vamos a ver en el mismo caso, pero en sentido contrario.
+
+Perdón.
+
+Tenemos una vela de tipo dos.
+
+Abre aquí, cierra aquí.
+
+Y tenemos máximos de cotización.
+
+Si bien todo este proceso de aquí para que el precio llegase hasta aquí, quiere decir que hasta ahí
+
+arriba, hasta aquí.
+
+El cuerpo era verde.
+
+Hasta aquí?
+
+Sí.
+
+Cuerpo verde potente.
+
+Fuerte control de la demanda.
+
+En un momento dado desaparece la demanda y empieza a dar ofertas.
+
+Y esa entrada?
+
+Y esa entrada de la oferta.
+
+Perdón, que me estoy poniendo agua.
+
+Esa entrada de oferta es lo que hace que el precio se encoja.
+
+Si el precio del cuerpo de la vela 5G, si Recall es lo que hace que nosotros estemos viendo esta mecha
+
+de aquí.
+
+Y eso sólo se puede producir por ventas.
+
+Las ventas son mayores a las compras.
+
+Recordar que esas ventas pueden ser ventas por cierres de posiciones totales, ventas de cierres de
+
+posiciones parciales más luego en cada de oferta al mercado por o por venta en corto.
+
+Entonces, si todas esas ventas son superiores a la cantidad de personas que están interesadas en comprar
+
+a estos niveles, de aquí, automáticamente el precio caerá.
+
+Y si esto no lo encontramos al final de un movimiento extendido alcista, pues muchachos, es lógico
+
+pensar que las probabilidades puedan ser más hacia abajo que no hacia arriba.
+
+Entonces esto hay que saber.
+
+Deja ver entonces que estaríamos viendo en este tipo de movimientos?
+
+Precio lo mismo.
+
+Cada cuadrante lo he dividido en cinco minutos para que se entienda mejor.
+
+El precio viene de un fuerte movimiento alcista.
+
+Llega a marcar máximos.
+
+El precio cae y cierra en este punto.
+
+Aquí.
+
+Veis?
+
+Aquí, cierre.
+
+Aquí y aquí.
+
+Pues todo este proceso de absorción, al final lo que ha hecho es que el precio haya llegado hasta aquí
+
+y el precio caiga, ni más ni menos.
+
+Qué está viviendo en la siguiente vela?
+
+Le espero.
+
+Me espero a observar qué es lo que sucede.
+
+Porque yo ya estoy aquí escribiendo ya la primera formación de.
+
+La.
+
+De la primera forma triangular de una posible m.
+
+Que con todo este movimiento que estoy viendo a lo largo de 15 minutos, yo ya me estoy ya planteando
+
+un posible corto.
+
+Muy bien, entonces si la siguiente vela se me está formando algo así, yo ya antes de empezar a dibujar
+
+aquí, yo ya sí que aquí ante esta situación estaría viendo una posi una, una tercera variante.
+
+Entonces.
+
+Qué es lo que estaría viendo?
+
+Esto.
+
+El precio abre.
+
+Sube más y hace un intento.
+
+La demanda de querer tomar el control.
+
+Y es fuertemente rechazado por la oferta.
+
+Sí.
+
+Y que están viendo aquí?
+
+En este punto.
+
+Aquí.
+
+La base.
+
+La base de una m de tercera.
+
+Si el precio no continúa cayendo y rompe por debajo de la base de la de la M.
+
+Eso es un corto como un piano, pero es un corto como un piano mucho más seguro, porque estoy viendo
+
+que la vela de 15 minutos ya ha terminado en una resistencia.
+
+He estado viendo el proceso de absorción porque yo ya no estoy introduciendo chicos y me espero, me
+
+espero a la siguiente, espero la siguiente a ver que es lo que va a hacer, porque puede ser que me
+
+haga un máximo a la misma altura.
+
+Tendríamos una M de primera variante, puede ser que me haga un máximo más alto y luego se retrae y
+
+luego tendríamos una vez desde una seguramente, o puede que siga subiendo, que no lo sé, por eso
+
+nos esperamos.
+
+Nos esperamos a que tengamos esta confirmación.
+
+Y cuando esto sucede, esto sí que es un corto más fácil de operar.
+
+Y esto se ve en todos los marcos temporales.
+
+Sí, sólo que los marcos temporales mayores como mensuales o semanales, no vamos a estar buscando cortos,
+
+vamos a estar buscando más las copas, porque?
+
+Porque las copas llevan mucho más tiempo.
+
+Podéis aprovechar las ventas.
+
+Sí, sí, pero que sepáis que a veces las e, las y las opciones de venta en marcos temporales llamada
+
+más elevadas, suelen ser más caros.
+
+Suelen ser más caros?
+
+Sí, y a veces?
+
+Pues depende.
+
+Hay que elegir un tipo de instrumento distinto, como pueden ser las opciones y opciones.
+
+Opciones?
+
+Vale que por lo menos que sepáis que se puede hacer.
+
+Yo iría más a por las a por las compras en marcos de tiempo más elevados.
+
+Pero bueno, que podéis hacerlo de otra manera.
+
+Pues también, si bien y estamos viendo como en el siguiente movimiento retrocede, nos deja una nueva
+
+forma de onda y también nos estaría dando la oportunidad de hacer una nueva venta al mercado por esto.
+
+Entonces este tipo de movimiento.
+
+Este tipo de movimiento.
+
+Este movimiento para verlo reproducido lo más parecido posible a una al comportamiento de una vela en
+
+directo sería que si el precio abre aquí.
+
+Su.
+
+Tendríamos un cuerpo verde.
+
+Luego el precio es rechazado.
+
+Es rechazado por la oferta tomando en cuenta la oferta.
+
+Tendría.
+
+Si.
+
+Cae.
+
+Baja.
+
+Sube y vuelve otra vez a caer.
+
+Sí.
+
+Sí, el precio abierto en este punto de aquí.
+
+Donde cerró ropa interior y me ha generado un un máximo de cotización.
+
+Hasta aquí tendríamos esta vela.
+
+Si no tendríamos este tipo de movimiento.
+
+Entonces ya está exhibiendo ese movimiento.
+
+Sería.
+
+Abre.
+
+Cierra!
+
+Baja.
+
+Suben y vuelven.
+
+Este es un tipo de movimiento.
+
+Estaríamos viendo en directo.
+
+Ni más ni menos.
+
+Sí.
+
+Vale.
+
+Espero que se entienda bien.
+
+Resumen de las velas.
+
+Velas vendedoras tipo uno.
+
+Tipo dos.
+
+Tipo tres.
+
+Dentro de las de tipo tres tenemos estas que son los martillos invertidos y pueden ser pues en color
+
+rojo o verde.
+
+Era exactamente igual.
+
+Sí.
+
+O sea, la idea es que este tipo de velas, cuando los encontramos en zonas de resistencia con movimientos
+
+extendidos, son velas que anuncian el cambio.
+
+Hay giros altamente probables.
+
+Si.
+
+Y luego tenemos la vida del tipo cuatro.
+
+La vela tipo cuatro es un martillo.
+
+Es un martillo que arriba del todo.
+
+Ni se os ocurra interpretarlo como una opción de copa.
+
+Los martillos en retrocesos en los inicios de los movimientos.
+
+Si.
+
+Martillos de este tipo arriba del todo y que generalmente no suelen ser los mismos martillos que nos
+
+dan las opciones de compra.
+
+Este tipo de martillos se diferencia de los martillos convencionales de compra en que éstos suelen tener
+
+mucha más mecha que en los otros.
+
+Me refiero a que los martillos que dan opción de compra suelen ser con un pabilo o mecha bastante más
+
+pequeño que los que los martillos que anuncian giro de mercado.
+
+Lo voy a dibujar.
+
+O sea que si yo tengo esto, tengo este movimiento, este movimiento.
+
+Y aquí de nuevo empieza a subir.
+
+Generalmente los martillos que se dan en opción de colgar suelen ser.
+
+Martillos.
+
+Sin mucha mecha si son martillos que son sencillitos de observar.
+
+Y tendríamos, pues, una vela o vela.
+
+Y otra vez, por ejemplo, si, algo así.
+
+Y aquí aparece.
+
+Maldito conga.
+
+Por qué?
+
+Porque la siguiente viene esto.
+
+En esto viene esto.
+
+Vale, perfecto.
+
+Aquí se suele haber retroceso, retroceso y.
+
+Otro martillito.
+
+Sí, suelen ser.
+
+Bueno, sencillos de bueno, no sencillos, que no suelen ser un compact hunt.
+
+Un comportamiento como estos que caen.
+
+Y hace esto.
+
+Y qué suele dejar?
+
+Una fuerte mecha.
+
+Eso es lo que he oído.
+
+Ves que este tipo de comportamiento lo vamos a observar arriba del todo?
+
+Aquí hace este tipo de movimientos.
+
+Caen.
+
+Y es rechazado, rechazado, rechazado, rechazado.
+
+Y encima acaba con un cuerpo verde.
+
+Si.
+
+Acaba con un cuerpo.
+
+Perdón.
+
+Con este pabilo?
+
+Pero este tipo de movimiento arriba del todo con esta.
+
+Con este pabilo.
+
+Pues la verdad es que la lectura tiene que ser todo lo contrario.
+
+No es lo mismo este martillo de con este tipo de mecha que este en un retroceso con una tendencia ya
+
+establecida de antes o este.
+
+Porque esto es giro, es cambio de tendencia, no es opción de compra.
+
+Y estos movimientos suelen ser bastante más agresivos.
+
+Suele haber mucha distancia desde aquí hasta aquí.
+
+Si desde que cierra el cuerpo a su mínimo suele haber mucha distancia y no suele haber.
+
+Y este comportamiento no suele ser en los martillos compradores, digamos normales, sí, o sea, o
+
+lo saneados como aquel que hice.
+
+En cuanto a las velas, resumen de las velas o jugadoras tipo uno tendríamos esta sin cuerpo que cierra
+
+mínimos potente.
+
+Luego las dos opciones de tipo dos, una de cuerpo rojo y la otra de cuerpo verde y luego tenemos la
+
+de tipo tres que tendríamos las mismas opciones.
+
+Sí que serían unos martillos en donde sea que A se ha desnudado mucho, la B la tenemos mucha mucha
+
+por por debajo y esto obviamente no lo tenemos que encontrar en zonas de soporte.
+
+Por tanto velas compradoras tipo uno o dos, tipo tres.
+
+Además tenemos que contar abajo el soporte.
+
+Si velas vendedoras, si tipo uno, tipo dos, tipo tres y tipo cuatro.
+
+No las tenemos que encontrar arriba en las resistencias?
+
+Si, al final de los movimientos extendidos, si.
+
+Bueno, ahora surge la pregunta.
+
+Por dónde las vamos a ocultar?
+
+Oh, bueno, vamos a imaginar que tenemos un soporte abajo de todo.
+
+Sí, y que el precio viene de arriba.
+
+Lo más normal sería que estos mismos patrones nos encontremos o vayamos a observarlos a ver si se producen
+
+en los soportes que hemos identificado, que hemos analizado, analizado anteriormente.
+
+Porque si yo estoy viendo esto de aquí, estoy viendo que esta es una vela tipo uno.
+
+Aton tipo uno.
+
+Y aparece este patrón de tipo uno en una zona en donde no hay soporte de ningún tipo.
+
+Yo, por mucho que ese patrón yo lo pueda identificar como un patrón de tipo uno, yo no lo voy a tomar
+
+en cuenta como una posible formación de una W.
+
+Por qué?
+
+Pues por la sencilla razón de que aquí no hay nada que lo pare.
+
+Simplemente por eso.
+
+Entonces, si yo estoy viendo que se me está formando este tipo de patrón, yo quito la bata.
+
+O sea, y me da igual que si es un patrón uno o un patrón dos.
+
+Porque si es un patrón o un patrón dos, ahí donde no hay nada que lo pare, o sea, se me puede estar
+
+formando un retroceso para que luego pueda volver a caer.
+
+Y esos tipos de patrones generalmente sí suelen ir de esta forma.
+
+Suele aparecer esto?
+
+Sí.
+
+Vale.
+
+Entonces, como estás viendo, hay mucha distancia desde el la formación o desde la la vela de tipo
+
+de tipo uno al soporte.
+
+Lo más lógico sería que el pecio continuase cayendo.
+
+Si te aparece eso, si te aparece eso, no pienses en la.
+
+En la, en la opción o en la fórmula que hemos estado viendo anteriormente.
+
+No es que son sólo es para abajo.
+
+Aquí.
+
+Yo aquí estoy viendo un patrón de tipo uno y en los últimos cinco minutos estoy viendo cómo se me está
+
+formando un retroceso.
+
+Yo voy a estar más pensando en la posibilidad de continuación de caída que no alcista por puro sentido
+
+común.
+
+La visión de mercado me está diciendo que todavía hay posibilidades que eso caiga.
+
+Esto tiene más sentido aquí abajo que no aquí en el medio.
+
+Sí.
+
+Cuando esto sucede, este tipo de comportamientos estamos viendo.
+
+Este tipo de movimientos.
+
+Qué te crees que nos podemos encontrar?
+
+Este tipo de movimientos que estaríamos viendo aquí?
+
+Una W de primera variante.
+
+Doble suelo técnico.
+
+Claro.
+
+Estás viendo esto aquí?
+
+Y dices tú waw, aquí se paga la caída a un doble suelo.
+
+Como os ha dicho Jorge, aquí tengo la primera forma triangular, aquí tengo la siguiente copia y aquí
+
+yo cambio de tendencia y la dejo por ahí.
+
+Nos vamos para arriba.
+
+Cuidado!
+
+Porque no!
+
+Porque no funciona así.
+
+Este planteamiento, aquí abajo mejor.
+
+Pero aquí arriba existe la posibilidad de que sea ese tipo de movimiento.
+
+Sí, vale.
+
+Muy bien.
+
+Ha podido ser una WD en primera.
+
+Rompe la base y te de beneficios.
+
+Pero yo voy a estar pensando, chicos, yo voy a estar pensando que si la corriente, la fuerza la tiene
+
+las vendas.
+
+Yo este tipo de movimiento.
+
+Yo es que ni siquiera le presto atención como compra.
+
+Estoy pensando en qué tipo de vela.
+
+Qué tipo de vela?
+
+De 15 minutos me termina dentro de los patrones que hemos estado viendo, porque aquí se produce una
+
+caída.
+
+Uno.
+
+No creéis que lo más normal sea que haga esto?
+
+Vale, pues entonces lo que voy a estar esperando en lugar de de operar una COB aquí que puede salir
+
+buena, claro que sí, pero si van, si esto va hacia abajo, voy a esperar más opciones hacia abajo.
+
+Elimino por completo la opción de copia.
+
+Aquí no copio.
+
+Voy a estar esperando a que una vela me termine, me termine o una de dos.
+
+O en un nivel de fibo.
+
+O.
+
+O que me termine siempre en.
+
+O que termino una vela de los patrones que me han gustado viendo tipo uno, tipo dos o tipo tres.
+
+En este caso, como verás, esta es de tipo tres.
+
+Tipo dos.
+
+Perdón y estoy viendo que se está desnudando la vela.
+
+Si aquí esto es un primer impulso y hasta aquí retrocede.
+
+Y aproximadamente esto puede ser un 50% de Fibonacci aquí.
+
+Yo me estoy bien.
+
+Me estoy planteando rechazo.
+
+Sí, toma de control de nuevo de la oferta.
+
+Esto, por cierto, son.
+
+Son velas de 15 minutos, y estoy viendo ya un rechazo.
+
+Vale, ya tengo la primera señal que me hace pensar que esto puede seguir cayendo, que voy a estar.
+
+Que voy a estar pensando en la siguiente vela.
+
+En la siguiente vela estaré o estaré esperando a que se forme un nuevo patrón?
+
+Si este esta vela de aquí abre y no me y no me supera la el máximo anterior como es este caso.
+
+Aquí estaríamos viendo una tercera variante.
+
+Sí.
+
+En el supuesto de que esta meta llegué hasta aquí, estaríamos viendo una e, una, una m de de primera.
+
+Y también podemos encontrarnos este pabilo que llega hasta aquí de lo gire.
+
+Correcto.
+
+Estaríamos viendo una de segunda.
+
+Yo seguiré pensando en corto.
+
+No en compras, por mucho que haya visto este patrón.
+
+Ahora, los mismos patrones que anuncian giro de mercado en resistencias cuando el precio va de bajada
+
+y sube.
+
+Los voy a buscar y los voy a esperar porque van a ser los que me van a indicar la posibilidad de que
+
+vuelva de nuevo a caer.
+
+Entonces estaré esperando a que la nueva vela que se está formando ya aquí encuentre una forma de onda.
+
+Y aquí lo más normal sería encontrarnos ante esta situación una una jeme de tercera variante.
+
+Sí, fue entonces.
+
+Y ahora tenemos ahora.
+
+Si, una vela.
+
+Una vela de tipo uno, donde los últimos cinco o seis minutos de promedio me está consumiendo tiempo
+
+y de soporte si está consumido.
+
+Tiempo.
+
+Y qué pasa tiempo aquí en esta ahora estaría.
+
+Tendría que esperar a ver qué es lo que pasa en la siguiente, en la siguiente vela.
+
+Porque si yo estoy viendo esto es de tipo, tipo uno me cierra y esto ya es uno y estos dos si uno y
+
+dos y si ya me coincide con los niveles de Fibonacci que representan a la uno, 38 38 dos, equivalente
+
+a un segundo impulso.
+
+Yo en un gráfico de uno o dos minutos estaría viendo ya.
+
+Un movimiento bajista y un retroceso y tendría que esperar a la siguiente vela a ver si me deja una
+
+oportunidad de compra.
+
+En este caso estaríamos viendo que este tipo de movimiento nos dejaría una W de segunda variante y la
+
+interna en popa la tendríamos en la vela que se está formando o se hace en esta verde?
+
+Sí.
+
+Y aquí es donde tenemos la formación.
+
+Aquí.
+
+Ahora el precio comienza a subir.
+
+Sube.
+
+Tenemos una hora.
+
+El precio está subiendo.
+
+Y qué es lo que voy a esperar después de que el precio está subiendo una hora?
+
+No voy a esperar volver ahí arriba.
+
+Me voy a esperar.
+
+Entonces, en las bajadas, voy a estar esperando a que se produzca un patrón de decoupage.
+
+Un patrón de compra que puede ser el patrón uno o el dos.
+
+En este caso estoy viendo como se produce un patrón de de tipo dos.
+
+De tipo dos.
+
+Al final, o los últimos cinco o seis minutos que también coincide con una vela de 15 minutos cayendo
+
+y otra vela de 15 minutos, ya que estaríamos prácticamente 30 minutos de caída.
+
+Entonces yo viendo esta situación aquí.
+
+Y ya identifico que esta vela que me ha terminado es de tipo dos.
+
+Qué es lo que estaríamos esperando a la siguiente vela?
+
+A ver si se forma un una forma de onda.
+
+Entonces tengo ahora esta vela martillo?
+
+Si.
+
+Y en esta vela martillo es donde tendríamos que encontrar la opción de compra.
+
+O sea, una forma de onda la de que encontrar aquí.
+
+Ante este ejemplo, nosotros estaríamos viendo una W de primera variante con un doble suelo técnico.
+
+Si este movimiento, esto de aquí no lo encontramos en un bueno, se encuentra en un 38 puntos.
+
+Pues ahora nosotros al ver esto, si al ver este patrón y no un 38.2, automáticamente en gráficos de
+
+uno o dos minutos, tendríamos que encontrar la forma de onda en la nueva era de 15.
+
+Pues enseguida.
+
+En rigor, también podríamos operarlo de otra forma.
+
+Quizás esperar está bien.
+
+Después de que tenemos esta velada aquí terminada, patrón.
+
+Dos más.
+
+Luego otra vida de aquí de martillo y entrar en compra aquí también.
+
+Pero aquí nos incumben de a poco.
+
+De 15 minutos.
+
+Correcto.
+
+Y aquí podíamos entrar en venta en pasan de 15 minutos.
+
+Si viendo esto, pondríamos aquí la entrada en cortos.
+
+Siempre y cuando veamos este tipo de comportamientos.
+
+4.º.
+
+Bueno, el precio subiría, subiría y subiría.
+
+En cuanto a los patrones de compra por Fibonacci, es algo que acabo de mencionar.
+
+Nosotros tenemos ya este tipo de movimientos, ya altos impuestos terminados y caro.
+
+Lleva alguna hora subiendo.
+
+Y qué es lo que sucede?
+
+Bueno, después de una hora, tiene que.
+
+Tiene que.
+
+Tiene que retroceder.
+
+Si dentro de esa hora vemos tres impulsos terminados en gráfico de uno o dos minutos.
+
+Si este tipo, este movimiento, nos encontramos después de una fuerte caída y con grandes probabilidades
+
+de que el precio siga subiendo.
+
+Pues que es lo que va a pasar?
+
+Que lo más seguro es que el precio caiga, me rompa la línea de tendencia y que si y si el precio vuelve
+
+a subir.
+
+Todo esto sea un primer impulso para ir a buscar un segundo correcto.
+
+Por lo hemos visto en el anterior curso Master Fader.
+
+Entonces yo lo que voy a hacer es sacar mi Fibonacci y lo que voy a hacer va a ser establecer o prestar
+
+atención a los niveles del 38, porque si los niveles me aparecen estos patrones que yo voy a observar,
+
+si una vela de tipo de patrón fuma una vela tipo uno que me cierra o me consume el tiempo en un nivel
+
+de 8.2 está esperando la entrada en compra de la segunda vela, o sea, la siguiente aquí.
+
+Y qué tendríamos aquí?
+
+Pues uno o el doble de este de primera variante, con un doble solo técnico.
+
+Esto se ve muchísimas veces, muchísimas.
+
+E igual el marco temporal se ve muchísimas veces.
+
+También tenemos esta opción si vela de tipo dos con este tipo de movimiento que veríamos aquí una W
+
+de segunda variante maravillosa, perfecta son las que más me gustan, las de engaño.
+
+Componente de engaño.
+
+Oye, que parece que nos vamos para abajo, se gira y aquí entra de compra.
+
+Qué más veríamos también?
+
+Este tipo de posibilidades es una vela de tipo tipo tres y que luego la siguiente vela le deja un mínimo
+
+más alto que la anterior y se convierte en una envolvente.
+
+Esto cómo lo podemos traducir en una W de tercera variante?
+
+Y también tenemos esta posibilidad sí que sería y el giro nuestro que esto lo veríamos como algo así.
+
+4.º, pues todas estas opciones, todas estas opciones de patrones de vela, W de primera, de W, de
+
+primera, de segunda, de tercera y giros en uve, los vamos a encontrar con posibilidades de que esto
+
+siga subiendo y por tanto todo el siguiente movimiento sea ya el NO.
+
+Desde aquí el origen del segundo impulso.
+
+Entonces todo esto sería un primero voy a buscar un segundo 4.º.
+
+Ay, pues esto también lo vamos a poder encontrar en el 50%.
+
+Lo mismo W de primera, de segunda y tercera y región B.
+
+Y desde aquí arrancaría el origen del segundo impulso y también tendríamos el siguiente nivel de fibo
+
+importante también en 61.8%, en donde buscaríamos exactamente lo mismo si W de primera, de segunda,
+
+de tercera y la vuelta nube y desde aquí arrancaría el origen del segundo impulso.
+
+Esto pasa muchísimas veces, por no decir constantemente, constantemente, sí.
+
+Entonces si esto.
+
+Por ejemplo.
+
+Em lo hemos encontrado.
+
+Este fuerte movimiento de rechazo en un origen de un.
+
+De un soporte importante y clásico diario.
+
+Ya os he dicho que tenéis que estar mirando el gráfico diario del activo en el que estéis operando,
+
+sea el que sea, porque podéis identificar zonas de soporte altamente probables que nos puede dar una
+
+gran oportunidad de entrar en un marco corto de tiempo donde ahí.
+
+Luego lo más probable es que se desarrolle una tendencia alcista y las tendencias alcistas sean más
+
+fáciles de operar porque empiezan de abajo, no empiezan arriba, lo que es caro.
+
+Cuando el precio empieza a subir desde un fuerte soporte técnico diario hacia provincias, se convierte
+
+en algo mucho más fácil.
+
+Pero cuando el precio está ya muy caro, muy, muy caro, un gráfico diario.
+
+Generalmente los rangos de precio se suben, se suelen producir arriba.
+
+No se suelen producir abajo cuando el precio en un gráfico diario está rebotando en un soporte.
+
+Generalmente se suelen pasar varios días subiendo, por no decir titular hasta una o dos semanas.
+
+Claro, cuando eso sucede es más fácil hacer trading que no cuando el precio en gráfico diario lleva
+
+varios días subiendo, ha completado sus ciclos.
+
+Si, en cuanto a estructuras de impulsos y todo esto que ya hemos visto y se empieza a la derecha de
+
+arriba, cuando esto sucede arriba del todo se falla muchísimo.
+
+Por eso tienes que estar analizando los gráficos diarios.
+
+En cuanto a los patrones vendedores en Fibonacci, si bien.
+
+Fijaros que esta vela después de una de una caída fuerte, estas de tipo dos.
+
+Si se retraen, se retraen.
+
+No se está dejando esta.
+
+Esta mecha.
+
+Y el movimiento de estas dos velas, estaríamos viendo en un gráfico de uno o dos minutos algo parecido
+
+a esto.
+
+Si viene hasta aquí, recupera.
+
+Y esta recuperación de aquí, o sea, este retroceso, equivale a este proceso.
+
+Si os dais cuenta, el precio viene hasta aquí.
+
+Pues desde aquí hasta aquí.
+
+Aferrada a ti.
+
+Y la siguiente vela sube y luego vuelve a bajar.
+
+Por tanto, este máximo de aquí representa este movimiento.
+
+Esto ya no, porque el de identificar este tipo de movimientos en gráfico de 15 minutos hace que aquí
+
+podamos aprovechar un momento de 24.
+
+Pero si ahora esta vela de tipo de tipo dos está apareciendo en una zona en donde no hay soporte, por
+
+mucho que vea una de tipo dos.
+
+Si yo voy a estar pensando más en opciones de esperar más horas mientras me las compras, porque este
+
+tipo de movimiento es generalmente visto.
+
+Por cierto, esto no va así.
+
+Así?
+
+Si.
+
+Disculpen, chicos.
+
+Es que.
+
+Ahora el simulacro tiene más sentido.
+
+Correcto.
+
+Vale, entonces.
+
+Ahora tenemos una vela tipo dos porque no aparece y aparece en una zona de nadie que todavía le queda
+
+rato por caer.
+
+Y yo no voy a estar pensando en opciones de compra.
+
+O sea, por mucho que esté viendo algo parecido a esto.
+
+Ya, claro.
+
+No confundir vela del tipo dos.
+
+Estoy viendo ya la primera forma triangular.
+
+No es que exista, no está en un soporte.
+
+Me da igual esto.
+
+Yo voy a estar pensando más en ventas, voy a estar pensando en sacar mi TiVo aquí, no voy a estar
+
+pensando en forma de onda, no, porque por esta perla el tipo dos no está en un soporte si le queda
+
+espacio todavía por caer.
+
+No estoy pensando aquí en forma de onda, mejor me voy a esperar a que el precio suba y para ello voy
+
+a poner mi fibo y voy a estar vigilando los niveles de fibo y los niveles de fibo.
+
+Voy a estar vigilando cualquier tipo de patrón, de patrón vendedor que se dé en estos niveles y que
+
+me cierre o consuma los últimos cinco minutos en las 38, 50 o el 61.8%, ni más ni menos.
+
+Y voy a buscar exactamente lo mismo.
+
+Verá que había terminado en zona tipo uno a la siguiente.
+
+Si te das cuenta, es un doble techo.
+
+Qué es lo que voy a ver?
+
+Una M de varios.
+
+Ni más ni menos.
+
+La segunda opción podría ser una vela de tipo dos.
+
+Y la siguiente vela que se me está formando como ésta marca un máximo más alto que la anterior que estaríamos
+
+viendo ahí.
+
+Pues una W de segunda variante.
+
+Y luego tendríamos esta opción.
+
+Sí, que también puede ser martillo invertido con otro martillo invertido y se convertiría en una en
+
+una EV de primera variante.
+
+Claro que sí.
+
+Sí, también podríamos tener dos tipos dos seguidas a la misma altura.
+
+También sería una una M de primera variante.
+
+También podríamos tener la posibilidad de tipo uno con tipo uno.
+
+Y es a la misma altura.
+
+También podría hacer una una especie de mejores.
+
+Si esto, a medida que lo vayáis viendo, os vais a acostumbrar, no os preocupéis.
+
+Si bien en este caso tengo una vela terminada en zona con un rechazo tipo tres, me espero a la siguiente
+
+porque voy a ver que en la siguiente es donde voy a empezar a tener mi posibilidad de corto.
+
+Si.
+
+Y que estaríamos viendo aquí una tercera con posibilidades de que el precio continúa cayendo en este
+
+caso.
+
+Si aquí tenemos un uno y un dos.
+
+Terminado.
+
+Rota la tendencia.
+
+Todo esto de aquí, toda esta estructura de dos, se convierte en un primer impulso.
+
+Y si el precio aquí vuelve de nuevo a caer, si estaríamos ante el origen de 1/3.
+
+En el supuesto de que no se rompa la línea de tendencia, no se rompa la línea de tendencia bajista.
+
+Desde aquí arrancaría el tercer impulso.
+
+Todo es recordarlo, chicos, porque es que esto es clave.
+
+O sea, si yo tengo aquí mi línea de tendencia uno.
+
+Dos.
+
+Y aquí el retroceso me rompe la línea de tendencia y me lo vuelve otra vez a marcar.
+
+Si esto es un vaivén, impulso y dos pb.
+
+Y esto.
+
+Todo esto de aquí.
+
+Estos dos impulsos se convierte en un primer impulso.
+
+Y desde aquí arrancará el segundo impulso.
+
+Sí.
+
+No es lo mismo.
+
+Es que yo tengo esto.
+
+Un impulso.
+
+Dos.
+
+Tres y Keith.
+
+Tengo tres impulsos terminados y que siempre se rompe de aquí.
+
+Desde aquí empieza el primer impulso de toda la estructura, ya que tenemos que en este caso, cuando
+
+tenemos tres impulsos terminados y el precio retrocede, me rompe la independencia desde el final del
+
+tercer impulso hasta el origen.
+
+Todo esto es uno.
+
+Si ahora esto se convierte en el impulso.
+
+Y si desde aquí Rob y me marco lo máximo, desde aquí da origen al segundo impulso y entonces yo ya
+
+puedo ya trasladar a esta medición hasta arriba.
+
+Es recordar que esto lo habíamos hablado y si no, tenéis que retroceder para acordaros de esa parte
+
+de la acción bien y en los niveles del 50% y el precio por ejemplo, pues no me aparece en los niveles
+
+38.2.
+
+Estos patrones os los voy a buscar en el 50 y buscar lo mismo una ml primera de segunda o tercera.
+
+Y sí, desde aquí, y si desde aquí el medio continúa bajando, arrancaría, arrancaría en el tercer,
+
+en el tercero.
+
+Incluso si el precio sigue subiendo hasta los niveles de un 61%, estaríamos viendo algo, casi una
+
+vela de tipo uno en un nivel de 61%.
+
+Bien, si yo estoy viendo esta opción, una vela contundente de tipo uno en un nivel de 68, ya tendría
+
+que estar viendo ya algo parecido como a esto.
+
+Seguiré pensando en corto porque?
+
+Pues porque este tipo de movimiento no se encuentra nunca en un soporte.
+
+Yo sigo estando pensando en corto, no en copas.
+
+Sí, entonces seguiré buscando exactamente lo mismo una M, una M de primera donde la en la vela de
+
+tipo uno terminado en la zona de un 61 contendría la primera e u formación triangular y una posible
+
+de una posible m y yo estaría pensando en que en el corto, en la siguiente, donde la forma de onda
+
+no la vamos a encontrar en esta punto de vista.
+
+Y desde aquí arrancaría el el siguiente impulso si, el tercer impulso correcto.
+
+Aquí vamos a ver cómo creamos el el mapa de trabajo.
+
+Bien, esto lo podemos dividir de esta forma para simplificar lo que resultaría más fácil.
+
+Siendo aquí resistencia.
+
+Si el precio viene de de un movimiento extendido con sus dos o tres impulsos.
+
+Esto es lo mismo en todos los niveles.
+
+Si vamos a buscar exactamente lo mismo cualquiera de los dos cuatro de tipo uno, este tipo dos con
+
+m de segunda variante o tipo tres.
+
+Tipo tres con una M de tercera.
+
+Sí, también se puede mezclarlos los patrones.
+
+Puede haber una del tipo uno y otra de tipo uno.
+
+Después aquí hay un tipo uno.
+
+Tipo dos.
+
+Sí, pero también puede ser lo mismo.
+
+Aquí puede ser una de tipo dos.
+
+Y la siguiente también puede ser.
+
+Si fuera una, una M de primera tipo uno con tipo uno.
+
+Sí, también puede ser tipo dos tipos.
+
+En fin, eso ya lo voy a estar viendo.
+
+Lo importante es que estéis observando la terminal zona que consume sus últimos cinco o seis minutos
+
+en la zona, o sea, en Resistencia.
+
+Sí, y lo mismo vamos a encontrar allí.
+
+Si el veces sigue subiendo hasta el siguiente nivel y no ha retrocedido y no hemos entrado en un corto
+
+ahí porque especie todavía tenía que seguir subiendo.
+
+Voy a esperar exactamente lo mismo.
+
+Y si desde aquí hiciera un retroceso, pues entrar ahí en corto.
+
+Vale, perfecto.
+
+Si el pecio no hace ese ese retroceso y sigue subiendo.
+
+Pues la voy a buscar y.
+
+Exactamente lo mismo.
+
+Si os dais cuenta, el mapa de trabajo es eso.
+
+Es estar buscando soportes y resistencias que coincidan con movimientos extendidos, finales de segundos.
+
+Tercero, sin impulsos, principalmente.
+
+Todo esto si nos encontramos cualquiera de los patrones en estos lugares aquí vamos a eso.
+
+Es 1/4 común como un piano.
+
+Entonces ahí hay oportunidades de entrar en cortos.
+
+Y ahora, en el caso de las compras, cuando el precio viene de caída y especialmente es más fácil que
+
+el precio para que tenga estos comportamientos de compras que estén muy por debajo, sea que haya caído
+
+muy fuerte.
+
+Pero bueno, también es posible que el precio venga de una, de una subida y tenga que caer si haga
+
+un retroceso para volver otra vez a continuar subiendo os dentro de los niveles establecidos, que pueden
+
+ser niveles previos o también mismos niveles de Fibonacci, como puede ser esto un 78 o 50 o este que
+
+puede ser un 61?
+
+Pues también vamos a buscar los mismos movimientos.
+
+Sí, exactamente el mismo comportamiento, ni más ni menos.
+
+Exactamente lo mismo.
+
+Si ve la que me termina en una en una zona, consume los últimos minutos, me espera a la siguiente
+
+y entra en golpe a la base.
+
+Correcto?
+
+Pues exactamente lo mismo.
+
+Si esto representase un 38 que aquí no?
+
+No continúa el precio.
+
+Subiendo y continuando bajando.
+
+A quién buscaría?
+
+Exactamente lo mismo.
+
+Exactamente lo mismo.
+
+Pero siempre voy a estar vigilando el precio y que aquí termine dejándome un patrón cualquiera de.
+
+De los patrones.
+
+Tipo uno.
+
+Tipo dos.
+
+Tipo tres.
+
+Y me espero a la siguiente porque después de una fuerte caída, lo más normal es que el precio recupere.
+
+Y si nos deja estos patrones, la verdad es que en la siguiente nos suele dejar una forma de onda que
+
+la podemos aprovechar muy bien y cuanto más bajo este el precio, más probabilidades hay de que estos
+
+patrones funcionen así.
+
+Y de aquí el precio arrancaría hacia arriba, ya que esta es una forma simplificada.
+
+Una forma simplificada para que podáis ver que la metodología es exactamente la misma que ahora estamos
+
+aplicando una.
+
+Ahora estamos uniendo todas las piezas del puzzle.
+
+Es visión de mercado, más logotipos de vela en gráfico de cumplimientos.
+
+Esto también lo podemos observar especialmente más en compras.
+
+Vamos a eliminar la opción de de ventas en gráficos mensuales, una vela mensual en cualquiera de los
+
+retrocesos o hasta incluso una vela semanal o mensual en un activo sin que nos aparezca cualquiera de
+
+estas.
+
+Y su fin si luego lo trasladamos a un amargo temporal.
+
+Si esto es mensual, lo trasladamos a diario.
+
+Si, si esto fuera también semanal, también lo podemos bajar a diario si esta me lo pide y entonces
+
+esos marcos también los permite.
+
+Y si esto no lo encontramos en marcos diarios, pues luego lo buscaremos en un equivalente a unas cuatro
+
+horas.
+
+También lo podemos encontrar una forma de onda en la siguiente.
+
+O sea, os estoy dando las posibilidades para que podáis hacer cualquier tipo de opción de trading,
+
+ya sea haciendo swing a varios días o haciendo scalping.
+
+Osea que los estudiantes a esa oportunidad, como colofón a este tipo de planteamientos y visión de
+
+mercado un poquito más en profundidad que estamos viendo.
+
+Esta es una vela de tipo uno, fijaros que esta en la de tipo uno, si está bien, la de tipo uno le
+
+queda todavía distancia a esta zona, así que es un soporte correcto.
+
+Yo cuando me me planteo ya la si los mapas de trabajo, yo me pongo ya mis flechitas, si esto os animo
+
+a que lo hagáis.
+
+Flechitas en donde la resistencias.
+
+Yo le pongo ya una flecha verde porque al principio esto os lo comento con un pequeño truco.
+
+Facilita más el que estéis observando.
+
+Digamos que aquí es si o si son o 90 o es para que os resulte más sencillo si os resulta mucho más sencillo
+
+de aquí de la ley tipo tipo dos si es una vela al tipo dos pero que no esta en zona, no esta zona si
+
+fijaros esta aquí, aquí no hay nada cuando yo esto es así, cuando yo esto lo veo así no pienso en
+
+gotas, estoy pensando más en corto, echo mi fibo y estoy esperando a que se dé un patrón de vela en
+
+algunos de los niveles de fibo.
+
+Si me encuentro esto que puede ser?
+
+Uno tipo uno.
+
+Un paso de tipo uno que será un nivel de fibo.
+
+Yo voy a estar esperando a que en la siguiente velada de 15 minutos y me dé una forma de onda.
+
+En este caso la forma de onda la estamos viendo en la nueva, la novela de 15 minutos que se está formando
+
+y como verás, se me ha.
+
+Me ha dejado una.
+
+Un.
+
+Un máximo.
+
+A la misma altura que la anterior.
+
+Esto es una M de primera aparente, como un piano.
+
+Y no estoy viendo una M de cambio de tendencia si no es una m de continuación potencia, pero viene
+
+ahora validada por un nivel de retroceso de 50% y que viene precedida de una fuerte caída.
+
+Entonces todo empieza a encajar mucho mejor, nos parece?
+
+Bueno, bien.
+
+Continua bajando.
+
+Y ahora tenemos esto.
+
+Una vela de tipo dos.
+
+Esta vela equipo dos y me consume los últimos cinco o seis minutos y la parte de abajo en un soporte
+
+aquí.
+
+Yo sí que estoy pensando en posibilidades de entrar en curva a la siguiente.
+
+Pero si esto.
+
+Si esto me pasa aquí.
+
+No?
+
+Esa es la gran diferencia.
+
+Entonces dejo que una vela me termine en zona que consuma los últimos, los últimos minutos para ver
+
+ya una forma triangular en mi gráfico de 15 minutos esperando a que la siguiente vela de 15 minutos
+
+vea el comportamiento, cómo hace, cómo baja o sube para ver dónde me aparece la forma de onda en el
+
+gráfico de uno o dos minutos.
+
+Porque si vemos este tipo de comportamiento, yo estaría viendo una m de tercera variante en el gráfico
+
+de de uno o dos minutos.
+
+Lo mismo pasaría si yo estoy viendo esto en gráfico semanal, pues aquí tendríamos que estar viendo
+
+el gráfico en gráfico diario, lo más seguro si una, una formación de una, una m de tercera variante.
+
+Si ahora establecemos este nivel de aquí como un poco una resistencia y el precio, ahora todo hasta
+
+el nivel de aquí de resistencia, pero de tomar como una fuerte opción de toma de control de la oferta.
+
+Si el precio sube.
+
+Y vine aquí y resulta que estoy viendo un gráfico de 15 de 15 min de 15 minutos después de 45 minutos
+
+subiendo.
+
+El precio me coincide en una zona donde el precio fue rechazado y veo una vela de tipo tres consumiendo
+
+los últimos minutos en esta zona y voy a estar esperando la siguiente vela que en un corto a favor de
+
+la tendencia e vaya hacia abajo.
+
+Más Luego una zona de soporte, digo de soporte de resistencia con un doble techo confirmado.
+
+Esto, chicos, es un corto.
+
+Es un corto donde busca la forma de una en la siguiente.
+
+Si, en la siguiente.
+
+Vale.
+
+Y aquí luego tenemos este tipo de situación.
+
+Sí, tenemos una situación.
+
+Una vida de tipo de tipo 2,1 fuerte, un fuerte movimiento.
+
+Y ahora tenemos algo que.
+
+Que hay que identificar.
+
+Muy bien.
+
+No creo que el cuerpo de la vela.
+
+El cuerpo de la vela cierra por debajo.
+
+Nos hace.
+
+Nos hace daño.
+
+Podría haber cerca, pero cierra por debajo del nivel de soporte.
+
+Esto ya nos tendría que dar un aviso de que esto ya es más posibilidades de que el precio siga cayendo
+
+a que siga subiendo.
+
+Y por tanto, qué es lo que estoy viendo yo?
+
+La posibilidad de una forma de onda de continuación.
+
+Esto lo vamos a ver después.
+
+Cuando yo estoy viendo esta situación está el que el cuerpo de la vela cierra por debajo y estoy viendo
+
+este rechazo.
+
+Sí que el cuerpo se retrae y nos está dejando este pabilo en muchísimas ocasiones.
+
+Esto es una forma de onda para luego cayendo, para algo sigue cayendo.
+
+Ante esta situación, cuando vemos esto aquí, se produciría una una entrada en corto.
+
+Estos movimientos, este tipo de movimientos, en algunas ocasiones suelen ser limpios.
+
+Limpios que sería algo tal que así.
+
+Call.
+
+Rompe y hace así.
+
+O la siguiente opción que podría ser cae.
+
+Esto también se va.
+
+Y vuelve a caer.
+
+Sí, dejándonos lo que sería una segunda de continuación.
+
+Esto se ve muchísimas veces.
+
+Pero si cualquiera de estas dos opciones coincide.
+
+Coincide con que me cierra por debajo de la zona de soporte.
+
+Veo este pabilo.
+
+Pues yo estoy pensando en un corto y me va a dar igual si me va a salir una o una simple o cual o una
+
+m de.
+
+Puede ser una venta hasta una m de primera o una segunda si, pero de continuación.
+
+En estos casos estoy pensando en corto, no estoy pensando en copas.
+
+Si diferencia cae el precio de nuevo.
+
+Estoy viendo una vida de tipo dos, pero como no ha llegado hasta abajo a el soporte, osea nos esta
+
+la vela de tipo dos no sera abajo sino en el medio.
+
+Pues entonces por mucho que esté viendo esta situación, no voy a pensar en compras, voy a pensar en
+
+ventas, porque si el precio llega a este punto, de aquí a la resistencia y veo una vela de tipo dos
+
+como es esta, voy a esperar a la siguiente formación, porque en este punto aquí se esta dando un doble
+
+techo técnico con dos velas, con dos velas de desnudes, una y dos mas.
+
+Luego una de tipo tres.
+
+Este es un corto como un piano.
+
+Un corto como un piano?
+
+Sí.
+
+En estos casos, sí.
+
+Sí.
+
+Esto de aquí no me genera una.
+
+Un movimiento rápido hacia abajo.
+
+Porque se está formando un.
+
+Una distribución de este movimiento alcista.
+
+Y no rompe de forma rápida como puede ser en estos casos si pasa.
+
+Sino que simplemente se queda aquí.
+
+Es posible que este tipo de movimientos se produzca en una lateralidad?
+
+Sí, o sea, que se pueda dar algo tal que así.
+
+Sí.
+
+Entonces.
+
+Ante esta situación.
+
+Si estamos viendo.
+
+Este tipo de circunstancias.
+
+O sea que con una vela terminada y los 15 minutos de la siguiente vela.
+
+Esto nos genera este tipo de comportamiento sin llegar a caer.
+
+Me voy a esperar a la siguiente vela a que me de la oportunidad de ver si no, si aquí me está generando
+
+un rango y no me rompe, pues entonces lo más normal será esperar al siguiente.
+
+Y es que eso ya lo sabia, porque si se te genera un rango de precios con máximos y mínimos y romper
+
+la base de la de la McLaren que hemos podido estar observando, lo mejor es no hacer absolutamente nada
+
+y estar esperando.
+
+Por qué?
+
+Porque en este tipo de movimiento aquí es muy probable que haya un movimiento de retroceso y vuelva
+
+de nuevo a caer.
+
+Entonces, con esta información de aquí, esta información aquí, y cuando rompa la formación lateral
+
+izada, es cuando en esta de aquí.
+
+Tenga que hacer un retroceso y luego entrar en directo ante esa situación.
+
+Sí, sí o no?
+
+Y de nuevo tenemos una de de tipo uno en zona de resistencia.
+
+Perdón?
+
+Soporte consume los últimos cinco o seis minutos ahí y ya estaría viendo el gráfico de un de un minuto
+
+o dos minutos, la primera forma triangular de uno W y me sale esto.
+
+Este tipo de movimientos tendría confirmado una W de primera variante doble, solo técnico y ya estaríamos
+
+viendo este tipo de movimientos.
+
+Es decir, si esta vela termina así, tal cual estaríamos viendo ya una vela envolvente.
+
+Y en esta vela de aquí es donde nos estaría dando la entrada en compra y también compra él encendiendo,
+
+teniendo la base de la de la M, es posible que la podríamos tener.
+
+Bueno, pues o bien si no estaríamos en la vela que ha terminado, en la vela que se está formando.
+
+Pero como recordar que la base de la M no es importante, el que esté en una vela terminada o la vela
+
+que se esté formando.
+
+Lo que sí que sucede en muchísimas ocasiones es que la misma entrada en compra, generalmente siempre
+
+c e se produce en la nueva velas de esta forma no?
+
+Ahora tenemos esta situación.
+
+Empiezo rompe con con fuerza la resistencia.
+
+Lleva una hora cayendo y estamos viendo ahora esto.
+
+Si vemos que después de una hora cayendo el precio nos aparece una vela de tipo uno.
+
+Digo, perdón, tipo uno.
+
+Tipo dos, el precio.
+
+Estamos viendo cómo la oferta ha tomado el control.
+
+Hace que el cuerpo de la vela se comprima, se quede pequeño y nos deje este tipo de tipo de señal.
+
+Si esto es una toma de control de la oferta y estaríamos viendo ahora este tipo de la situación, se
+
+estaría dando un giro en B rápido si aquí de nuevo estaríamos pensando en corto, pero si el precio
+
+continúa cayendo y y yo sacase mi fibo y desde aquí hasta aquí y en los niveles de fibo no hay ninguna
+
+opción de venta.
+
+Digo que de venta.
+
+Pero dónde comprar?
+
+Yo estaré pensando en qué es mirar el precio.
+
+Voy a buscar una de las zonas y me dé de nuevo un patrón.
+
+En este caso estoy viendo un patrón de tipo dos.
+
+Termina en la zona que coincide con un 50 de Fibonacci, ves tipo dos y ahora me está haciendo este
+
+tipo de movimiento.
+
+O sea, baja y luego vuelve a subir.
+
+Por tanto, la forma de onda de entrada en boca estaría en la.
+
+En esta aquí.
+
+O sea, aquí.
+
+Pero su origen.
+
+Aquí estaríamos ante el origen de un posible segundo.
+
+Suben, suben y aquí se produce una venta de tipo dos.
+
+Me consumen los últimos minutos.
+
+Aquí arriba se desnuda la vela y tendríamos que estar esperando ante esta señal a la siguiente vela.
+
+Y ahora resulta que la segunda vela nos aparece este tipo de movimiento.
+
+Sí.
+
+Entonces.
+
+Qué es lo que ha pasado aquí?
+
+Que cuando estamos viendo que el precio viene hasta aquí.
+
+Ser y sede se desnuda y no rompe la y no nos genera, digamos un movimiento en en corto o en forma de
+
+onda por aquí.
+
+Y sin embargo lo hace aquí.
+
+Os veis que aquí sí que se desnuda.
+
+Aquí no entramos en corto.
+
+Por qué?
+
+Porque estamos en una, en un.
+
+En un soporte.
+
+Sí, sí, en este movimiento de aquí que, por cierto, esto tendría más sentido.
+
+Agua?
+
+Ahora sí.
+
+Así.
+
+Sí, aquí en esta villa.
+
+Después este movimiento es un rechazo hacia abajo y no me da la oportunidad de aquí de venta.
+
+Y estoy viendo este rechazo aquí y aquí.
+
+No voy a pensar en venta, chicos, porque estoy en un soporte si no se venden.
+
+Ahora, si me aparece ahora este tipo de situación aquí no es suele.
+
+Suele llamar bastante la atención.
+
+Estamos viendo aquí un doble.
+
+Un doble suelo.
+
+Podía.
+
+Podíamos, podríamos intentar pensar en comprar aquí.
+
+Sería lo más probable.
+
+Sí, sería lo más probable.
+
+Pero si la distancia entre este punto y este punto no es muy larga, estamos en un rango.
+
+Entonces, si estamos en un rango, lo mejor sería no hacer nada porque es posible que nos metan compra.
+
+Si habéis.
+
+Y nos deja ese tipo de movimientos.
+
+Y este tipo de movimientos estaríamos viendo una bajada, una subida, una bajada, una subida y una
+
+bajada.
+
+Entonces, y si esto sucede?
+
+Si esto sucede, pues obviamente todo, todo retroceso que sub que ocurra durante esta vela se podría
+
+tener.
+
+Sí.
+
+Qué?
+
+Porque no hay nada que lo pare.
+
+O sea, por aquí podemos esperar un polvazo.
+
+Y llegaste aquí.
+
+Y luego llegaste al 4.º.
+
+Y luego aquí, en esta pila de aquí, estamos viendo cómo se está retrayendo.
+
+Entonces ahí sí que estamos viendo una vela en zona.
+
+Sí.
+
+Y en estos casos, de aquí a este otro de los patrones que sé que se dan en muchísimas ocasiones.
+
+La vela se retrae, hace un retroceso, pum!
+
+Y vuelve a caer.
+
+Estos tipos, estos tipos de comportamiento son muy difíciles de operar porque calor se retrae justo
+
+en una en una zona de soporte.
+
+Y tú no estás pensando en un vehículo aquí y no estás pensando en ese vehículo.
+
+Pero esto es una.
+
+Esto es un retroceso de continuación de tendencia.
+
+El soporte son bastante complicados de verlos.
+
+Y aquí de nuevo, estamos viendo otra vela de tipo uno.
+
+Estamos viendo otra vela de tipo uno que está dando de nuevo en un soporte básico y ahora estaríamos
+
+viendo una W de segunda variante y hacia arriba buscaríamos la OF.
+
+La opción de compra en una onda, en una forma de onda en esta vela.
+
+Sí, y para que la de no cosmológico se ha alargado bastante esta segunda parte y pensaba que no iba
+
+a durar tanto, pero.
+
+Sino que de alguna forma, pues bueno, lo intentéis bien.
+
+Y os pido perdón.
+
+Sí, o sea, si se ha dilatado está esta segunda parte.
+
+Y bueno, pues tan decirte que muchas gracias por tu atención y espero que no se haya hecho muy muy
+
+pesada.
+
+Y nos vemos en la siguiente parte.
+
+Hasta pronto.
+
+
+Chicos, vamos a continuar con esta tercera parte de esta lección.
+
+Esta parte va a ser un poquito más corta, que no la parte número dos.
+
+Así que os pido disculpas si la parte número dos se ha extendido un poco.
+
+La verdad es que yo no pensaba que se iba a extender tanto, pero algunas cosas hay que explicarlas
+
+bien para que?
+
+Para que queden claras.
+
+Y bueno, a veces, pues bueno, tengo que dibujar porque las mismas de aquí, las mismas posibilidades
+
+de de PowerPoint.
+
+Pues bueno, me suele limitar un poquito, así que bueno, tranquilos, que esto va a durar poco.
+
+Vamos a continuar con esta lección y ahora lo que vamos a hacer va a ser unir todas las piezas del puzzle
+
+y vamos a ver si todo tiene un poquito más de sentido.
+
+Vamos a ver las velas, los impulsos y tocaremos un poco también el tema del volumen.
+
+Vamos a reforzarlo.
+
+Así que vamos para, para allá.
+
+Pues bueno, vamos a plantear un escenario que es uno de los típicos escenarios, esa soledad en el
+
+mercado y que os vais a dar cuenta que prácticamente sucede lo mismo en la gran mayoría de las ocasiones.
+
+Entonces simplemente es tener un poco de paciencia y sobre todo no adelantarnos a los acontecimientos
+
+y no extraer conclusiones de donde como mucho donde no las hay.
+
+O sea, solo tenemos que estar esperando el precio en los lugares en donde es altamente probable que
+
+tengamos una oportunidad.
+
+En la mayoría de las ocasiones me escribís y me contáis vuestras o estas experiencias invirtiendo y
+
+todo.
+
+Y luego cuando me pongo con vosotros, cuando me contestáis en alguna a alguna tutoría algunas clases
+
+privadas de corrección de ejercicios, pues resulta que veo errores de interpretación, errores de este
+
+cómo se está analizando los gráficos y sobre todo mi visión de mercado.
+
+Entonces por eso es que me machacó mucho.
+
+Que machacó?
+
+Pues para que no cometáis los mismos errores, no?
+
+Pero bueno, también los errores sirven como base de aprendizaje y todos aprendemos así.
+
+Entonces no hay que tampoco tener miedo a confundir.
+
+Bueno, tenemos una vela bajista y en esta vela bajista tenemos este movimiento.
+
+Bien, y como estáis viendo, pues este tiene estas líneas horizontales.
+
+Lo que os está indicando es el mínimo de cotización que ha tenido esta vela y justo donde cierra la
+
+vela abre.
+
+Mínima cotización financiera en muchas ocasiones si vemos este tipo de movimiento y habido ningún tipo
+
+de onda correctiva, esta de aquí sería lo más parecido a un movimiento de retroceso.
+
+Lo que estaríamos viendo en un gráfico de un minuto serían cuerpos prácticamente todas las velas de
+
+de kin de las diez diez velas consecutivas bajando la fijo de de un minuto.
+
+Bien.
+
+Y ahora tendríamos este tipo de movimiento.
+
+Este tipo de movimiento cuando son caídas fuertes, es muy, muy, muy, muy habitual.
+
+Es muy habitual.
+
+Entonces vamos a intentar esclarecer un poquito que es lo que vemos luego, lo que significaría o que
+
+es lo que podríamos estar viendo en un gráfico teórico.
+
+Bueno, sobre todo hay que tener en cuenta una cosa, y es que en esta parte de aquí nosotros estamos
+
+viendo.
+
+Esta zona de aquí que sería el máximo de cotización de esta vida aquí.
+
+Lo importante es tener en cuenta que aquí el precio aparentemente lo que hizo en un principio fue primero
+
+subir.
+
+Por tanto, estaríamos viendo cuerpo verde hasta aquí y en un momento dado el precio retrocede.
+
+Como veis, esta es una vela que puede ser una vela de tipo de tipo duro, más o menos tipo duro, pero
+
+una vela de equipo, uno que no termina en un soporte, una resistencia.
+
+Bueno, en una resistencia no que no en un soporte.
+
+En este caso vamos de caídas, no tenemos que tomarlo como una posibilidad de señal de columna.
+
+Por mucho que veamos este tipo de velas, no tiene ningún sentido.
+
+Vamos a tener que estar esperando.
+
+Bueno, estamos viendo.
+
+Estamos viendo este movimiento.
+
+Vemos como ha llegado hasta aquí.
+
+Hostia!
+
+El cuerpo tenía un cuerpo verde aquí.
+
+Y en un momento dado desaparece la demanda y empieza a tomar el punto a la oferta.
+
+Cuando la oferta empieza a tomar el control y se apodera de la demanda, lo que hace del cuervo es que
+
+se encoge, se encoge, se encoge y empezamos a ver.
+
+Bueno, pues una mecha por encima que si la.
+
+Si la oferta presiona y se hace con el total control de la situación, lo que hay necesidad es qué es
+
+lo que.
+
+Lo que pasa?
+
+Que todo este.
+
+Este movimiento.
+
+Si nosotros no pudiéramos trasladar el gráfico de de un minuto, nosotros podíamos estar viendo que
+
+esto podría ser el equivalente a un primer impulso.
+
+Y si desde aquí no puede más, no puede seguir fluyendo desde aquí.
+
+Sería el origen del segundo impulso para ir a buscar un segundo impulso por esta zona aquí.
+
+Correcto.
+
+Bueno, entonces está este punto aquí.
+
+Si corresponde al mínimo de esta vela de aquí, y estaríamos hablando que este podría ser el oscilante
+
+el primer impulso, y desde aquí arrancaría en segundos, porque tenemos el siguiente movimiento bajista
+
+que estaríamos dentro de este movimiento.
+
+Aquí esta vela veis cuerpo grande, potente y hacia abajo.
+
+Y ahora tiene este tipo de movimientos un retroceso, un retroceso típico que suelen hacer pues los
+
+movimientos bajistas.
+
+Pero aquí tenemos algo muy importante y es que todavía no ha finalizado.
+
+Bueno.
+
+Que sí, que en este caso sí, que finaliza el segundo impulso, que es igual que el primero.
+
+Y ahora estáis viendo como el tercer impulso arranca y llega hasta una zona.
+
+Una zona, aparentemente un soporte.
+
+Entonces, qué es lo que está pasando?
+
+Y que estáis viendo como ahora esta vela, esta vela que si, que llegado a una zona de alguna zona
+
+de soporte, ya se ha convertido en una vela de tipo dos.
+
+Entonces en esta vela de tipo dos ya tendríamos que estar observando un primer movimiento hacia arriba,
+
+un primer movimiento hacia arriba que gracias a este volumen, especialmente del último tramo, estaría
+
+frenando la caída.
+
+Este tipo de este volumen de aquí sería el volumen de este movimiento aquí sin este movimiento aquí
+
+en volumen de caída fuerte.
+
+Pero sin embargo, estamos viendo unos momentos de volumen justo al final del todo.
+
+Sí, si se produce un aumento del volumen en una zona de soporte o una vela contundente que había llegado
+
+hasta aquí, hasta aquí, hasta mínimos, que hubo una zona de soporte y empieza a retraerse.
+
+Pues es que es este volumen justo en esta redacción de la vela.
+
+O sea, cuando la revelación empieza comprimir porque está tomando el control, la demanda.
+
+Pues al fin y al cabo el uso no es otra cosa más que compresión.
+
+No puede ser otra cosa.
+
+Y si se produce otro aumento del volumen fuerte es que está viendo un volumen climático y pues me está
+
+viniéndome la demanda y está haciendo un esfuerzo mayor para poder convertir todas las viviendas que
+
+se están produciendo, si absorberlas e intentar cambiar la dirección del precio, o sea, hacia arriba.
+
+Entonces esto, esto sucede, sucede en la gran mayoría de las veces, al final de los terceros impulsos
+
+o segundos impulsos cuando coinciden o cuando coinciden con zonas de soporte.
+
+O sea, es que siempre pasa lo mismo.
+
+Entonces el inconveniente aquí.
+
+Que yo me doy cuenta en muchísimas ocasiones es que os anticipa al estar viendo en muchas ocasiones
+
+que si no habéis entrado aquí, aquí o aquí, os ponéis a entrar aquí cuando el recorrido ya es poco
+
+y las maniobras digamos de delante, la realización con engaños o lo que sería el tercer impulso, aumenta
+
+considerablemente.
+
+Entonces, muchas veces la impaciencia hace que os adelantes y penséis lo que me he perdido en esta
+
+bajada y en esta os.
+
+Por lo menos quiero aprovechar esto que me queda.
+
+Por lo menos me quiero llevar algo.
+
+Y esa es una trampa.
+
+Es una trampa que es muy, muy peligrosa.
+
+Muy peligrosa precisamente porque las probabilidades aquí ya no van a nuestro favor.
+
+Cuántas veces a mi también me ha pasado en su día.
+
+Pues yo pensaba que el no actuar, el no actuar me hacía que estuviera perdiendo dinero.
+
+Lo primero, el no actuar no quiere decir que estés perdiendo dinero porque no has invertido.
+
+Puede que sea una pérdida de oportunidad.
+
+Bueno, es posible, pero no todos los días igual.
+
+No todos los días es igual, no todos los días se tiene la misma agilidad mental y por tanto también
+
+se toman decisiones de una forma mucho más rápida y sin dudar, o sea, más lento.
+
+Dentro de él tenemos un montón de situaciones, no en donde todos los días no son iguales y un día lo
+
+veremos más claro y otro día no lo vamos a ver más que no lo vamos a ver tan claro.
+
+Entonces lo que sí que os sugiero es que no me veréis en un tercer impulso, y si no, y si por cualquier
+
+motivo no habéis aprovechado todo este movimiento, dejarlo estar, dejarlo estar, porque es mejor
+
+que no hagáis nada a entrar por un impulso, por pura emoción, porque aquí se entra por pura emoción
+
+de impaciencia, por impaciencia, o sea, no se da por la estrategia, sienta por impaciencia y aquí
+
+se entra por estrategia, aquí se anda por estrategia, aquí por impaciencia.
+
+Entonces la gran mayoría de los fallos viene por un tema emocional.
+
+La gran mayoría de los fallos.
+
+Y si aquí encima pues le agregamos a un hagamos un una, un exceso de riesgo, tenemos un caldo de cultivo
+
+ideal como para que nos vital mercado lo saque y vamos.
+
+Bueno, pues continúe bajando y luego al siguiente movimiento resulta que sí, que el precio va donde
+
+nosotros habíamos previsto.
+
+Entonces, todos estos tipos de movimientos erráticos suceden en las finales acciones de las estructuras.
+
+Por eso os recalco, tenéis margen de hacerlo en todo este trayecto.
+
+Aquí sí, toda esta zona.
+
+Aquí está este y esta.
+
+Tenéis espacio físico, tenéis recorrido para aprovechar.
+
+Olvidaros de esta zona, que es la más, la más improbable es la que menos probabilidades nos deja a
+
+nuestro favor.
+
+Entonces tenemos ahora esta situación.
+
+En donde después de este volumen de parada, un volumen de frenada se produce un movimiento de recuperación.
+
+Es de este movimiento de recuperación.
+
+Este movimiento de recuperación que llega hasta aquí equivaldría a lo que sería el cierre de esta vela.
+
+Por tanto.
+
+Todo lo que ha pasado.
+
+Desde aquí hasta aquí.
+
+Sí.
+
+Es lo que equivale a esta vida o se hace desde aquí, desde aquí y.
+
+Desde aquí.
+
+Sube, baja, sube, baja y sube.
+
+Es todo el contenido de esta.
+
+Entonces ya tenemos.
+
+Ya tenemos ahora una señal muy, muy, muy clara.
+
+Es que la vela se está retrayendo.
+
+Se ha parado.
+
+Ha terminado.
+
+Se ha convertido en una vela de tipo dos.
+
+Ha consumido los últimos cinco o seis minutos en zona.
+
+Ha llegado el tercer impulso.
+
+Estamos viendo un volumen climático y estamos viendo también como el momento de la recuperación.
+
+O sea, este movimiento de aquí el volumen desciende claramente.
+
+Si hay casos, hay casos en donde la lectura del volumen no es tan precisa, no es tan precisa.
+
+Lo que sí que tenemos que estar viendo es que el siguiente movimiento de descenso, o sea que el precio
+
+vuelva otra vez a caer, si es que cae, si es que cae es la gran mayoría de las veces lo que suele
+
+hacer es caer y vuelve a subir.
+
+Ese final, ese test a la oferta sí que tendría que ser con un volumen claramente inferior al volumen
+
+en que se ha producido en el último descenso.
+
+O sea, en este caso sí, porque estaríamos hablando de botes a la oferta.
+
+Si la oferta es elevada o una de dos o el precio seguirá cayendo hasta encontrar un nivel de precio
+
+en donde no exista oferta flotante y por tanto, los compradores se puedan llevar el precio hacia arriba.
+
+O por el contrario, sí que los sí, que los compradores por la demanda harán un esfuerzo mucho mayor.
+
+Y en este caso, la caída que se produzca aquí sí que puede tener un alto volumen que incluso a veces
+
+puede ser igual o mayor al volumen de frenada.
+
+Entonces.
+
+Para filtrar toda esta información que a veces, durante toda esta subida se puede dar.
+
+Se pueden dar errores de lectura o quizás no hay errores de lectura?
+
+La lectura actuación pueda ser correcta y nos pueda hacer pensar que bueno que se nos va a tirar y luego
+
+al final no sucederá.
+
+Yo lo simplificaría mucho y esperaría a ver que es lo que pasa en el siguiente movimiento, la siguiente
+
+vela.
+
+Como estábamos hablando a lo largo de toda, la de toda la lección, ya tenemos una vela terminada y
+
+tenemos esta forma triangular.
+
+Ya estamos viendo una forma segura de que se vea esta y esta.
+
+Ya tenemos la primera formación de una posible W.
+
+Nosotros no sabemos que es lo que va a pasar aquí, pero en el caso de que sea un giro, lo más normal
+
+es que sea una doble cual?
+
+No tengo ni idea, pues solo tenemos que estar esperando.
+
+Como veis, el precio cierra en este nivel de aquí y abre la vela.
+
+La siguiente vela sabe donde cerro la anterior.
+
+Por tanto, todo lo que sucede en este espacio aquí equivale a la nueva vela a esta hora.
+
+Stop!
+
+Pues solo nos queda esperar, esperar al siguiente movimiento.
+
+Fijaros la vela a que cierra en este nivel de aquí a B en el mismo nivel, este nivel de aquí, si este
+
+nivel aquí es el que marca.
+
+Cuando la vela abre, te extiende y hace un mínimo más alto que la anterior.
+
+Cuando esto sucede.
+
+Que el precio no baja.
+
+Baja más de este nivel y se iba a la zona del mínimo anterior.
+
+A lo que nos está dejando es una MdT como una W, perdón, de tercera variante.
+
+4.º entonces ya tenemos ya una señal bastante potente.
+
+Si durante el proceso de la caída no aumenta el volumen, sino que encima retrocede ya tenemos ya un
+
+síntoma bastante, bastante bueno y claro de que la oferta no está presionando, porque si la oferta
+
+presionara aumentaría el volumen.
+
+Y también tendríamos que estar viendo en esta bajada aumento del tamaño de la vela.
+
+Cuando el tamaño de la vela no aumenta pero desciende el volumen mientras que está cayendo, significa
+
+que no está presionando la oferta.
+
+Entonces, ante ese hecho, que es lo que nosotros tendríamos que estar planteándonos, que si desciende
+
+el volumen, lo más normal sería que pusiéramos nuestra orden de entrada en compra más corto.
+
+Entonces, fíjate como hemos ahora unido todo, hemos unido lectura de vela de 15 minutos.
+
+Observando cómo se producen los retrocesos y cómo los tenemos que interpretar, por mucho que sea una
+
+vela de tipo uno que no ha llegado a zona.
+
+Seguiremos pensando en corto.
+
+Es más, cuando una vela de tipo uno o tipo dos no termina en zona porque termina en zona, lo que vamos
+
+a tener que esperar será un retroceso.
+
+Es un retroceso, una forma de onda.
+
+Esa forma de onda puede ser un poco más dependiendo del tipo de retroceso, puede ser un poco más profunda
+
+o quizás no tan profunda y automáticamente siga bajando corto.
+
+Pero lo más normal es que haga un retroceso cuando termine la vela de 15 minutos.
+
+Entonces vamos a esperar.
+
+Vamos a esperar.
+
+Fijaros como el precio sube, baja, nos deja una forma de onda.
+
+A veces este retroceso, cuando suele ser más profundo, puede dar en se puede formar el culín uno y
+
+dos impulsos o a veces también se suele dar lo que sería una m de segunda variante.
+
+Entonces em.
+
+Cuando son las señales de segunda de segunda variante, yo os sugiero, os sugiero que me echéis un
+
+vistazo porque esto viene muy bien.
+
+O sea, yo tengo aquí un movimiento así bajista.
+
+Muchas personas al ver esto.
+
+Caray.
+
+Pues si esto está cayendo ahora retrocede y el precio viene y supera este punto.
+
+Aquí pues estamos en obra.
+
+Sí, claro.
+
+Lo que pasa que es que no tienen en cuenta que la dirección del precio es hacia abajo.
+
+Si es hacia abajo, me va a dar igual, le va a dar igual que sea una vela del tipo uno.
+
+Es que me da exactamente igual.
+
+Es o esta es de tipo dos y da igual, pero es que si esto.
+
+Esto sucede en una zona de tierra de nadie donde no hay nada que pare.
+
+Esto simplemente es un retroceso.
+
+Por mucho que veo una este tipo de vela.
+
+Yo no puedo plantearme el siguiente movimiento directamente.
+
+Esto ominosa para mí no va para arriba.
+
+No, sino que no funciona así.
+
+Cuando esto sucede, lo más normal, si vemos este retroceso, una de dos o que se quede en este punto
+
+de aquí, por tanto, tendríamos una M de primera variante o en muchísimas ocasiones suele hacer esto
+
+y abajo.
+
+Por eso os comento que cuando suceden este tipo de movimientos.
+
+Antes de que.
+
+Antes de que se de empezarás graficarlo porque os va a ayudar muchísimo.
+
+Os va a ayudar muchísimo graficar los mínimos.
+
+Sube, baja, que aquí empieza a subir un poquito.
+
+Pues bueno, en cuanto suba un poquito hasta aquí, por ejemplo, ya vosotros hacéis esto ya directamente
+
+sí, porque os va a ayudar muchísimo, porque.
+
+Porque en caso de que el precio rompiese este nivel de aquí.
+
+Da igual donde venga el precio.
+
+Aquí.
+
+Rompe hacia abajo.
+
+Viene aquí.
+
+Rompe hacia abajo.
+
+O la otra opción en aquí?
+
+Si.
+
+Rompe hacia abajo.
+
+Entonces vamos a estar quietos ante cualquiera de estos tres tipos de movimientos.
+
+Pueden ser una a, una M, de una especie de primera, de primera variante.
+
+El tipo de movimiento sería que primero.
+
+Ajá.
+
+Bueno.
+
+Baja, sube y vuelve a bajar haciendo este tipo de movimiento.
+
+Esto lo hacen muchísimas veces.
+
+En el caso de que sea.
+
+Una, una M de segunda sería un movimiento similar a este.
+
+Pero con un pabilo.
+
+Con un palo donde.
+
+Este movimiento.
+
+Imaginaos que llega a salir.
+
+Si.
+
+Pues claro, tiene el mínimo este de aquí.
+
+Bien aquí.
+
+Baja, sube, baja, sube y.
+
+Aquí.
+
+Abre a ver dónde cierra la anterior.
+
+Sí.
+
+Baja, sube y baja.
+
+Entonces tendríamos este tipo de movimiento y desde aquí automáticamente para abajo.
+
+Y luego también está la otra opción, que cuando tiene mucha fuerza el precio, pues es lo que suele
+
+ser.
+
+Porque, bueno, supongo que eso es lo que suele hacer muchas veces.
+
+Es.
+
+Haz esto.
+
+Y haz esto.
+
+Este tipo de movimiento es un movimiento muy rápido.
+
+Es un movimiento muy rápido.
+
+Y que es lo que estaríamos viendo?
+
+Estaríamos viendo algo parecido a esto?
+
+Si.
+
+Vendría hasta aquí un retroceso fuerte, profundo y automáticamente para abajo.
+
+Si, eso.
+
+Esto es.
+
+Estas son las opciones que nos va.
+
+Si nos va a dejar.
+
+Que nos va a dejar?
+
+Fuese un retroceso en donde el precio real que sigue cayendo.
+
+Porque este tipo de velas, asumes que alejando este tipo de mecha.
+
+Si en una zona en donde no tiene probabilidades de que el precio se gire y comience a subir, sino que
+
+lo más normal sería que el precio continuase bajando.
+
+Sí, vale.
+
+Puesto que usted quería quedarse.
+
+Claro.
+
+Vale, entonces como veréis, estamos viendo como ya el precio después de que ya el volumen no, no
+
+responde incrementándose la caída.
+
+Lo más normal sería que en esta subida de aquí, si empezáramos a ver un poco de volumen creciente,
+
+eso sería lo más normal.
+
+Y que cuando el precio rompiera este último máximo, podríamos decir ya el siguiente movimiento explosivo
+
+contamina aumento de volumen.
+
+Entonces esta es una una lectura.
+
+Una lectura que.
+
+Que pasa en la gran mayoría de las veces?
+
+Como os comento, hay casos en donde este volumen comprendido entre la subida y este y parte de esta
+
+bajada, no se puede leer bien o bien, o o no se entienden o no se puede leer bien o bueno, no siempre
+
+se como decirlo en se forma pues así, de esta esta manera tan tan limpia, tan limpia no, a veces
+
+el mercado como esto es, no podemos pretender que todas las lecturas de los volúmenes sean de esta
+
+forma tan manual, pero si que podemos filtrarlo y estar fijándonos en este ultimo volumen y este aquí.
+
+Si, eso si, eso si que nos va a dar muchísimas pistas.
+
+Entonces únicamente la última parte de la caída, si esa zona y esta parte aquí, si encima tenemos
+
+que podemos ver un volumen tan claro de manual de libro como este, que también sucede en sus muchísimas
+
+veces, pero cuando nos sucede lo filtramos, quitamos este, fichamos este y esta última subida.
+
+Si que su soledad si, aunque no se pueda leer muy bien este, oeste, este se este se ve bien también
+
+y este generalmente y no siempre la ruptura de la base de la de la M, pues no siempre suele ir con
+
+un aumento del volumen considerable.
+
+A veces un poquito de volumen, un poco enloquecimiento es suficiente.
+
+Por qué?
+
+Pues porque no hay nada que lo pare, sencillamente por eso cuando vemos una fuerte explosión de de
+
+volumen, pues puede ser porque necesiten hacer mucho esfuerzo para al final romper la zona y hacerse
+
+con el control de la situación.
+
+Ni más ni menos.
+
+Así que bueno, ahora toca todavía el precio.
+
+Para llegar aquí, pues tiene que hacer un retroceso como esta parte aquí y aquí.
+
+Todavía tendríamos la oportunidad de comba, siempre y cuando no quedasen los últimos minutos de la
+
+vela.
+
+O sea, si aquí, por ejemplo, quedasen tan sólo cinco minutos de cinco minutos a la vela de ídem de
+
+15, que sería esta, ya estaríamos ante un posible movimiento agotado, donde las probabilidades sería
+
+de que sí, que es cierto, que podría seguir subiendo, pero se empezaría atascar por?
+
+Porque podría tener un retroceso un poco más profundo y luego continuo suelo.
+
+Entonces también hay que tener en cuenta que si el movimiento es muy explosivo y todo este movimiento
+
+es muy rápido y no ha llegado y no han llegado a consumir todo este tiempo, hay que entender que está
+
+en todo este movimiento.
+
+Estaríamos ante un primer impulso para ir a buscar pulso y ante este hecho sí que podríamos llegar a
+
+plantearnos que este podría ser una opción de poca para ir a buscar un siguiente movimiento impulsivo,
+
+más largo si corto.
+
+Así que ahora a seguir viendo cómo sería la AL.
+
+La forma en que podemos unir todas las piezas del puzle.
+
+Una con velas de 15 minutos con su interpretación de cómo se coge el cuerpo y los hilos que deja una
+
+vela de determinación en zona de.
+
+En zona de soporte.
+
+Estructuras de impulsos.
+
+La lectura del volumen y sobre todo estar viendo qué es lo que está pasando en la nueva vela que se
+
+está formando, porque como recordáis la opción de compra se va a generar en la siguiente vela.
+
+No, no tanto en estas cuando se hace en esta es porque tenemos un giro en B drástico.
+
+Pues bueno, vamos a ver unos ejercicios prácticos, porque ahora lo que toca es ver dónde podemos encontrar
+
+ese tipo de velas.
+
+Sí, bueno, vamos para allá.
+
+Quiero que os fijéis en la parte de arriba de la de la izquierda.
+
+Si, como puedo.
+
+En esta elipse os estoy dibujando un martillo arriba de todo.
+
+Y cuando digo arriba del todo es que claramente se ve un movimiento muy, muy vertical.
+
+Sí, muy vertical.
+
+Fijaros cómo, como ha llegado hasta aquí hasta máximos, que es una zona que yo ya tenía ya estipulada.
+
+Y fijaros también como me sale este martillo.
+
+Y este martillo es de martillos, que es curioso porque sale arriba del todo.
+
+Sí, y que habíamos dicho de los martillos arriba que los martillos arriba cambian la tendencia, o
+
+al menos esa es la mayor probabilidad.
+
+Y fijaros lo que sucede.
+
+Es un giro del mercado infinito hacia abajo.
+
+Luis vuelve al puesto.
+
+Era una vela tipo cuatro de cambio del techo.
+
+Ahora quiero que veáis esta estampa después de estar una.
+
+123, una hora y una hora y 15 minutos cayendo el precio.
+
+Fijaros que esta vela.
+
+Esta vela de tipo tres.
+
+También había llegado con su cuerpo rojo intenso hasta abajo.
+
+Y qué es lo que ha sucedido?
+
+Que se ha retraído.
+
+Se retiró y se retiró.
+
+Entonces este tipo de movimiento.
+
+Este tipo de movimiento.
+
+En muchísimas ocasiones lo que hace es dejarnos una.
+
+Un giro en nube.
+
+Y nos da la oportunidad de que cada incumpla en la misma vela.
+
+Solo que ahí sí que hay que ser más rápido.
+
+Y cuando sucede este tipo de situaciones, este tipo de velas no consumen todo el tiempo, todo el tiempo,
+
+o mejor dicho, los últimos cinco o seis minutos en la parte de abajo, si no que se ha caído rápido
+
+y se está encogiendo, entonces el movimiento es rápido.
+
+Entonces no es que esta mal que esta vela deje que el cuerpo baje hasta aquí con su malos los últimos
+
+minutos y justo en el minuto uno o dos se produzca una un movimiento brusco.
+
+No, no es así, no es así.
+
+Entonces, cuando sucede esto, quiere decir que probablemente haya llegado hasta el final.
+
+Hasta aquí este perdón, hasta este movimiento y ovulo que cayó al que le quedaban siete minutos a la
+
+vida, o sea que 7U8 minutos en curso está más porque son movimientos que y son rápidos en sus nuevos
+
+caminos.
+
+Vale?
+
+Y aquí es lo que os comentaba.
+
+Fijaros una cosa.
+
+El aquí el precio viene de caída.
+
+Veis?
+
+Viene de caída.
+
+Recupera.
+
+Sube.
+
+Y aquí tenemos una vela de tipo dos.
+
+Y fijaros la siguiente.
+
+Esta vela aquí.
+
+Qué creéis que hacemos allí?
+
+En un gráfico de un minuto.
+
+De un minuto?
+
+Una M de segura.
+
+Ni más ni menos.
+
+Es lo que tendríamos ahí.
+
+Una de segunda.
+
+Fijaros como en este punto aquí tenemos una vela de tipo dos.
+
+Ha llegado cuerpo en verde hasta aquí y verde el siguiente, la siguiente vela.
+
+Abril tiene cuerpo potente alcistas de este punto aquí y se retail.
+
+Pues si el precio va de bajada.
+
+Y me sale este engaño.
+
+Y yo sí que lo estoy viendo.
+
+Un gráfico de Google de un minuto o dos minutos.
+
+Aquí yo le metería un corto porque estaría viendo una de segunda variante.
+
+Sea un engaño.
+
+Un engaño?
+
+Entonces, cuando eso es así, hay que ir a favor de la tendencia.
+
+Quiero que os fijéis ahora en este movimiento.
+
+Aquí.
+
+Este movimiento de aquí.
+
+Si.
+
+Sin llegar a esta zona de aquí.
+
+Que es la que teníamos más o menos estipulada.
+
+Si os dais cuenta, aquí hay un clima de mercado bastante interesante.
+
+Aquí también había una resistencia.
+
+Aquí en este caso no llegó porque no llegó.
+
+Y sí que se produce una un desnudez de vela bastante interesante y que obviamente eso era para tenerlo
+
+en cuenta.
+
+Porque fijaros que el precio había tenido un cuerpo verde hasta aquí potente, un cuerpo verde potente.
+
+Aquí de repente entra.
+
+La oferta se hace con el control y fijaros lo que viene aquí hacia abajo.
+
+Aquí lo más seguro es que haya habido un movimiento de un giro en nube.
+
+O sea, aquí el precio ha bajado, ha subido un poquito y ha vuelto a caer el precio.
+
+Ya no existen este tipo de movimientos, pues este es un giro drástico por su giro nube.
+
+Si es una vela de tipo dos, pero que?
+
+Fijaros que que consecuencias tiene?
+
+Ante esta situación yo estaría viendo pues un tipo de movimiento sin una subida o una bajada y luego
+
+una bajada de normal, entonces este tipo de movimientos iría una vuelta inútil y la forma de onda tendríamos
+
+que estar buscando en este tipo de movimientos una forma de onda en la siguiente vela, o sea aquí.
+
+Sí.
+
+Muy bien.
+
+Ahora quiero que os fijéis en este movimiento.
+
+Porque este tipo de movimientos son.
+
+Son las formas de las continuaciones.
+
+Son las continuaciones.
+
+Este tipo de movimientos suelen ser bastante complicado.
+
+Es de operar.
+
+Sobre todo cuando es en.
+
+Cuando se.
+
+Se producen en zonas de soporte.
+
+Por qué?
+
+Porque este tipo de movimientos.
+
+Claramente.
+
+Esto pasa muchas veces.
+
+Échales un vistazo.
+
+Porque funcionan muy, muy bien.
+
+Fijaros como el precio viene hasta aquí.
+
+Se retrae todo.
+
+Todo haría pensar que.
+
+Que el siguiente movimiento podría hacer esto y luego subir.
+
+Dejarnos, por ejemplo, algo como esto.
+
+Algo como esto.
+
+Fijaros como aquí el precio cae.
+
+También nos deja un patrón tipo uno y fijaros como nos deja un doble suelo.
+
+Aquí estaríamos viendo en este punto aquí una W de primera variante.
+
+Sí, y aquí lo más seguro que es.
+
+Podríamos encontrar una.
+
+Una copa en la nave.
+
+La estaría formando.
+
+Pero esto.
+
+Pero esto no sucede aquí.
+
+Porque aquí directamente el precio, cuando ha hecho este movimiento, sube y vuelve a caer.
+
+Si nos encontramos esto en esta zona, aquí con, por ejemplo, esta.
+
+Veis aquí?
+
+Esto aquí es el mismo movimiento que la anterior.
+
+Sí, el mismo movimiento anterior.
+
+Sólo que esta de aquí.
+
+A mí me gustaría más operarla.
+
+Lo primero, porque toda esta zona aquí era un soporte.
+
+Es bastante más.
+
+El precio lo rompen.
+
+Si hiciera por debajo de esta zona de aquí se produce el si la vela se se contrae y fijaros que no avanza
+
+más.
+
+Lo veis que no avanza más.
+
+Y luego el precio en cuanto me recupera el pábilo automáticamente cae hacia abajo.
+
+Pero entonces aquí tendríamos una oportunidad de venta.
+
+Esta oportunidad de venta es mucho más segura que no está porque esto.
+
+O sea que nos hace pensar que el precio marca un nuevo mínimo y automáticamente se retrae dejándonos
+
+una W de segunda variante.
+
+Adelante.
+
+Es que no lo vamos a poder llegar a saber si, pero cuando estamos en zonas de soporte la verdad es
+
+que las posibilidades de rebote son grandes.
+
+Entonces mejor que no estemos jugándonos el dinero en zonas donde la probabilidad no vas a nuestro favor.
+
+Sí, vale.
+
+Y esto es lo que quería que observáis que justo se para, se para el movimiento de retroceso en este
+
+nivel de aquí que corresponde a esta resistencia.
+
+O sea, no se está poniendo porque lo hay, se está parando en esta resistencia.
+
+Por lo tanto, cuando estás viendo todo este movimiento, sube y baja una entrada en corto aquí hubiera
+
+sido de manual.
+
+Sea muy, muy muy sencillo.
+
+Si el fijaros ahora un poco más abajo que tenemos una vela tipo tipo uno, una vela contundente, fuerte,
+
+con cuerpo grande, potente.
+
+Pero es que estábamos mencionando anteriormente.
+
+Tienen una fuerte caída en 1234.
+
+Una hora cayendo.
+
+Con ese tipo de vela.
+
+Todo haría pensar, todos nos haría pensar que esto va a continuar cayendo y fijaros como aumenta el
+
+volumen, la caída y fíjate cómo aumenta aquí el volumen, la caída.
+
+Sí.
+
+Entonces que estamos viendo una vela que termina en zona.
+
+Si vemos una vela que termina en una zona, no es que hay terminado aquí por avanzado, pero sí que
+
+ha llegado a esta zona, que es lo que quiero que entendáis.
+
+Llega a esta zona aquí dejar terminar la vela que encima estamos viendo claramente como este muro aquí
+
+era el mayor oeste y este es el ejemplo que estábamos viendo anteriormente, pues estábamos uniendo
+
+todas las piezas del puzle, recordáis?
+
+Y el siguiente movimiento fijaros como hace un engaño.
+
+Ajam.
+
+Más como mínimo y automáticamente se dará vuelta.
+
+Y no sólo se dará vuelta, sino que también marca un un máximo de volumen superior al volumen de frenada.
+
+Ya.
+
+Y había una intención de comprar un portal.
+
+O sea, cuando estamos viendo este tipo de movimiento sí que se convierte en un envolvente.
+
+Pues nuestra esta opción de bomba dónde estaría?
+
+Aquí.
+
+En la siguiente estaríamos viendo una W de segunda variante y la entrada en confirmación de compra la
+
+estaríamos teniendo en la siguiente vela de 15 minutos.
+
+Verde esta que estamos viendo en los primeros minutos de la vela.
+
+Correcto.
+
+Vale.
+
+Y ahora quiero que observéis este tipo de vela.
+
+Porque este tipo de vela si se está dando también en otro nivel de soporte.
+
+También coincide que este este tipo de vela que es de tipo tipo dos, no llega a ser tipo tres, es
+
+un tipo dos.
+
+Fijaros cómo también se para en una zona de una zona de soporte donde anteriormente el precio cuando
+
+subió aquí.
+
+Bajó y volvió a subir.
+
+No es hasta entonces.
+
+Fijaros como está.
+
+Me echa de aquí.
+
+Se para justo en este mismo nivel.
+
+Dejándonos un doble suelo en este punto.
+
+Aquí.
+
+Entonces.
+
+Cuál sería nuestra forma de proceder?
+
+Vela que termina en zona y que encima coincide en este punto aquí que vemos con el tipo dos.
+
+Si os dais cuenta, la siguiente vela esta de aquí nos marca un mínimo.
+
+Un nuevo mínimo?
+
+Sí, un mínimo más alto que la anterior.
+
+Y automáticamente.
+
+Donde creéis que tendríamos nuestra?
+
+Esta en compás.
+
+Aquí en esta si hay.
+
+Fijaros que las velas anteriores.
+
+Estas que están cayendo y que se quedan a mitad de caída.
+
+O por ejemplo esta Dolly y la segunda Dolly.
+
+O sea, no llegan al lugar.
+
+Esta sí que podría llegar a confundir, pero es que esta no es una vela ni tipo uno.
+
+El tipo dos, tipo tres no?
+
+Ya por eso os comento que las velas más fiables son tipo uno, tipo dos y tipo tres.
+
+Fijaros esta vela aquí.
+
+Sí.
+
+Pabilo.
+
+Pabilo.
+
+Aquí casi, casi nos haces un doble suelo técnico y hacia arriba.
+
+Claro que estos tipos de movimientos pues.
+
+Aunque si que si que es próspero el precio, pero estamos ya en horario de overnight entonces?
+
+Pues los movimientos no suelen ser de la misma forma, pero funcionan también, funcionan también.
+
+Pues fijaros como aquí todo este movimiento, este movimiento llega hasta arriba, nos deja muchos partidos,
+
+tanto por encima como por debajo, y cuando el peso llega a una zona, ahora si que tenemos una vela
+
+de tipo de tipo dos.
+
+Si tendríamos que estar esperando a la siguiente vela para encontrar una oportunidad de compra.
+
+Y cuando vemos este tipo de movimientos, si al estar viendo todo este movimiento uno, nosotros tendríamos
+
+que estar pensando que si el precio supera este máximo de aquí, estaríamos ya ante un posible segundo
+
+impulso.
+
+Entonces tendríamos que trasladar toda esta medida de aquí hacia arriba y lo mas seguro es que diera
+
+el segundo impulso por toda esta zona de aquí.
+
+Si, si, no es por aquí, muy cerquita, además corto.
+
+Muy bien, vamos a ver más casos.
+
+Fijaros en la parte de abajo de la izquierda y si fijaros esta veis tipo dos es una bala de tipo dos
+
+ion y ha perforado bastante la zona de soporte.
+
+Si, porque al fin y al cabo los las zonas de engaño que son los soportes suelen ser dilatadas y muchas
+
+veces parece como que la hubiera roto y al final se da la se da la vuelta.
+
+Pues hay que hay que estar con el ojo sin ojos y estas zonas hay que hay que estar con mucho cuidado.
+
+Aquí cuando el pecio parece que esta rompiendo soporte sus algunos meteis en corto aquí ya porque es
+
+que los engaños y los soportes suceden muchísimas veces.
+
+Debes tener en cuenta que todas las maquinitas y el trading de alta frecuencia y otros y otros operadores
+
+van pensando en actuar en contra de las masas que actúan en función de lo que todo el mundo hace.
+
+Todos han leído los mismos manuales.
+
+Correcto?
+
+Pues entonces, si la mayoría de la gente sabe que hay.
+
+Estoy viendo aquí un nivel roto y automáticamente ven el nivel del roto y se ponen a vender si empiezan
+
+ya a favorecer el caldo de cultivo para que el cilindro de alta frecuencia u otros operadores se pongan
+
+automáticamente.
+
+Si entonces ese tipo de cosas, por favor no las hagáis, no os pongáis en corto en estos productos
+
+de aquí a la ruptura hasta que no haya signos claros de que verdaderamente eso sea un movimiento bajista.
+
+Si, porque fijaros del equipo dos y a la siguiente nos hace una W de inercia variante y que es lo que
+
+sucede después hacia arriba?
+
+Si hace eso, cuidado con esos casos.
+
+Si entonces después de la vela del tipo dos, la entrada y bomba sería en forma de onda en la siguiente
+
+vela.
+
+Si bien, ahora quiero que veáis otro de los casos.
+
+Este caso, por ejemplo.
+
+Fijaros como el precio cuando sube cae y llega a este nivel de.
+
+A este nivel.
+
+Si.
+
+Esta vela de.
+
+Esta vela no es ninguna vela de las que hemos identificado, por eso no estoy contabilizando.
+
+Pero cuando el precio llega a esta esta zona aquí si.
+
+Llega a la zona de resistencia y el precio es rechazado y vuelve a caer.
+
+Fíjate como aquí estamos viendo una vela tipo uno.
+
+Es una vela de cuerpo grande.
+
+Si cuerpo grande cierra mínimos, nos deja un pabilo pequeño y entonces estaríamos que tendríamos que
+
+estar esperando que el precio más o menos esta en una zona de una resistencia que está dejando una vela
+
+de tipo uno.
+
+Pues cuando eso es así, automáticamente nos vamos a fijar en la siguiente, porque ahí tendríamos una
+
+forma de onda y nuestra entrada.
+
+Si hombre.
+
+Entonces ya no solo estamos aprovechando los rebotes, los rebotes, los rebotes en zonas, sino que
+
+cuando el precio ha cogido ya una dirección hacia arriba y realiza los retrocesos, es ahí cuando también
+
+podemos incorporar luz a la tendencia.
+
+Si es por algún motivo no lo hemos hecho bien.
+
+Si vale, entonces fijaros, aquí hubiéramos tenido un doble o un doble solo técnico.
+
+Planteamos una W de primera variante el precio sube, sube, sube, llega hasta este punto, aquí cae,
+
+aquí tenemos pues vela de tipo uno, si, o sea vela de tipo uno y la siguiente tendríamos que estar
+
+esperando nuestra oportunidad de entrar en compra en una forma de onda.
+
+Si podéis fijaros como simplemente lo que estoy haciendo es esperar a que el precio vaya a buscar una
+
+zona y que me dejo un paso de vela donde después automáticamente vea la posibilidad de entrar al mercado.
+
+Ni más ni menos, ni más, ni menos.
+
+Y fijaros que aquí nos hace como mínimo un poco más bajo que el anterior.
+
+Teníamos una W de segunda y como el precio vuelve otra vez a recuperar hacia arriba así.
+
+Bueno, vamos, de momento vamos a ver las más fáciles, porque siempre hay y siempre hay momentos.
+
+Pues pues para complicarlo.
+
+Y os estoy analizando los momentos de máxima de máximo volumen, porque son dentro de fuera, fuera
+
+de los horarios de mercado regulado.
+
+Los movimientos no son iguales, es un proceso.
+
+Vamos a intentar hacer sufrir en este tipo de horarios si se puede hacer otro tipo de horarios, claro
+
+que sí.
+
+Sí, pero teniendo en cuenta también que los movimientos no son iguales y que intentar buscar las zonas
+
+que sea más probables de hoteles y que haya más posibilidades de que el precio, pues buena, pueda
+
+hacer una movimiento.
+
+Bueno, bien, tenemos aquí una vida de tipo uno.
+
+Veis como también cierra máximos, deja poco pabilo en una zona de resistencia y la siguiente vela fijaros
+
+que es una vela envolvente entonces y nos está dejando el pábilo a la misma altura de la anterior.
+
+Aquí tenemos una primera variante.
+
+Sí, doble techo técnico.
+
+Y fijaros lo que hace hacia abajo.
+
+Si?
+
+Y en esta es donde tendríamos que buscarla antes de comprarla en la siguiente.
+
+La vela está formando.
+
+Fijaros como aquí el precio después de una hora de caída lo está dejando una.
+
+Una vela de tipo dos.
+
+Si.
+
+Y que estaríamos vigilando la siguiente vela?
+
+Pues no esta tan en boga.
+
+Estáis viendo que el precio ha subido?
+
+Ha bajado y ha vuelto a Suiza?
+
+Si.
+
+En esta entrada encontrarás la siguiente vela.
+
+Aunque aquí si que vemos que el precio no prosperó mucho, sí que volvió a caer.
+
+Pero la siguiente caída.
+
+Fíjate que también tenemos una vela de tipo de tipo uno y la siguiente sale un envolvente.
+
+Así pues, el así de vela.
+
+Aquí es donde tendríamos de nuevo nuestra entrada.
+
+Fijaros que estamos buscando las oportunidades en los rebotes, en zonas que estaban estipuladas.
+
+O sea, lo que pasa es que estoy utilizando una vela de referencia y el tipo de movimiento que me deja
+
+la vela.
+
+Sobre todo tengo que estar observando qué es lo que pasa.
+
+Bueno, si yo estoy viendo que la vela está cayendo, cae, cae, cae y tiene un cuerpo grande, rojo,
+
+y luego se retrae y me dejó un pabilo y todo esto coincide.
+
+Pues entones después de una fuerte caída, pues vamos a ver si tenemos una oportunidad para dar el combate,
+
+sería lo más normal.
+
+Y fijaros, aquí lo tenemos.
+
+Sí, muy bien, tipo uno más.
+
+Luego un envolvente pararlo.
+
+Alec.
+
+Y.
+
+Otra de las cosas que también quiero que que vigilen mucho son las zonas de la canalizadas.
+
+Muchas zonas la televisadas, donde por medio de una de de un cuadrado o una elipse yo suelo utilizar
+
+mucho las elipses.
+
+Suelen ser zonas en donde cuando el pecio consume tiempo.
+
+Tiempo.
+
+Desde aquí hasta aquí ya consumió tiempo y no se mueven.
+
+Generalmente suelen dejar zonas de interés.
+
+Esas zonas de interés se traducen en zonas de volumen.
+
+Y fijaros como aquí para separarse, para separarse para 4.º y luego aparte.
+
+Esto al fin y al cabo no deja de ser más que un soporte de una resistencia de medida donde se encuentra
+
+el precio.
+
+Cuando empezáis a saber leer.
+
+Esto lo estamos hablando en el curso Masters Trainer.
+
+Si el volumen volumen FAIL, vamos a identificar este tipo de zonas porque nos puede dar movimientos
+
+o interesantes y zonas en donde podemos esperar un power back o una finalización del movimiento.
+
+Para qué?
+
+Fijaros aquí.
+
+Aquí tenemos un giro nube.
+
+Si esto es una vela tipo dos, pero que en el movimiento de movimiento lo hace rápido, toca y se retrae.
+
+Pues aquí no es que consuma los últimos minutos abajo, sino es que toca y se mete rápido.
+
+O sea, aquí entrara el mercado, aquí lo sería de forma rápida.
+
+Es probable que el peso incida así, con una pequeña retracción de tan solo una vela.
+
+Una vela con suerte y para arriba.
+
+Pero fijaros que la vela anterior es una vela contundente de tipo uno, pero no, si, pero no llega
+
+hasta abajo, no llega hasta aquí.
+
+Esa es la gran diferencia.
+
+No llega hasta aquí.
+
+Entonces esperar a que el precio llegue a las zonas y vemos cual es el E y vemos cuál es cual, cuál
+
+es su deseo, su comportamiento.
+
+Y fijaros como toda esta zona aquí es una zona donde hay una gran acumulación de velas y esto sirve
+
+muchas veces para establecer áreas de interés, zonas en donde el precio muchas veces tiende a ser enrevesado,
+
+porque toda esta zona aquí es una zona de mucha negociación, por tanto es una zona de liquidez.
+
+Puede ser una zona a tener en cuenta que si el precio está por debajo de esta zona quisiera asistencia.
+
+Por tanto, ya no solo tendríamos esta resistencia aquí, sino que tendríamos.
+
+Esta resistencia.
+
+Más luego está.
+
+Esto es muy importante que lo tengáis en cuenta, muy a parte de tener en cuenta también este movimiento.
+
+Aquí sube.
+
+Fijaros como esta vela de aquí cae nos deja una vela de tipo dos y la siguiente vela es una vela envolvente.
+
+Lo hice, sí.
+
+Y aquí tendríamos lo más parecido a una W de tercera variante.
+
+Pues en esta de aquí, en la siguiente tendríamos la época oscura.
+
+Ahora quiero que os fijéis en esta vela.
+
+Aquí.
+
+Esta vela de aquí es una vela de tipo.
+
+De tipo uno que perfora bueno y cierra por debajo.
+
+Esa es la diferencia.
+
+Cierra por debajo del soporte.
+
+Y la siguiente vela nos deja un mínimo por debajo.
+
+Lo hizo un mínimo por debajo.
+
+Y aquí sí que habría problemas de.
+
+De interpretación.
+
+Sí.
+
+Pues por qué?
+
+Porque aquí es posible que se formase un pequeño rango de acumulación dependiendo de cuál es el comportamiento.
+
+Cuánto tiempo le ha costado llegar la vela hasta aquí, si se ha retraído o no se ha ido.
+
+Entonces una No estoy diciendo que este método es infalible en algunos casos, pues también estamos
+
+viendo que son a partir de las 18:00 de la tarde.
+
+Entonces, a partir de ciertas horas, pues la lectura de las velas no puede ser igual de igual de clara.
+
+No quiero decir que eso suceda siempre, pero hay que tener en cuenta eso sí, y que bueno, también
+
+que no siempre se comporta igual, caray.
+
+O sea que eso pasa.
+
+Hay que admitir, eso es un no, no siempre el mercado se comporta igual.
+
+Pero bueno, como estamos haciendo el análisis de identificación de velas vela tipo uno.
+
+Sí, y aquí nos dejaría una.
+
+Un mínimo más bajo que la anterior.
+
+Y tendríamos una W de segunda variante en este.
+
+Así que obviamente, al estar viendo toda esta zona aquí, estaríamos viendo una oportunidad de OPA.
+
+Aquí sí que es cierto que es que el movimiento no fluctúa mucho y estáis viendo como el precio.
+
+Abrió aquí.
+
+Bajó, marcó un nuevo mínimo y volvió a cerrar.
+
+Entonces este movimiento me aseguró que fuera una.
+
+Una.
+
+Una posición mala.
+
+Bien, entonces el precio justo vuelve a subir y se para justo en el medio de la elipse, que es esta
+
+zona donde habíamos identificado que fijaros, también X había parado.
+
+La veis aquí y justo en este punto.
+
+Entonces toda esta zona aquí era una zona muy buena para estar vigilando, pues eh, posibles giros
+
+de mercado.
+
+De hecho, si te fijas, estamos viendo que aquí estás viendo un martillo.
+
+Un martillo arriba.
+
+Es un martillo arriba en zona de resistencia.
+
+No es un martillo en retroceso.
+
+Es un martillo que todavía genera.
+
+Máximo, más alto que la anterior.
+
+Es que eso es lo que quiero que entendáis.
+
+Si encuentro un martillo alcista, está por aquí.
+
+Muy malo.
+
+Verdad?
+
+Así, lo único que.
+
+Pues vaya, ahora no lo vamos a ver.
+
+No, no la usas.
+
+Bueno.
+
+No es un.
+
+No es un martillo en retroceso.
+
+Es un martillo que se produce en una caída, justo en un retroceso, no durante una tendencia alcista
+
+que retrocede y vuelve a subir.
+
+No es distinto, es distinto.
+
+Por eso tenemos que tener en cuenta.
+
+Vale.
+
+Y fijaros aquí es una de las velas de continuación que son complicadas de operar porque está en el soporte
+
+lo que está en el soporte.
+
+Pero aquí tendríamos una forma de onda y una nueva caída drástica y aquí tendríamos otra.
+
+Solo que esta si que la podemos operar porque está por debajo del nivel de soporte.
+
+Si ahora estamos viendo por ejemplo aquí esta vela aquí que aunque no haya marcado, pues fijaros,
+
+esta vela de aquí es una vela de tipo, es una vela tipo uno y la siguiente si que es cierto que le
+
+cuesta fluctuar y aquí nos necesitaría una vela de 15 o 15 45 minutos en este nivel, en estos niveles
+
+de aquí estaríamos viendo más seguro un rango es un rango de precio que nos está dejando prácticamente
+
+un doble suelo técnico.
+
+Valdepeñas sube, cae y cuando termina de decaer, que probablemente sería el 61% respecto de todo este
+
+movimiento, pues de baja una vela tipo dos y a la siguiente tendríamos nuestra oportunidad de compra
+
+en una formación.
+
+Sí.
+
+Lo interesante de todo esto es que esta misma vida de aquí se para y se frena.
+
+Veis?
+
+Esta es de tipo dos.
+
+Una vela de tipo dos separa para zona de soporte.
+
+Fijaros la siguiente que es esta aquí nos deja una m de segunda variante que es un máximo más alto que
+
+la anterior.
+
+Pues aquí es una M de segunda variante.
+
+Aquí podríamos entrar en corto.
+
+O sea que fijaros como aquí hubiéramos sentado en corto en una m.
+
+Y aquí habíamos entrado en corto con una vuelta de nube aproximadamente.
+
+Ahora bien, fijaros como aquí viene el precio.
+
+Cierra con una vela tipo uno.
+
+Cierre máximos, poco pabilo.
+
+La siguiente vela tendríamos que estar esperando una forma de onda, o sea, ahí sí.
+
+Y el precio se va hacia abajo, no?
+
+Este tipo uno sucede en zona de resistencia oeste cuando sucede en cualquier lugar, en zona de resistencia.
+
+Por eso os digo vamos a esperar a que llegue R.
+
+Hay que tener paciencia, chicos.
+
+No hay otra.
+
+Vale?
+
+Ahora fijaros, también está este movimiento, así como también es una regla de tipo dos.
+
+La siguiente vela de ambos está esperando en esta entrada en.
+
+En en compra.
+
+Sucede en la zona de soporte y fijaros también toda esta elipse, si que su zona media nos está dejando
+
+este nivel de precio de aquí en concreto.
+
+Si, fijaros como aquí tenemos un nivel o un nivel de aumento de volumen en este punto de aquí y que
+
+actúa como un.
+
+Una resistencia en resistencia.
+
+Aquí valida el soporte y aquí valida el soporte.
+
+De nuevo, no es entonces la correcta identificación de estos lugares cuando ya han sido validados anteriormente,
+
+pues todavía tienen mayor importancia.
+
+Fijaros tipo dos y la siguiente pues nos deja un mínimo por debajo y tendríamos una W de segunda variable.
+
+Pues bueno, hemos llegado al final de esta.
+
+Esta lección.
+
+Vamos a ver.
+
+Hemos estado viendo en que consistía los patrones de giro masoquista.
+
+Hemos visto la introducción al método.
+
+Hemos visto los patrones de giro alcista.
+
+Hemos estado viendo en profundidad las velas para poder entenderlas mucho mejor.
+
+Hemos visto también los procesos de absorción de ventas como fiesta, también en los procesos de absorción
+
+de compras.
+
+Hemos visto como podemos crear el mapa desde abajo.
+
+Hemos visto también patrones en patrones de entrada, en retrocesos, terminaciones.
+
+Hemos visto también como podemos aprovechar identificando los patrones o compradores en los niveles
+
+de Fibonacci.
+
+Cuando la tendencia va, va hacia arriba, va intervencionista y lo mismo cuando estamos en tendencia
+
+bajista o donde niveles de Fibonacci.
+
+Y cuando se produce la caída, el precio retrocede y podemos buscar los mismos patrones en los distintos
+
+niveles de Fibonacci.
+
+Lo hemos estado viendo como uniendo todas las piezas del puzle interpretación de las velas de 15 de
+
+15 minutos con los movimientos impulsivos y grafico en un minuto hay lectura del volumen e interpretación
+
+del movimiento.
+
+Estamos viendo como que todo empieza a encajar muchísimo mejor y acabamos de ver unos ejercicios prácticos
+
+para que podamos identificar muy bien los tipos de velas.
+
+Así que bueno, ahora lo que te queda es para sellar tu aprendizaje.
+
+Lo primero que debes ver es el vídeo de prácticas de la lección.
+
+Esto es muy importante.
+
+Unas cuantas, cuantas más veces veáis el vídeo y luego hagáis vuestras propias prácticas.
+
+Mejor no pases a la siguiente lección hasta que no hayas hecho tus propias prácticas.
+
+Ya está el tiempo que consideres necesario antes de pasar a las elecciones.
+
+Prefiero que esto lo aprendáis muy, muy, muy bien y que lo practique sin que lo practiquéis, porque
+
+os viene de teoría y cuando se llenáis de teoría y no lo practicáis, al final no sirve de nada.
+
+Os llenéis de pura información y luego al final tenéis un montón de ideas, que es lo único que os quedáis.
+
+Vamos, es todo un jaleo mental que no hay forma.
+
+Entonces por favor hacer las prácticas y estar el tiempo que vosotros consideréis necesario.
+
+Así que bueno, hemos llegado al final de esta lección.
+
+Solo me queda decirte que muchísimas gracias por haber llegado hasta aquí y nos vemos en el siguiente.
+
+En el siguiente vídeo os espero.
+
+Muchísimas gracias.
+
+
+

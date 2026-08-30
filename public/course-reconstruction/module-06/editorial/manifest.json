@@ -1,0 +1,150 @@
+{
+  "module": 6,
+  "kind": "editorial-schematic",
+  "generator": "scripts/render-module-six-diagrams.py",
+  "assets": [
+    {
+      "id": "cuerpo-y-mechas",
+      "src": "/course-reconstruction/module-06/editorial/cuerpo-y-mechas.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 72299,
+      "sha256": "7f7cd453f5e147cea8c0bfdfb31f57491613621d65c7186ef650cf8041ed7841",
+      "description": "Dos orígenes ficticios: cuerpo comprador [101;104] con mínimo 99 y cuerpo vendedor [108;110] con máximo 112.",
+      "ohlc": [
+        {
+          "open": 104,
+          "high": 105,
+          "low": 99,
+          "close": 101
+        },
+        {
+          "open": 108,
+          "high": 112,
+          "low": 107,
+          "close": 110
+        }
+      ]
+    },
+    {
+      "id": "visita-persistente",
+      "src": "/course-reconstruction/module-06/editorial/visita-persistente.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 69176,
+      "sha256": "0e766742113cea81ea087758f69f859c8ce0ade6c6b8b7d7a00e3ec9d9699667",
+      "description": "A no toca; B visita por su mínimo; C se aleja sin borrar la visita registrada. Líneas negras: rango de cada barra, punto verde: cierre de B.",
+      "zone": [
+        101,
+        104
+      ],
+      "ranges": [
+        [
+          104.5,
+          107
+        ],
+        [
+          103.5,
+          106
+        ],
+        [
+          105,
+          108
+        ]
+      ],
+      "closeB": 105.5,
+      "states": [
+        "sin-visita",
+        "visitada",
+        "visitada"
+      ]
+    },
+    {
+      "id": "retorno-y-contacto",
+      "src": "/course-reconstruction/module-06/editorial/retorno-y-contacto.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 64765,
+      "sha256": "b15ae972eb009685d80e489bd981901fb02128c9782f35d84e2912c290d3337f",
+      "description": "Comparación numérica: el retorno a 5 no visita [2,50;4]; el retorno a 3,50 sí. La geometría no demuestra ejecuciones.",
+      "zone": [
+        2.5,
+        4
+      ],
+      "returnMinima": [
+        5,
+        3.5
+      ]
+    },
+    {
+      "id": "reaccion-y-ruptura",
+      "src": "/course-reconstruction/module-06/editorial/reaccion-y-ruptura.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 68246,
+      "sha256": "7e23fc43fe6d26f0d17b9370e7ee6faffc6602a22891d8db9d56dda517c46215",
+      "description": "Una W local reacciona a 2,40 sin romper 2,50; en el segundo estado alcanza 2,80 pero no rompe la referencia mayor 3,20.",
+      "series": [
+        [
+          3.2,
+          1,
+          2.5,
+          2,
+          2.4
+        ],
+        [
+          3.2,
+          1,
+          2.5,
+          2,
+          2.8
+        ]
+      ],
+      "localReference": 2.5,
+      "priorReference": 3.2
+    },
+    {
+      "id": "stop-y-cantidad",
+      "src": "/course-reconstruction/module-06/editorial/stop-y-cantidad.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 85673,
+      "sha256": "c0b11df080619dcc453662f1fdae3e453a64f3bab7eb7ca110d4334cbf340db4",
+      "description": "Mismo destino 108 y entrada 103. Stop 101: 2,5R y 10 unidades; stop 99: 1,25R y 5 unidades para mantener riesgo teórico 20.",
+      "budget": 20,
+      "pointValue": 1,
+      "calculations": [
+        {
+          "entry": 103,
+          "stop": 101,
+          "target": 108,
+          "risk": 2,
+          "reward": 5,
+          "ratio": 2.5,
+          "quantity": 10
+        },
+        {
+          "entry": 103,
+          "stop": 99,
+          "target": 108,
+          "risk": 4,
+          "reward": 5,
+          "ratio": 1.25,
+          "quantity": 5
+        }
+      ]
+    },
+    {
+      "id": "tiempo-disponible",
+      "src": "/course-reconstruction/module-06/editorial/tiempo-disponible.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 73980,
+      "sha256": "86ba0b66951c3022bca0a9334bd52e9a6b26b32860def08797a06f0a8e5424e7",
+      "description": "H1 abre a las 11:00, la decisión M3 es a las 11:36 y el cierre H1 solo estará disponible a las 12:00.",
+      "openMinute": 660,
+      "decisionMinute": 696,
+      "closeMinute": 720
+    }
+  ]
+}

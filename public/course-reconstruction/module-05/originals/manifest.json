@@ -1,0 +1,94 @@
+{
+  "module": 5,
+  "received": "2026-08-28",
+  "assets": [
+    {
+      "id": "anatomia-velas-poker",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-anatomia-velas-poker.png",
+      "width": 1721,
+      "height": 885,
+      "bytes": 122903,
+      "sha256": "c577a9ae90dd9d76ecf1f40e5b8fea7b2cfa036a261c162385f9012e707e3298"
+    },
+    {
+      "id": "frenada-absorcion-recompensa-ideal",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-frenada-absorcion-recompensa-ideal.png",
+      "width": 1447,
+      "height": 948,
+      "bytes": 117271,
+      "sha256": "ef450f5a7499eaa6eb9e6c6f9e60c22db7cd1fc6ed1de2d7aa2212d635495761"
+    },
+    {
+      "id": "proceso-acumulacion-poker",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-proceso-acumulacion-poker.png",
+      "width": 1604,
+      "height": 738,
+      "bytes": 113242,
+      "sha256": "4983eb601efad03095ed242567f6c30c209efd2876dd9870699af1870f611d61"
+    },
+    {
+      "id": "proceso-distribucion-poker",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-proceso-distribucion-poker.png",
+      "width": 1461,
+      "height": 1178,
+      "bytes": 116319,
+      "sha256": "66005b2afd0b4289ca3519ad46d82ac0428a5df33c93b8fa155f89440bf18572"
+    },
+    {
+      "id": "mapa-velas-poker-alcistas",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-mapa-velas-poker-alcistas.png",
+      "width": 1587,
+      "height": 950,
+      "bytes": 147039,
+      "sha256": "46b03a675849194eb0cc53c9ee4bcfa8ddab736b1bc0b5e19a3fe0c0723f2498"
+    },
+    {
+      "id": "mapa-velas-poker-bajistas",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-mapa-velas-poker-bajistas.png",
+      "width": 1589,
+      "height": 950,
+      "bytes": 175763,
+      "sha256": "099cbd0be91b9694a43d18ca93a48b7aa594aaaee08c78ecd435375caf20e7e3"
+    },
+    {
+      "id": "debilidad-demanda",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-debilidad-demanda.png",
+      "width": 1168,
+      "height": 1031,
+      "bytes": 99166,
+      "sha256": "235e87097df793467e1861069c95697ba493bcf068f5b4a0444150ae39a2a6e3"
+    },
+    {
+      "id": "operando-velas-poker-alcistas",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-operando-velas-poker-alcistas.png",
+      "width": 1430,
+      "height": 950,
+      "bytes": 112258,
+      "sha256": "e36be571ca2e5421eb493ab6e45ed9ba4df180a5d4012598ca8ab7ba3eb00966"
+    },
+    {
+      "id": "regla-recorrido-1-1",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-regla-recorrido-1-1.png",
+      "width": 846,
+      "height": 1179,
+      "bytes": 55806,
+      "sha256": "3609c8763f535517a57d14e467a5b8faf604e2fd5293a6c9439f963e31867b0b"
+    },
+    {
+      "id": "practica-1-alcista",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-practica-1-alcista.png",
+      "width": 1475,
+      "height": 873,
+      "bytes": 74997,
+      "sha256": "91af4ccbb9f6b38afb1c9b2abaf6b256c869478c954fffb5d821d60597f5bb54"
+    },
+    {
+      "id": "practica-1-bajista",
+      "src": "/course-reconstruction/module-05/originals/20260828_m4-practica-1-bajista.png",
+      "width": 1475,
+      "height": 873,
+      "bytes": 75022,
+      "sha256": "cb02342e91508fcc008984c2ed705177126004f41b12f6cf8c89d48554032127"
+    }
+  ]
+}

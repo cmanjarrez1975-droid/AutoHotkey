@@ -1,0 +1,202 @@
+{
+  "module": 5,
+  "kind": "editorial-schematic",
+  "generator": "scripts/render-module-five-diagrams.py",
+  "assets": [
+    {
+      "id": "anatomia-medida",
+      "src": "/course-reconstruction/module-05/editorial/anatomia-medida.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 69623,
+      "sha256": "9034e38b6e1c3d173ee0d45c5ec59896fb3a6ccdd0fbf6321df9afe9eaa116e8",
+      "description": "Dos velas con cuerpo 3,25 y rango 4: cierre comprador próximo al máximo y vendedor próximo al mínimo. Valores OHLC ficticios.",
+      "sourcePages": [
+        80,
+        81,
+        100,
+        101
+      ],
+      "ohlc": [
+        {
+          "open": 100.5,
+          "high": 104,
+          "low": 100,
+          "close": 103.75
+        },
+        {
+          "open": 103.5,
+          "high": 104,
+          "low": 100,
+          "close": 100.25
+        }
+      ]
+    },
+    {
+      "id": "secuencia-w-m",
+      "src": "/course-reconstruction/module-05/editorial/secuencia-w-m.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 61573,
+      "sha256": "48b99300f38c4dbf320ee304cd3cad11bf5c668021733f0671cc83931f238492",
+      "description": "W y M con dos tests, reacción local y ruptura todavía hipotética. La línea azul no se considera superada antes del cruce.",
+      "sourcePages": [
+        85,
+        86,
+        103,
+        106
+      ],
+      "series": [
+        [
+          9,
+          2,
+          6,
+          3,
+          5,
+          7
+        ],
+        [
+          2,
+          9,
+          5,
+          8,
+          6,
+          4
+        ]
+      ],
+      "references": [
+        6,
+        5
+      ]
+    },
+    {
+      "id": "contexto-y-obstaculo",
+      "src": "/course-reconstruction/module-05/editorial/contexto-y-obstaculo.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 66323,
+      "sha256": "f5b87a49767b7b10296df807fd93ff8722cea96a776eabae2bb10f3ef5c1161d",
+      "description": "Una misma vela compradora frente a dos resistencias diferentes: 108 y 104,25. Forma y ubicación no son equivalentes.",
+      "sourcePages": [
+        86,
+        89,
+        105
+      ],
+      "candle": {
+        "open": 100.5,
+        "high": 104,
+        "low": 100,
+        "close": 103.75
+      },
+      "resistances": [
+        108,
+        104.25
+      ]
+    },
+    {
+      "id": "vigencia-candidata",
+      "src": "/course-reconstruction/module-05/editorial/vigencia-candidata.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 58299,
+      "sha256": "77c540b72929f7bce25da01c874be79404519aae00b3a1c4ac2dfb4c5808caaf",
+      "description": "Dos velas siguientes posibles: una no alcanza el nivel y la candidata caduca; otra lo cruza y activa el modelo, sin demostrar ejecución real.",
+      "sourcePages": [
+        91
+      ],
+      "candidate": {
+        "open": 100.5,
+        "high": 104,
+        "low": 100,
+        "close": 103.75
+      },
+      "nextCandles": [
+        {
+          "open": 103.75,
+          "high": 104,
+          "low": 102.5,
+          "close": 103
+        },
+        {
+          "open": 103.75,
+          "high": 105,
+          "low": 103.5,
+          "close": 104.75
+        }
+      ],
+      "entry": 104.25,
+      "tick": 0.25
+    },
+    {
+      "id": "rango-y-riesgo",
+      "src": "/course-reconstruction/module-05/editorial/rango-y-riesgo.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 71531,
+      "sha256": "e136209c63f0f4acbcf18c419915e43ff0cf86342b86012958fbb4b18412f47a",
+      "description": "Cálculo separado de rango, entrada, stop y 1R para compra y venta. La amplitud de la vela no incluye los márgenes de la orden.",
+      "sourcePages": [
+        91,
+        92
+      ],
+      "calculations": [
+        {
+          "direction": "compra",
+          "high": 104,
+          "low": 100,
+          "tick": 0.25,
+          "entry": 104.25,
+          "stop": 99.75,
+          "risk": 4.5,
+          "range": 4,
+          "targetRange": 108.25,
+          "targetR": 108.75
+        },
+        {
+          "direction": "venta",
+          "high": 104,
+          "low": 100,
+          "tick": 0.25,
+          "entry": 99.75,
+          "stop": 104.25,
+          "risk": 4.5,
+          "range": 4,
+          "targetRange": 95.75,
+          "targetR": 95.25
+        }
+      ]
+    },
+    {
+      "id": "orden-intrabar",
+      "src": "/course-reconstruction/module-05/editorial/orden-intrabar.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 61425,
+      "sha256": "db807ff3f2645db2243f7cbb4d09121cbc34fc8b34dc70b338f6a9e9ca82064a",
+      "description": "Dos recorridos compatibles con el mismo OHLC. El orden de visita a entrada y stop no puede deducirse de una barra agregada.",
+      "sourcePages": [],
+      "paths": [
+        [
+          102,
+          105,
+          99,
+          103
+        ],
+        [
+          102,
+          99,
+          105,
+          103
+        ]
+      ],
+      "ohlc": {
+        "open": 102,
+        "high": 105,
+        "low": 99,
+        "close": 103
+      },
+      "entry": 104.25,
+      "stop": 99.75
+    }
+  ]
+}

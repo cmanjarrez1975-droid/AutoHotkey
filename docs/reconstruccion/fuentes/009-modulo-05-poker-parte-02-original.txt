@@ -1,0 +1,1473 @@
+Bueno, chicos, vamos a iniciar esta segunda parte de esta lección tan interesante llamada Las velas
+
+Poker.
+
+Así que vamos a ver que en qué consiste esta segunda parte.
+
+Bueno, vamos a hablar de algo muy importante, que es como.
+
+Vamos a aprovechar todas estas velas y vamos a hablar de cómo las podemos traer.
+
+Muy bien, vamos.
+
+Vamos a seguir explicando el desarrollo.
+
+Bien.
+
+Cuando el precio avanza en una probabilidad muy elevada, la estas mismas velas poker van a desarrollar
+
+la misma distancia de la amplitud de esta misma vela.
+
+Es un objetivo altamente probable sería ir a buscar el desarrollo de 11A1.
+
+Dependiendo de su ubicación, podemos buscar mayores recorridos.
+
+En este caso se pone una vela de una orden de compra o de venta en un tick por encima del máximo o mínimo
+
+de la vela.
+
+Póker esperando que la vela siguiente supere el nivel de entrada.
+
+El stop estaría un día o dos por debajo, en el extremo opuesto de la vela póker.
+
+Si la siguiente vela no supera el nivel de entrada de la vela póker, eliminamos la.
+
+La orden de entrada.
+
+Es posible que no exista la suficiente fuerza para que el precio avance, que es uno de los ejemplos
+
+que habíamos puesto anteriormente.
+
+El cuadro tiene mecha por la parte de arriba.
+
+Esperamos a que salga la siguiente, la siguiente vela y entonces ahí cambiamos el nivel de entrada.
+
+Bien.
+
+Su mayor efectividad sucede cuando aparecen después de un retroceso.
+
+Y en la segunda forma singular, tanto de una W como de una M.
+
+También las podemos aprovechar cuando el precio avanza.
+
+Esto, por ejemplo, es muy importante porque en situaciones en donde el precio avanza sin desarrollar
+
+un retroceso, podemos aprovechar la información de estas mismas velas, pocas, sabiendo lo que significa
+
+el empuje para entrar al mercado sin que realice un retroceso.
+
+Es muy probable que aparezcan varias seguidas, lo que indicaría fortaleza de la tendencia.
+
+Si nos encontramos en una operación abierta y todavía no ha llegado al objetivo, su aparición aportaría
+
+al trader tranquilidad, ya que el precio tiene probabilidades de seguir avanzando y sobre todo, no
+
+entrar al mercado cerca de niveles importantes.
+
+O sea que si nosotros estamos viendo una vela póker cerca de un soporte o una resistencia.
+
+Cuidado, porque ahí la señal sería completamente lo contrario.
+
+Entonces hay que tener precaución y habría que estar viendo la posibilidad de un cambio de tendencia.
+
+Por eso que la misma vela no significa lo mismo en una ubicación que en la otra.
+
+Así que vamos a ver cómo podríamos estar operando estas velas.
+
+Pocas.
+
+Tenemos ya?
+
+Pues, perdón.
+
+Tenemos ya un posible patrón de acumulación.
+
+Vemos un mínimo más alto que el anterior.
+
+Por tanto, este último mínimo disculparás que estoy un poco mal de la garganta.
+
+Por eso me veis que estoy tapado.
+
+Bien, entonces el este último mínimo más alto que la anterior, tendríamos que estar observando qué
+
+es lo que pasa ahí.
+
+Ahí es donde vamos a estar viendo los patrones de vela compradores.
+
+Los patrones de vela compradores.
+
+Entonces yo lo que.
+
+Antes de que suceda todo el siguiente movimiento, tengo que estar ya planificando que es lo más probable
+
+que suceda.
+
+Si, si rompe.
+
+Si rompe la base de la de esta W al poner el fibo en el de esta forma.
+
+61 en la base y el 100 en la en el origen.
+
+Yo voy a estar proyectando los siguientes niveles por acá arriba.
+
+Recordar que cuando yo pongo el fibo de esta forma no estoy ordenando el mercado en cuanto a estructuras
+
+de impulsos, porque no tengo ningún movimiento impulsivo alcista terminado, pero si que estoy digamos
+
+anticipando niveles altamente probables en donde el precio se para puede dar la darse el final del primer
+
+impulso y luego hay que esperar la caída para incorporarme a la tendencia, si es que esa es una de
+
+las estrategias.
+
+Entonces esto es muy importante porque el aprender a utilizar el fibo de esta de esta forma y de esta
+
+metodología va a hacer que aumentes en la efectividad de las operaciones sobre todo eso.
+
+Entonces vamos a estar vigilando en estos dos niveles 38 y 23, porque ahí en la gran mayoría de las
+
+situaciones el precio deja de avanzar y realiza un retroceso.
+
+O sea que fijaros la información tan privilegiada que vais a poder tener.
+
+Que en ese nivel es altamente probable que finalice el primer movimiento impulsivo alcista.
+
+Por tanto, el siguiente movimiento que tendría que estar esperando en estos niveles es un retroceso.
+
+Lo siguiente que tendríais que estar pensando es si el precio llega hasta ahí y realiza un retroceso.
+
+Ahora ese fibo, ese fibo lo tendría que convertir a fibo de retroceso.
+
+Entonces tendría que estar poniendo el fibo de retroceso aquí desde el origen de todo este movimiento
+
+impulso alcista hasta el máximo y estar vigilando donde el precio se podía parar, en que niveles de
+
+fibo se podía parar?
+
+38.
+
+50, 61.
+
+Y ahí están buscando los patrones compradores.
+
+Un paso a un comprador.
+
+Perdón.
+
+En el.
+
+En el inicio de una tendencia alcista.
+
+Es una absorción u absorción.
+
+Y luego lo más probable es que aparezca una de las pocas.
+
+De empuje.
+
+Todo esto lo tenemos que tener en la cabeza.
+
+Si el precio no llega hasta ahí.
+
+Si no llega hasta ahí.
+
+Y puede ser que el precio pueda a pueda subir hasta estos niveles de aquí y luego hacer un pull back
+
+y luego subir.
+
+Sí.
+
+Entonces sólo tenemos dos opciones que son las más probables.
+
+Entonces tenemos que anticipar todo eso en nuestra cabeza.
+
+Bueno, vamos a ver.
+
+El precio sube.
+
+Aquí tenemos una vela Poker después de un patrón de absorción.
+
+Una de la poker.
+
+Aquí ya empezamos a hablar ya de un sistema en el que yo puedo anticiparme a entrar al mercado antes
+
+de que el precio rompa la base de la de la W.
+
+Es una entrada arriesgada.
+
+Sí.
+
+Lo que pasa es que también las posibilidades de recorrido son muy, muy elevadas.
+
+Entonces nuestro stop estaría aquí.
+
+Y como poco, como poco podíamos pedirle.
+
+O mejor dicho, luego tendríamos una segunda posición de stop.
+
+Si que sería en el en el último mínimo, donde dejó de caer y comenzó a subir, o sea, en la segunda
+
+forma triangular.
+
+Es un muy buen stop.
+
+Yo.
+
+Yo me iría más a por el stop número dos porque le dejas más posibilidades de recorrido al precio en
+
+tu contra.
+
+Esto es algo que sucede muchas veces.
+
+Cuando apuráis mucho los stop y bajáis mucho el marco temporal.
+
+Os vais a dar cuenta?
+
+Bueno, es posible que igual ya ya lo hayáis experimentado, que el precio pues puede darse la vuelta
+
+y luego sube y dices caray, pues es que me ha sacado.
+
+Claro que sí, es que si el stop es muy muy está muy cerca y luego el marco temporal es muy bajo.
+
+Cualquier movimiento en tu contra.
+
+Entonces aquí también elegir un marco temporal en el que no sea muy rápido ni tampoco muy lento, y
+
+que os encuentres muy bien y que este tipo de movimientos sean mucho más probables.
+
+Entonces, el siguiente ejercicio que vais a tener que realizar es escoger, además del activo que mejor
+
+se comporte con esto que estamos hablando es el marco temporal de trabajo.
+
+Bien, entonces como poco sería ir a buscar un objetivo del 1 a 1.
+
+Y el siguiente objetivo que podemos estar planteándonos es ir a buscar el 38% de de la medición de del
+
+patrón de acumulación.
+
+Entonces hay que estar pensando en una cosa que si el precio rompe la base de la W, es altamente probable
+
+que el primer nivel al que vaya es al 50.
+
+Eso lo tenemos que integrar en nuestra cabeza.
+
+O sea, todo este tipo de situaciones ahora en nuestra cabeza las tenemos ya que integrar para empezar
+
+a pensar qué es lo más probable que pueda parecer.
+
+O sea, porque es lo que muchísimas veces sucede.
+
+Bueno, aquí saldría este tipo de vela y luego tendríamos este tipo de vela.
+
+Vale.
+
+Ante este tipo de situaciones, pues podemos agregar posiciones en a rompimiento de la base de la W.
+
+O también al estar viendo esta vela poca.
+
+Podemos agregar posiciones aquí.
+
+Porque estáis viendo esa vela?
+
+Ahora ya sabéis la importancia que tiene esa vela.
+
+Que si agregar seis posiciones, un stop estaría en la parte inferior, en la parte inferior de esta
+
+misma vela.
+
+Y aquí para ir a buscar, digamos, recorridos del 1 a 1, estaría ahí.
+
+Aunque una vez que el precio haya superado la base de la vela de la W, lo más normal sería ir a buscar
+
+el desarrollo del 38, porque es un movimiento altamente probable que lo dé y en muchas ocasiones también
+
+el 23, pero yo me iría el 38 porque ya tenéis una posición abajo más quizás una una nueva posición
+
+en la base de la W en dos posiciones dependiendo del apalancamiento, pues es mejor que recojáis, metéis
+
+dinero en caja y esperar porque el precio cuando llega a estos niveles generalmente suele haber un retroceso.
+
+Entonces es muy bueno para el cerebro cerrar posiciones y meter dinero en caja porque así lo volvéis
+
+real.
+
+Entonces, ante estas situaciones, una vez que el precio llega a estos niveles, de aquí el siguiente
+
+planteamiento que tenemos que hacernos es este es medir, medir toda la todo el movimiento tendencial
+
+alcista y poner nuestro fibo de retrocesos.
+
+Y todo esto ahora teníamos que estar pensando que esto es la finalización del primer impulso, no?
+
+Bien, entonces una vez que nosotros nos planteamos ahora el fibo de retroceso aquí poniendo el cero
+
+y aquí el 100, vamos a estar vigilando a niveles del 30, del 38, 38%, 50% o 61%.
+
+Principalmente los niveles que es más probables que se den después de un movimiento de varias velas
+
+seguidas subiendo sea lo primero un retroceso de tipo dos.
+
+Más luego al final del retroceso sería un patrón de absorción.
+
+La mayoría de los patrones de absorción vas a estar viendo una una vela con una mecha por debajo.
+
+Entonces vamos a tener que estar pensando en anticipar que es lo más probable que pueda suceder para
+
+estar ya enfocados y saber qué es qué tipo de acción voy a ejecutar.
+
+Ante este hecho, cuando yo veo este tipo de vela, si nos aparece esta vela de acá, si utilizamos
+
+la estrategia de.
+
+De.
+
+De retrocesos, nosotros entraríamos en compra al rompimiento de esta.
+
+De este máximo.
+
+De esta vela.
+
+Además de que estoy observando que aquí tengo un doble suelo con mechas que se desnudan.
+
+Aquí tengo un patrón comprador en el inicio de una tendencia alcista.
+
+Entonces las caídas chicos las tenéis.
+
+Que bueno, se me había olvidado disculpar.
+
+Ahora me véis mejor disculpar.
+
+Entonces tenéis que estar recordando que las velas rojas, o sea, una caída.
+
+Tenéis que estar observando como una oportunidad para echar un mejor precio.
+
+Eso sobre todo si no habéis aprovechado o bien porque no se ha dado el momento, o bien porque habéis
+
+encendido el ordenador más tarde y os encontráis y os encontráis con esta situación así.
+
+Entonces, vale, estáis viendo todo esto, toda esta situación, estáis viendo esto?
+
+Y ahora que puedo hacer?
+
+Esperar para incorporarme a la tendencia?
+
+Entonces fijaros como aquí tenemos un doble, un doble suelo y si luego nos aparece este tipo de vela
+
+tendríamos aquí una vela, una vela, póker.
+
+Entonces aquí hay dos posibles entradas.
+
+Una es aquí, al rompimiento de esta.
+
+De esta vela?
+
+Bueno, más o menos.
+
+Casi, casi un martillo aquí, que sería una entrada de sistema, digamos, de retrocesos.
+
+Y podíais anegar posiciones aquí.
+
+Aquí entraríamos por retroceso.
+
+Y si tenéis una vela o como esta, entonces aquí podéis agregar otra posición.
+
+Y si no queréis agregar más posiciones, pues no hay problema, No hay problema.
+
+Por qué?
+
+Porque si habéis entrado aquí y luego veis esta vela póker, vais a estar mucho más tranquilos en esta
+
+posición porque estáis viendo que esta es una vela de empuje al precio avanza.
+
+Y aquí estaríamos viendo este tipo de situación.
+
+Si otra vela póker rompiendo en rompiendo el final del primer impulso.
+
+Lo que haría, lo que daría pie a plantearnos que todo este movimiento de aquí forma parte del primer
+
+impulso para buscar el segundo.
+
+O sea, aquí, ahora es el siguiente paso sería que nosotros memorizamos o recordar, o mejor dicho,
+
+las secuencias o los tipos de movimientos presenciales alcistas y estar viendo que durante el desarrollo
+
+de ese segundo impulso puede haber.
+
+Puede haber quizás algún retroceso pequeño de tipo dos, o quizás también pueda haber un patrón de continuación
+
+durante el desarrollo del segundo impulso.
+
+Entonces eso lo tenemos que adelantar.
+
+También es posible que el precio se vaya directo hasta el final del segundo impulso y en el final del
+
+segundo impulso hay que anticipar dos situaciones más probables un retroceso de tipo dos o tipo tres,
+
+o un patrón de continuación Punto.
+
+Ese es nuestro plano correcto.
+
+Hay que tenerlo muy, muy, muy claro.
+
+Y como siempre, vamos a ver unos ejercicios prácticos para empezar a ver dónde están esas velas o como
+
+son.
+
+Bueno.
+
+Bueno, quiero que nos fijemos en esta.
+
+En esta parte de aquí.
+
+Sí, Estamos viendo una W de segunda variante.
+
+Y nosotros estaríamos observando este nivel de aquí.
+
+Correcto.
+
+Bien, fijaros como vemos una vela martillo en este punto de aquí.
+
+Haciendo un mínimo por debajo del mínimo anterior y observar la vela que aparece después.
+
+La veis?
+
+Esa es la vela.
+
+Esa es la vela de empuje.
+
+Bien.
+
+A su vez, fijaros que le costó al precio subir y desarrollar.
+
+Pero si la estáis viendo, la estáis localizando.
+
+Esto suele pasar.
+
+O sea que no creáis que automáticamente el precio va a salir disparado.
+
+Pero ya estáis viendo la fortaleza de la demanda.
+
+Estáis viendo una.
+
+Un engaño que no prospera.
+
+Estáis viendo un martillo y luego una vela.
+
+Póker.
+
+Vale, genial.
+
+Perfecto.
+
+Ahora, si.
+
+Luego en el posterior movimiento alcista no se están dando velas como esta.
+
+Si, la interpretación sería que todavía la demanda no está lo suficientemente fuerte como para que
+
+el como para que pudiéramos confiar en la fortaleza o que.
+
+Hubiera la suficiente determinación por parte de los gordos de seguir comprando.
+
+También hay que tener en cuenta que es lo que puede haber a la izquierda, porque en estos casos fijaros
+
+como aquí tenemos un impedimento, una resistencia, no solo que nos coincide esta resistencia en la
+
+base de la ruptura de la W, sino que nos coincide con este soporte de aquí que además nos hace, nos
+
+coincide con este nivel de campo.
+
+Por tanto, aquí tenemos una resistencia cuando tenemos complicaciones a la izquierda es muy común,
+
+muy común, que el precio no avance.
+
+Entonces, ojo también porque hay que prestar atención a que es lo que tenemos a la izquierda.
+
+Si no tenemos nada a la izquierda, lo más normal sería que empezaba a 11.
+
+Pero si tenemos eso, la vela póker nos puede estar, digamos, indicando fortaleza, pero todavía no
+
+hay, digamos, una confirmación en estos casos.
+
+Yo por mucho que yo pueda estar viendo máximos y mínimos ascendentes con nuestros martillos aquí y aquí
+
+y y y toda esta línea de tendencia alcista, yo me esperaría a que el precio rompiese por encima del
+
+máximo sobre todo eso.
+
+Fijaros como aquí tendríamos nuestra vela póker antes el precio ha roto, pero fijaros como el precio
+
+se nos retrae, se retrae, vuelve a hacer otro retroceso.
+
+Y aquí teníamos una muy buena señal.
+
+Otra señal de absorción.
+
+Entonces aquí tenemos una señal de absorción más luego una vena que se desnuda aquí, en este, en este
+
+nivel de aquí de resistencia.
+
+Y aquí es donde aparece el claro ejemplo de la diapositiva anterior que la la siguiente vela si engulle
+
+la mecha anterior.
+
+Y aquí tenemos la vela póker.
+
+En este caso, aquí podríamos haber ejecutado nuestro nivel de entrada en compra.
+
+Cuando el precio rompe ese nivel, es muy probable que luego vuelva a aparecer otra vela de empuje.
+
+Y aquí la tenemos.
+
+Lo veis?
+
+Ahora, cuando observamos, poniendo nuestro fibo de esta forma, que el precio ha llegado a una zona
+
+23 23, cero.
+
+Hay que estar, hay que prestar mucha atención porque dependiendo del tipo de movimiento que haya tenido,
+
+es muy probable que el precio o una de dos o desarrolle un patrón de continuación o un retroceso más
+
+profundo para dar origen a todo un movimiento alcista.
+
+En este caso, fijaros como tenemos aquí un martillo y luego una vela póker.
+
+Pero el precio no prospera, lo es.
+
+Bueno, entonces.
+
+Cuándo se dan este tipo de situaciones que no siempre se dan, pero bueno, pero para que lo veáis,
+
+de haber entrado aquí en compra nos hubiera sacado aquí o de haber entrado en retroceso desde aquí,
+
+pues la operación estaría todavía en marcha.
+
+Y cuando vemos un patrón de continuación esta estos dientes de sierra en el origen de un primer impulso
+
+lo tenemos que estar.
+
+El significado que le tenemos que dar sería un posible patrón de continuación.
+
+No es lo mismo encontrar un diente de sierra aquí que un diente de sierra en niveles caros.
+
+Entonces hay que estar pendientes de ese tipo de información.
+
+Entonces aquí estamos viendo muchas mechas que se desnudan.
+
+Hay que estar leyendo, leyendo la información de las mechas.
+
+Mechas que se desnudan es impedimento de que el precio caiga.
+
+Recompra, recompra, recompra, aunque no prospere.
+
+Pero estamos en una tendencia alcista.
+
+La fortaleza de la demanda os la váis a encontrar en los mínimos, como el precio se comporta, los
+
+mínimos y los retrocesos.
+
+Si veis mechas que que aparece en la parte inferior es que están impidiendo que el precio caiga.
+
+Entonces prestarle atención.
+
+Fijaros cómo aquí estáis viendo mechas, mechas, mechas.
+
+Y aquí estamos viendo esta línea de tendencia, además de todo este nivel de soporte, este engaño de
+
+aquí.
+
+Fijaros, este engaño de aquí.
+
+Aparece una vez la pequeñita.
+
+Lo veis?
+
+Aquí esta vela pequeñita y lo que es una peonza es un pequeño dolly.
+
+Y luego fijaros como aquí nos aparece esta vela que es una vela póker.
+
+Esta de aquí en concreto, sí.
+
+Fijaros también como la siguiente vela lo primero que hay que hacer que hace es bajar y luego vuelve
+
+a subir.
+
+Y cuando rompe este nivel de aquí.
+
+Automáticamente nos aparece esta vela y luego la otra vela de empuje.
+
+Lo veis aquí?
+
+Esta situación.
+
+No es una situación muy ideal.
+
+Sí, pero bueno.
+
+Pero para que veáis que que, que aparecen donde tienen que aparecer, aunque luego.
+
+Bueno, pues ante este tipo de situaciones, a veces al precio, pues le puede.
+
+Le puede costar avanzar.
+
+Esto es algo que sucede.
+
+O sea que no quiero que veáis esto como.
+
+Como la gallina de los huevos de oro o que esto es el Santo Grial.
+
+Funciona muy bien, increíblemente funciona muy bien.
+
+Pero ante ciertas situaciones del mercado, pues podemos encontrarnos que el precio no tenga la suficiente
+
+fortaleza, no?
+
+Pero de momento la el ejercicio práctico de ahora es que las localicemos.
+
+Fijaros que aquí no tiene mecha por la parte de abajo ni por la parte de arriba.
+
+Entonces aquí tenemos exactamente lo mismo aquí.
+
+Fijaros como el precio cuando rompe este este nivel de aquí.
+
+Aquí nos aparece otra vela de empuje.
+
+Toda esta situación de aquí desde aquí hasta aquí, primer impulso aquí finaliza el segundo y aquí estaríamos
+
+en zona de tercero.
+
+Aquí tendríamos otra vela de empuje.
+
+Lo veis?
+
+Esta Si lo veis.
+
+Esta se ve muy, muy, muy muy bien.
+
+Fijaros como esta y esta en cualquiera de estas aquí abajo.
+
+El haberlas operado aquí abajo, abajo del todo son las mejores oportunidades para entrar en compra.
+
+Ninguna de estas os hubiera fallado aquí.
+
+Entrar en compra esto por aquí o aquí.
+
+Fijaros, no os hubiera fallado.
+
+En cuanto a romper la base de la W, el siguiente objetivo sería por toda esta zona aquí 38 o zona 23.
+
+Y fijaros, no se hubiera fallado ninguna ya, porque aquí la siguiente vela de haber puesto aquí la
+
+entrada en compra, la siguiente vela no rompe.
+
+Por tanto, si no rompe este máximo de aquí, se anula de entrada y se espera a la siguiente a la siguiente
+
+operación.
+
+A ver como el precio, a ver que sí.
+
+Perdón si nos aparece una vela póker aquí tengo una un patrón comprador, pero fijaros el tipo de vela
+
+que aparece esta de acá.
+
+No hay señal de compra aquí sí, aquí ya directamente compra en este nivel de aquí por vela, póker
+
+para arriba.
+
+Y aquí tenemos otra vela de empuje.
+
+O sea.
+
+Entrada en compra aquí entrada en compra aquí entrada.
+
+En ninguna de estas os hubiera salido mala porque estamos a niveles baratos.
+
+Cuanto más avance el precio y se acerque a niveles de resistencia, hay que tener cuidado y hay que
+
+esperar a que el precio rompa los niveles, porque una vez que el precio rompe los niveles y te encuentras
+
+una vela como este tipo, esta sí que hay que jugar, ejecutarla.
+
+Aquí sí que es cierto que hubiera salido bala.
+
+Vale, muy bien.
+
+Pero fijaros que en todas estas no hubiera salido ninguna mala.
+
+Más luego, aparte las posibilidades de desarrollo por dejarlas correr, la posición está mala o hubiera
+
+sucedido.
+
+Y aquí está buena y está buena.
+
+O sea, el resultado es increíble.
+
+Luego, además, os vais a dar cuenta que
+
+que en cuanto hacemos una pequeña estadística en cuanto a.
+
+En todo tipos de entradas, ya sea por rompimiento, por rompimiento de bases de W como patrones de
+
+absorción, como Black poker, como retrocesos, como retrocesos, como finalización del primer impulso
+
+para ir a buscar un segundo.
+
+Ahora estamos añadiendo estas velas y más o menos podríamos sacar una estadística aproximadamente de
+
+la cantidad de oportunidades que nos vamos a encontrar por tendencias.
+
+Entonces, más o menos vamos a encontrar debajo de promedio de promedio unas cuatro oportunidades para
+
+aprovechar en tendencias las mejores abajo del todo.
+
+Cuanto más suba el precio con cuidadito.
+
+O sea que si yo estoy buscando posiciones compradoras por acá, aquí si que puedo dejar correr la posición
+
+o añadir posiciones aquí, añadir o aquí añadir.
+
+Ahora, a medida que el precio vaya subiendo, sí.
+
+Si nosotros nos encontramos con esta situación, pues vale, genial, perfecto.
+
+Y aquí ir a buscar desarrollos del 1 a 1.
+
+No dejéis correr las posiciones tanto porque estamos ya en niveles caros.
+
+Sí, y aquí también.
+
+O sea.
+
+Pero fijaros las mejores posiciones.
+
+Abajo, abajo.
+
+Entonces, cuántas oportunidades vamos a hacer un recuento si tenemos esta oportunidad?
+
+Uno.
+
+La otra opción es entrar en E por ruptura de bases de DW dos.
+
+Aquí.
+
+Tres.
+
+Cuatro.
+
+Por retroceso normal.
+
+Cinco.
+
+Que nos mantiene.
+
+Por poquito nos hubiera sacado cinco.
+
+Por la ruptura de la base de la del final del primer impulso.
+
+Seis.
+
+Estas 7899 oportunidades en esta tendencia para aprovechar.
+
+Nueve.
+
+Para que veáis esto, no os preocupéis que lo vamos a ver más veces bien.
+
+Y aquí cuando el peso llega a niveles zona 23 23 cero, por mucho que yo esté viendo alguna alguna vela
+
+póker, como por ejemplo esta de aquí o ésta lo veis esta de aquí.
+
+En estos niveles no hay que prestar atención.
+
+Yo no quiero operar en las póker en estos niveles porque ya es muy cara.
+
+Ya las buscamos por aquí abajo, por aquí arriba.
+
+Hay que tener muchísimo cuidado porque esta vela.
+
+Esa zona.
+
+Ahí.
+
+Es una zona cara.
+
+Es una zona cara.
+
+Vamos a ver otro.
+
+Otro ejercicio.
+
+Perdón.
+
+Vamos a observar en la parte inferior del gráfico esta tendencia bajista aparentemente ya finalizada.
+
+Ya os he puesto el fibo para que podamos hacer el ejercicio y fijaros como no ha habido un patrón operador
+
+de absorción, claro aquí, pero sí que estamos viendo la señal muy clara que es mínimos ascendentes.
+
+Y aquí estoy viendo una vela, una vela, digamos póker, que es anulada por la siguiente vela.
+
+Pero de haber entrado aquí en compra y el haber puesto el primer stop aquí o el segundo aquí, pues
+
+fijaros como el siguiente nivel a estar vigilando sería la superación de este punto de aquí.
+
+Fijaros la siguiente vela como es una vela póker.
+
+Compre aquí esto por acá y fíjate como el precio prospera.
+
+La idea ahora es que las localicemos luego ya vamos.
+
+Cuando hagamos los ejercicios prácticos en gráficos reales, vamos a estar ya yendo al detalle de cómo
+
+aprovecharlas bien, pero de momento vamos a identificarlas.
+
+Fijaros cómo una se produce un retroceso.
+
+Después del retroceso nos aparece una vela Dolly con mecha por encima y luego determinación.
+
+Hay otra mínimos, cada vez más altos.
+
+Tenemos.
+
+Un máximo acá que nos quedaría a pie a la finalización de todo ese primer movimiento impulsivo alcista.
+
+Y ahora quiero que os fijéis en la finalización de un retroceso de la tecnica de un Doji y de la pokken,
+
+rompiendo el final del primer impulso.
+
+Vela de determinación, otra vela de empuje y cuando ya nos encontramos el pecio en zona cada zona 23
+
+23 cero no hacemos nada y esperamos a que el precio pudiera hacer un retroceso más profundo realizando
+
+una micro tendencia bajista.
+
+Un patrón de vuelo.
+
+Un patrón de continuación también es posible.
+
+O una caída drástica sin realizar, digamos, una micro tendencia.
+
+Estas son las opciones que tenemos cuando nosotros nos enfrentamos a una, a una posibilidad de una
+
+tendencia alcista, de un mayor recorrido y tenemos que pensar en que no puede el precio subir de forma
+
+drástica eternamente y va a tener que realizar pausas.
+
+Entonces hay que memorizar eso y los distintos escenarios.
+
+Entonces fijaros como el precio cuando, cuando cambia la tendencia.
+
+Ahora este el siguiente escenario que yo tendría que estar planteando es un fibo de retroceso, o sea,
+
+desde aquí pondría el cero y aquí el 100 y esta.
+
+En este caso este fibo de este primer impulso me coincide también con un fibo de retroceso.
+
+Entonces lo podemos, lo podemos mantener.
+
+Fijaros como el el 38% termina aquí y aquí veo una vela bajista, veo una Doji que aquí estoy viendo
+
+y aquí estoy viendo una vela.
+
+Ok, aquí en este caso fijaros como el precio empieza a subir.
+
+Si que si, que aquí de haber puesto un primer stop aquí nos hubiera sacado.
+
+Aunque esta no es una situación ideal que sucede muchas veces, pero bueno, también sucede.
+
+Y el siguiente stop ideal sería aquí en la base, si en el mínimo donde dejo de caer.
+
+Fijaros como aquí tenemos otro.
+
+Recordáis que elecciones anteriores es que ahora se da este caso?
+
+Que no caigáis en el error de la anticipación de que cuando el precio hace una micro tendencia bajista,
+
+empezar a comprar en una en una vela póker cuando finaliza el retroceso.
+
+Porque si ha desarrollado una micro tendencia bajista, o sea, esto es una tendencia bajista, lo veis?
+
+Cuando el precio desarrolla una micro tendencia bajista.
+
+Si, aunque la tendencia sea de menor duración, sigue siendo una tendencia bajista con sus máximos
+
+y mínimos decrecientes.
+
+O sea, es una tendencia bajista en un retroceso de una tendencia alcista.
+
+Memorizarlo, por favor.
+
+Por qué?
+
+Porque os vais a ahorrar muchos, muchos batacazos.
+
+Batacazos.
+
+Me refiero a errores.
+
+Este.
+
+Este es un error.
+
+Este es un error.
+
+Claro al no tener, al no prestar atención a que esto es una tendencia bajista y que las tendencias
+
+bajistas se cambian de dos formas o una W o un giro nuevo.
+
+Punto.
+
+Entonces, ante estos casos, si te aparece aquí una de la poker está muy bien, pero tendríamos que
+
+estar esperando al siguiente movimiento de caída o quizás un giro nube.
+
+Aquí el giro nube podía haber sucedido en este nivel de aquí.
+
+Aunque sí que es cierto que no prospera, cae.
+
+Y aquí tendríamos una vela póker aquí en este punto de aquí, con velas pequeñitas, hay velas pequeñitas
+
+aquí, una peonza y una vela póker.
+
+Hubiéramos entrado aquí en compras.
+
+Nos hubiera sacado, Sí, pero fijaos como el precio vuelve de nuevo a caer.
+
+Nos hace un patrón comprador.
+
+Fijaros aquí como tenemos la vela desnude por la parte de arriba vemos una pregunta y aquí la tenemos.
+
+Lo veis?
+
+Qué bien se ve, qué bien se ve!
+
+Y tenemos aquí otra.
+
+Lo es.
+
+Y aquí tendríamos que estar ahí, prestándole ahí un poco, de un poco.
+
+Tendríamos que tener un poco de precaución.
+
+Sí, porque después de varias velas seguidas subiendo, es muy probable que el precio necesite hacer
+
+un retroceso.
+
+Entonces es muy importante entender la ubicación y la localización exacta de estas velas y el movimiento
+
+anterior.
+
+Fijaros aquí como el precio después de que caiga y me llegue a la zona de soporte vemos un patrón comprador.
+
+Vemos también una vela Dolly.
+
+Vemos otra vela que de haber terminado aquí en máximos hubiera sido una vela poca se desnuda y vemos
+
+aquí una vela Dolly.
+
+Y aquí vemos otra vela.
+
+Póker.
+
+Sí, ahí sí.
+
+Por tanto, aquí podíamos haber entrado en compra para ir a buscar el 1 a 1 y lo hubiera dado.
+
+Y fijaros que cuando el precio sube mucho y se encuentra cerca del final de un segundo impulso, estas
+
+velas póker no las veréis.
+
+Por favor, esperaros a que el precio realice un retroceso en cerca del de la zona.
+
+38.
+
+El siguiente pensamiento que tenéis que desarrollar es si el precio tiene intención de seguir subiendo.
+
+Puede hacer un retroceso de tipo tres en este caso es este.
+
+Son varias velas bajando y varias velas subiendo.
+
+O un patrón de continuación que hay que recordar que los hemos visto en anteriores lecciones.
+
+Esto es lo que tenemos que recordar.
+
+Dos tipos de retroceso sería retroceso de tipo dos o tipo tres o el o un patrón de continuación en el
+
+final del segundo impulso para dar origen a 1/3.
+
+Esto lo tenemos que adelantar si pueden.
+
+Ya te perdono.
+
+Cerca de la finalización de un un 38 y final de un segundo impulso no hacer nada.
+
+Fijaros como aquí aparece un soporte vela roja, vela envolvente, pero no desarrolla la siguiente vela.
+
+Vemos otra vela roja y aquí vemos otro patrón comprador dejándonos mínimos más altos.
+
+Nos aparece una peonza, un Doji y aquí tenemos nuestra vela, póker y otra vela.
+
+Pocas de empuje lo es.
+
+Compramos al final de los retrocesos, no arribita.
+
+Super importante, super importante.
+
+Ahí la véis, ahí la veis, ahí la veis y tenemos una más ahí lo véis donde están?
+
+Sí, ahí están.
+
+Fijaros como.
+
+Como el balance, el balance de todas, de todas estas operaciones hubieran salido buenas, o sea,
+
+aunque aquí o bien o bien bueno, es que esta es que yo no lo hubiera operado esto de aquí precisamente
+
+porque esto es una tendencia bajista, pero aquí es posible que igual sí que hubiera entrado aquí en
+
+compra, esta me hubiera sacado.
+
+Pero fijaros que de aquí solo, solo una hubiera salido mala.
+
+Y ahora es cuando viene el recuento, el recuento de lo que estábamos viendo en la diapositiva anterior.
+
+Cuántas oportunidades ahora vamos a poder tener para entrar al mercado y sacar ese objetivo económico
+
+que nos gustaría lograr?
+
+O sea, fijaros, fijaros, claro, esto no va a suceder siempre, pero ahora que entendéis el mapa
+
+y donde van a estar, si vais a ver muchas más oportunidades de las que veáis antes, vamos a ver,
+
+esto es para mí, me cambió la vida, me cambió la vida.
+
+Si vamos a continuar, me gustaría que pudierais fijaros en esta parte de aquí abajo.
+
+De nuevo vemos otro engaño.
+
+Vemos un patrón comprador que es una vela envolvente bajista.
+
+Más luego una vela.
+
+Una vela bajista de tipo dos más.
+
+Luego estamos viendo aquí una vela verde.
+
+Una vela envolvente.
+
+Luego viene aquí la siguiente vela, la que no, la que nos está dejando una mecha.
+
+Por la parte de arriba.
+
+Y la siguiente vela patrón comprador.
+
+Y la siguiente vela.
+
+Aquí nos aparece una vela.
+
+Póker.
+
+La veis ahí?
+
+Increíble que bonita sea ESB, pues hay dos opciones o una y dos o entramos a rompimiento de la base
+
+o entramos al rompimiento del máximo de la vela póker.
+
+Mirar como tenemos aquí otra vela de empuje.
+
+Todo esto es el primer impulso.
+
+Fijaros como el precio retrocede, nos hace un retroceso de tipo tipo uno uno.
+
+Y aquí tenemos patrón comprador y lo tenemos una vela de empuje.
+
+Esta vela de aquí, aunque tenga un poquito de mecha por encima.
+
+Si yo la considero también vela, porque eso es lo que os comentaba antes, que tenéis que intentar
+
+adaptar una cierta flexibilidad en cuanto a cuanta mecha por encima la puedo considerar para que sea
+
+vela póker.
+
+Claro, no es la misma.
+
+No es.
+
+No es lo mismo ver esta vela de aquí, esta vela sin mecha o esta con poca mecha que esta viendo esto,
+
+pero por eso os comento que vais a tener que adaptar cierta cierta flexibilidad para poder ver si si
+
+de esto si, si confiáis en esa señal o no?
+
+Bien, continuamos.
+
+Esto es lo que os comentaba esta de acá.
+
+Luego fijaros que cuando llega el precio aquí, al final de todo este desarrollo, de este segundo y
+
+de este segundo impulso, ya no nos interesa.
+
+Ya no nos interesa estar buscando compras por acá y aquí es lo que os comentaba, que el precio cuando,
+
+cuando termina un segundo o un tercer impulso puede hacer o un patrón de continuación, o una micro
+
+tendencia bajista con sus dos o tres impulsos, o también una caída vertical sin desarrollar, sin desarrollar
+
+impulsos bajistas, que ese es el escenario que estábamos viendo en la anterior diapositiva y que nosotros
+
+tenemos que recordar que el precio cambia de direcciones con W o giros en nubes.
+
+Y aquí tenemos este caso.
+
+Entonces cuando estemos viendo escenarios como el anterior, vamos, no nos adelantemos.
+
+Y no, no estemos viendo esta vela póker de aquí.
+
+Como ya hago una señal alcista después de un retroceso tan profundo.
+
+Esperar, esperar porque fijaros, fijaros que movimiento.
+
+Lo veis?
+
+Esperaros al siguiente mínimo más alto que el anterior.
+
+Esto es clave, chicos, porque os va a solucionar la vida.
+
+Tranquilos, esperar al siguiente mínimo más alto.
+
+Sí, el siguiente mínimo está más alto y me aparece un patrón comprador.
+
+Fijaros que me la ponen más bonita tenemos ahí.
+
+Qué sencillita!
+
+Y luego aquí tenemos otra y luego otra.
+
+Cuanta más distancia haya desde.
+
+Desde este último mínimo hasta su máximo.
+
+Más posibilidades de velas de empuje va a necesitar.
+
+Si va a necesitar energía, empuje para intentar superar el máximo anterior.
+
+Entonces recordar algo que sucede muchas veces y es que el precio tiende a buscar los máximos anteriores.
+
+Entonces, si tenemos cierta distancia desde aquí y hasta el máximo y estoy viendo esta, esta W, esta
+
+W.
+
+Digamos que hasta aquí es altamente probable que llegue.
+
+Correcto.
+
+Pues bien, pues entonces o una de 2UU opero aquí a rompimiento, hago mis proyecciones y en cada vela
+
+póker puedo añadir posiciones.
+
+O si no añades posiciones da igual, porque la aparición de estas dos mismas velas póker estaría dando
+
+confianza y tranquilidad en la continuidad en que la probabilidad de que el precio vaya a seguir subiendo
+
+es elevada.
+
+Tranquilo o tranquila tenéis esa información.
+
+El trading se hace mucho más tranquilo y relajado cuando entendéis estas velas y aparecen mientras que
+
+estáis en situación compradora.
+
+Bien, bueno, entonces cuanto el precio esté cerca de máximos?
+
+Si.
+
+Cerca de máximos.
+
+No hacer absolutamente nada, no hacer absolutamente nada, porque esta vela de aquí ya es precio caro,
+
+cerca de resistencias.
+
+Y fijaros lo que ha pasado.
+
+Esto por favor.
+
+Las velas Poker tienen su máxima eficacia en los orígenes de los movimientos de cambio, de tendencia,
+
+en el avance o en el retroceso para dar origen el segundo.
+
+Ahí están, ahí están las las mejores y las que podemos aprovechar de estas velas.
+
+Poker no ha fallado ni una en estas.
+
+Fijaros.
+
+Ni uno.
+
+Claro.
+
+No, no va a ser siempre igual.
+
+Pero fijaos la cantidad de oportunidades sin que sean retrocesos.
+
+Ahora estoy viendo un montón de oportunidades para entrar en para entrar en compra.
+
+Cuando veamos el escenario bajista os vais a dar cuenta de que también vais a estar viendo un montón
+
+de posibilidades bajistas.
+
+O sea que estamos añadiendo, añadiendo muchas más posibilidades en vuestro trading para que podáis
+
+lograr ese objetivo, ese sueño que bueno, ya dependiendo de lo que cada uno tenga en su cabeza, pero
+
+aquí estamos añadiendo comprensión de mercado, psicología y encima ahora más oportunidades, con más
+
+estrategias.
+
+La verdad es que tenéis una batería increíble para poder lograr lo que vosotros queréis lograr.
+
+Bueno.
+
+Y aquí este es un ejemplo de un día operando en donde aquí se dio esta situación un una tendencia alcista
+
+donde realiza un.
+
+Fijaros toda esta caída en la apertura del mercado sube, sube hasta este nivel, hasta hasta aquí y
+
+hace una caída cuando el precio es recordar cuando el precio sube y rompe un nivel o se hace este de
+
+aquí.
+
+Nosotros lo que tenemos que pensar que este nivel de aquí por encima es un nivel de zona de de demanda.
+
+Entonces si el precio rompe por encima de un nivel, el siguiente planteamiento que yo puedo, que tengo
+
+que tener integrado en mi cabeza es vale, perfecto, rompe un máximo, un máximo de continuar la tendencia
+
+alcista, el siguiente está en la siguiente.
+
+Las dos opciones más probables que se puedan dar es un retroceso por encima del nivel de de la resistencia
+
+rota, que es un soporte, o sea un retroceso por esta zona de aquí o el siguiente escenario pudiera
+
+ser el pull back to.
+
+Lo hemos hablado aquí lo tenéis el caso.
+
+Bien, estos retrocesos pueden ser de tipo de tipo uno o tipo dos.
+
+Correcto, bien, y también el menos probable.
+
+Pero que sucede ese día?
+
+Un retroceso de tipo tres.
+
+Correcto?
+
+Pues en este caso tenemos.
+
+Vamos a analizarlo.
+
+En este caso tenemos un la apertura del mercado.
+
+Máximo de la sesión europea.
+
+Por tanto, sería un nivel interesante abatir la zona de demanda y tenemos aquí como el pull back,
+
+la perforación del máximo de la sesión europea.
+
+Y tenemos aquí estas mechas bien, y aquí tengo mi vela.
+
+Pocas lo veis aquí.
+
+Toda la información que me estaba dando era Mechas.
+
+Por debajo de la zona de de soporte.
+
+Si hubiera habido intención bajista lo hubiéramos visto claramente con velas de cuerpo rojo o hubiéramos
+
+visto una secuencia como esta.
+
+Mientras que no aparezca la visión tiene que ser alcista.
+
+Y fijaros como luego me aparece.
+
+Una vela verde con mecha.
+
+Aquí está.
+
+No, yo no la operé porque no era lo suficientemente importante como para operarla.
+
+Sí, Determinación.
+
+O sea, no es lo mismo que tenga mecha.
+
+Como que no tenga mecha.
+
+Por eso es lo que os comentaba que tenéis que.
+
+Que tenéis que integrar en vuestra elección la cantidad de mecha que vosotros vais a o vosotras vais
+
+a tener que digamos que aceptar.
+
+Para darla como válida, como de la poca.
+
+Por qué?
+
+Porque luego fijaros aquí como me aparece otro dolly, pero aquí sí, aquí.
+
+Esta vela de aquí esta en concreto es una de las velas pocas que os he comentado.
+
+Esta de acá.
+
+Ya está aquí.
+
+Lo veis ahí?
+
+Yo ejecuté mi nivel de compra ahí.
+
+Fijaros como el precio se fue en mi contra durante un periodo de tiempo, pero luego al final el precio
+
+subió.
+
+Entonces yo lo que hice fue aquí también había, mientras que el precio estaba, mi operación estaba
+
+en de esto en activa estaba viendo que el precio sube baja y me estaba haciendo Max en mínimos ascendentes.
+
+Aquí estamos viendo en un retroceso una de la roja y un patrón y un patrón de de absorción de compra.
+
+No es aquí.
+
+Y luego el precio subió subiendo.
+
+Yo puse mi.
+
+Mide esto, mi fibo.
+
+De esta forma.
+
+O sea, teniendo en cuenta el esta pequeña forma de onda.
+
+Así.
+
+Lo veis así.
+
+Entonces, teniendo en cuenta que el precio ya estaba muy, muy caro, más luego aparte sería que estaba
+
+viendo que por aquí podían haber complicaciones para.
+
+Para esto paramos para subir.
+
+Entonces me fui al recorrido mínimo altamente probable.
+
+Entonces fijaros como yo al entrar el stop lo puse aquí y fijaros como aquí fue el 1 a 1 y luego me
+
+fui al objetivo del 23, porque teniendo en cuenta esta forma de onda podía.
+
+Este nivel de aquí es altamente probable.
+
+Pues bueno, pues es fijaros como aquí lo que tenemos ahora es uno de los patrones de continuación de
+
+los que habíamos estado hablando anteriormente.
+
+O sea, esto es lo que sucede.
+
+Lo que sucede.
+
+Estáis viendo cómo ha aparecido una vela póker en la zona donde tenía que aparecer más luego un patrón
+
+de continuación.
+
+Claro, este escenario no suelen ser los escenarios.
+
+Digamos que quema, que más se ven, pero sí que suceden.
+
+Entonces hay que entender que cuando se cuando aparecen días así de complicados, lo que podemos también
+
+hacer es esperar a que haya señales muy, muy, muy claras para tomar partido en el mercado.
+
+Porque aquí, por ejemplo, cuanto más sube el precio y más se acerca a las zonas 38 Después de todo
+
+este movimiento, fijaros como se atascan.
+
+O sea, aquí nosotros no vamos a poder.
+
+Yo no me fío de las señales.
+
+Póker por aquí arriba, por aquí arriba, porque el precio necesita hacer algún tipo de retroceso,
+
+esperar a los retrocesos.
+
+Fijaros que cuando el precio llega por estos lados, aquí yo ya no quiero operar.
+
+Yo sólo opero aquí abajo, aquí abajo, por aquí arriba.
+
+Me olvido del tema.
+
+Si he ganado dinero de aquí, no me interesa estar buscando opciones por aquí, a no ser que me ejecute
+
+el precio.
+
+Una micro tendencia bajista.
+
+Aquí la tenemos.
+
+Fijaros, aquí tenemos otro ejemplo.
+
+Mira, además esto no lo había documentado, pero bueno, fijaros m rompe recordar, no entramos en
+
+M en tendencias alcistas, esto va hacia arriba, no entro en M, en tendencias alcistas rompe.
+
+Aquí tenemos una confirmación de cambio de tendencia.
+
+Aquí vemos un patrón vendedor y una vela de empuje roja.
+
+Aquí tengo una poker que eso vamos a ver en las siguientes clases.
+
+P Os he dicho antes cómo cambia el precio una micro tendencia bajista para continuar el precio subiendo
+
+con un patrón de giro?
+
+Una W.
+
+Correcto.
+
+Bien, aquí lo tenemos.
+
+Aquí lo tenemos.
+
+Entonces tenemos una vela, un engaño.
+
+Y en la segunda forma triangular, vemos un patrón de absorción.
+
+Y vemos una.
+
+Una vela envolvente, una day.
+
+Y aquí tengo mi poker.
+
+Lo veis aquí?
+
+Claro.
+
+Esperar a que termine de bajar.
+
+Esperar a que suceda el pato en la W más el patrón de absorción.
+
+Y luego nos vamos a encontrar nuestra querida vela Póker de empuje.
+
+Aquí la tenemos.
+
+Una entrada en un pequeño.
+
+Qué interesante.
+
+Pues bueno, hasta aquí el final de esta segunda parte con las velas compradoras.
+
+Y espero que te haya gustado esta esta lección, porque luego vamos a pasar a la siguiente lección.
+
+Sí.
+
+Así que nada, espero ver de la siguiente la siguiente parte.
+
+Y muchas gracias por tu atención y nos vemos.
+
+Hasta pronto.

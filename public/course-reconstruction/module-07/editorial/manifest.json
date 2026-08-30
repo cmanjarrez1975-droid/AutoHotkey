@@ -1,0 +1,171 @@
+{
+  "module": 7,
+  "kind": "editorial-schematic",
+  "generator": "scripts/render-module-seven-diagrams.py",
+  "assets": [
+    {
+      "id": "cuatro-formas",
+      "src": "/course-reconstruction/module-07/editorial/cuatro-formas.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 67815,
+      "sha256": "1acf30d61195564006b069cec33b45299a0e2f33d01570fa919e4e05a8f92501",
+      "description": "Cuatro velas ficticias con el mismo máximo 105 y mínimo 99, pero cuerpos y mechas distintos. La forma tipo 4 solo se estudia como alerta vendedora en el contexto superior descrito.",
+      "ohlc": [
+        {
+          "open": 100,
+          "high": 105,
+          "low": 99,
+          "close": 104.8
+        },
+        {
+          "open": 100,
+          "high": 105,
+          "low": 99,
+          "close": 103
+        },
+        {
+          "open": 100,
+          "high": 105,
+          "low": 99,
+          "close": 100.5
+        },
+        {
+          "open": 104,
+          "high": 105,
+          "low": 99,
+          "close": 104.5
+        }
+      ]
+    },
+    {
+      "id": "variantes-m",
+      "src": "/course-reconstruction/module-07/editorial/variantes-m.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 66745,
+      "sha256": "c13662345f695a9a57630d1eae72309d6a6f2478e466255ee393fbd640957bb3",
+      "description": "Tres variantes M con base 106. Los segundos máximos son 110, 111 y 109. La caída final a 105,8 es un acontecimiento posterior, no una consecuencia garantizada.",
+      "sequences": [
+        [
+          102,
+          110,
+          106,
+          110,
+          105.8
+        ],
+        [
+          102,
+          110,
+          106,
+          111,
+          105.8
+        ],
+        [
+          102,
+          110,
+          106,
+          109,
+          105.8
+        ]
+      ],
+      "base": 106
+    },
+    {
+      "id": "tiempo-y-base",
+      "src": "/course-reconstruction/module-07/editorial/tiempo-y-base.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 102159,
+      "sha256": "e6a867f177a06cf30c17f1888dab478e1e463b653b567b259936ab03c29e37d7",
+      "description": "Observaciones fechadas: a las 10:23 la base 106 permanece sin romper; a las 10:24 se atraviesa. El cierre M15 de las 10:30 sigue siendo futuro.",
+      "events": [
+        {
+          "time": "10:18",
+          "minute": 618,
+          "price": 110
+        },
+        {
+          "time": "10:20",
+          "minute": 620,
+          "price": 106
+        },
+        {
+          "time": "10:22",
+          "minute": 622,
+          "price": 109
+        },
+        {
+          "time": "10:23",
+          "minute": 623,
+          "price": 106.2
+        },
+        {
+          "time": "10:24",
+          "minute": 624,
+          "price": 105.8
+        }
+      ],
+      "base": 106,
+      "referenceCloseMinute": 615,
+      "activeCloseMinute": 630
+    },
+    {
+      "id": "mecha-y-minimo",
+      "src": "/course-reconstruction/module-07/editorial/mecha-y-minimo.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 75867,
+      "sha256": "94ff1f2ca677348ec61c25bbd53ab7fae53fd71e8046f5a0c85bf8e0fc3cfa9f",
+      "description": "OHLC anterior 110/111/100/104. La secuencia posterior rompe primero 103 y solo después 100. No anticipes el segundo evento al observar el primero.",
+      "ohlc": {
+        "open": 110,
+        "high": 111,
+        "low": 100,
+        "close": 104
+      },
+      "sequence": [
+        107,
+        103,
+        106,
+        102.8,
+        99.8
+      ],
+      "localBase": 103,
+      "priorLow": 100
+    },
+    {
+      "id": "rango-y-poc",
+      "src": "/course-reconstruction/module-07/editorial/rango-y-poc.png",
+      "width": 1800,
+      "height": 1100,
+      "bytes": 77792,
+      "sha256": "0720f49f65f110224ba0d117056ea4ed388f176108cc5431d1356c4a889a2d15",
+      "description": "Rango 100–106 con centro 103 y perfil ficticio cuyo POC es 102 con 80 contratos. POC y punto medio son cálculos distintos.",
+      "range": [
+        100,
+        106
+      ],
+      "midpoint": 103,
+      "profile": [
+        {
+          "price": 100,
+          "volume": 10
+        },
+        {
+          "price": 102,
+          "volume": 80
+        },
+        {
+          "price": 104,
+          "volume": 30
+        },
+        {
+          "price": 106,
+          "volume": 20
+        }
+      ],
+      "poc": 102
+    }
+  ]
+}

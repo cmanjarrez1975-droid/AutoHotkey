@@ -1,0 +1,187 @@
+{
+  "module": 7,
+  "kind": "received-originals",
+  "receivedAt": "2026-08-28",
+  "assets": [
+    {
+      "id": "m7-vc-4-giro-v-excepcion",
+      "src": "/course-reconstruction/module-07/originals/m7-vc-4-giro-v-excepcion.png",
+      "width": 2084,
+      "height": 879,
+      "bytes": 106182,
+      "sha256": "e54bacbe187be3cf883c5fa276016c9bc17ef9a63ba7e3fa3b318fee0c5417d4",
+      "originalName": "20260828_m7-vc-4-giro-v-excepcion.png"
+    },
+    {
+      "id": "m7-vc-5-continuacion-fibonacci",
+      "src": "/course-reconstruction/module-07/originals/m7-vc-5-continuacion-fibonacci.png",
+      "width": 1335,
+      "height": 878,
+      "bytes": 92512,
+      "sha256": "1927810a4c7fb2673486983ee52f3ac29269604cae9a8d687d6de2a3fb6c46d6",
+      "originalName": "20260828_m7-vc-5-continuacion-fibonacci.png"
+    },
+    {
+      "id": "m7-vc-6-apertura-mercado",
+      "src": "/course-reconstruction/module-07/originals/m7-vc-6-apertura-mercado.png",
+      "width": 2085,
+      "height": 879,
+      "bytes": 122267,
+      "sha256": "14d72c51963849680b0d0d5c730e984ad7e6b8adde6555ba525871139cd82cc2",
+      "originalName": "20260828_m7-vc-6-apertura-mercado.png"
+    },
+    {
+      "id": "m7-anatomia-interna-velas-15m",
+      "src": "/course-reconstruction/module-07/originals/m7-anatomia-interna-velas-15m.png",
+      "width": 1485,
+      "height": 1182,
+      "bytes": 118715,
+      "sha256": "39bf82a1a1fde8b4800917d939d1f6bdf656b77c0fc7b9fad56b280cc7893ef7",
+      "originalName": "20260828_m7-anatomia-interna-velas-15m.png"
+    },
+    {
+      "id": "m7-giros-v-estructuras",
+      "src": "/course-reconstruction/module-07/originals/m7-giros-v-estructuras.png",
+      "width": 2085,
+      "height": 925,
+      "bytes": 129549,
+      "sha256": "87681716fe7ea32ff72a0f61e09d9521753908f44223c1b342c77d883581e777",
+      "originalName": "20260828_m7-giros-v-estructuras.png"
+    },
+    {
+      "id": "m7-mapa-trabajo-completo",
+      "src": "/course-reconstruction/module-07/originals/m7-mapa-trabajo-completo.png",
+      "width": 1785,
+      "height": 1184,
+      "bytes": 119803,
+      "sha256": "df7b7e112d6c3e4f8a60b4299f215b70f04939b47858a65c8cf39689e29d4b88",
+      "originalName": "20260828_m7-mapa-trabajo-completo.png"
+    },
+    {
+      "id": "m7-patrones-compradores-anatomia",
+      "src": "/course-reconstruction/module-07/originals/m7-patrones-compradores-anatomia.png",
+      "width": 1485,
+      "height": 882,
+      "bytes": 36597,
+      "sha256": "6e47d7f1e3fbed79d593a5c7de6b7a53143c1ba3332b2fc2cb97a2d2331f082f",
+      "originalName": "20260828_m7-patrones-compradores-anatomia.png"
+    },
+    {
+      "id": "m7-patrones-m-variantes",
+      "src": "/course-reconstruction/module-07/originals/m7-patrones-m-variantes.png",
+      "width": 2235,
+      "height": 772,
+      "bytes": 125372,
+      "sha256": "536d3e1410bfd7cc12d5751fe3b8861692680c605f42174f98128a14f78f8ed0",
+      "originalName": "20260828_m7-patrones-m-variantes.png"
+    },
+    {
+      "id": "m7-patrones-vendedores-anatomia",
+      "src": "/course-reconstruction/module-07/originals/m7-patrones-vendedores-anatomia.png",
+      "width": 1485,
+      "height": 882,
+      "bytes": 34131,
+      "sha256": "9fbde6e0ff44dad0ef26761ca277d8826aa00820009be4a5638bcf1417a3babe",
+      "originalName": "20260828_m7-patrones-vendedores-anatomia.png"
+    },
+    {
+      "id": "m7-patrones-w-variantes",
+      "src": "/course-reconstruction/module-07/originals/m7-patrones-w-variantes.png",
+      "width": 2229,
+      "height": 772,
+      "bytes": 126978,
+      "sha256": "99fb7f40ec3f405a1cc8ef6f240a198fa823499a3494af7b983b86223ee1f13c",
+      "originalName": "20260828_m7-patrones-w-variantes.png"
+    },
+    {
+      "id": "m7-procesos-absorcion",
+      "src": "/course-reconstruction/module-07/originals/m7-procesos-absorcion.png",
+      "width": 2085,
+      "height": 925,
+      "bytes": 78900,
+      "sha256": "5078f474af29c99c2721e3c6fe0d5a14b434d7ee39f19910e49b1bcba2aafd58",
+      "originalName": "20260828_m7-procesos-absorcion.png"
+    },
+    {
+      "id": "m7-vv-1-ondas-base-m",
+      "src": "/course-reconstruction/module-07/originals/m7-vv-1-ondas-base-m.png",
+      "width": 2200,
+      "height": 734,
+      "bytes": 131835,
+      "sha256": "4278014c512f38d76a513c2eca591d00547ed9abf660f97a49fed3f4f1a33bd8",
+      "originalName": "20260828_m7-vv-1-ondas-base-m.png"
+    },
+    {
+      "id": "m7-vv-2-patron-tipo-2-giro",
+      "src": "/course-reconstruction/module-07/originals/m7-vv-2-patron-tipo-2-giro.png",
+      "width": 1027,
+      "height": 881,
+      "bytes": 76991,
+      "sha256": "c3c21c1a4a7bdab298e19a53daaacc4f9cba75b04cf12a630e68400969d05698",
+      "originalName": "20260828_m7-vv-2-patron-tipo-2-giro.png"
+    },
+    {
+      "id": "m7-vv-3-retroceso-poc",
+      "src": "/course-reconstruction/module-07/originals/m7-vv-3-retroceso-poc.png",
+      "width": 1483,
+      "height": 879,
+      "bytes": 91054,
+      "sha256": "276a3ae7cc1a9641b5b977a3e5d4f0e13249094c5771a86a2f76fc48a5fac064",
+      "originalName": "20260828_m7-vv-3-retroceso-poc.png"
+    },
+    {
+      "id": "m7-vv-4-continuacion-m2",
+      "src": "/course-reconstruction/module-07/originals/m7-vv-4-continuacion-m2.png",
+      "width": 1182,
+      "height": 880,
+      "bytes": 67012,
+      "sha256": "e05eec7f2d24bb50f95106a80223552d35d1c0406321513e6c352e30152f7294",
+      "originalName": "20260828_m7-vv-4-continuacion-m2.png"
+    },
+    {
+      "id": "m7-vv-5-martillo-continuacion",
+      "src": "/course-reconstruction/module-07/originals/m7-vv-5-martillo-continuacion.png",
+      "width": 1183,
+      "height": 880,
+      "bytes": 96168,
+      "sha256": "88ca1d0cb4b69cc5c9e23f41c6ec71094f6f39ae1e32287cd460822e5e187a2c",
+      "originalName": "20260828_m7-vv-5-martillo-continuacion.png"
+    },
+    {
+      "id": "m7-vv-6-rango-arriba",
+      "src": "/course-reconstruction/module-07/originals/m7-vv-6-rango-arriba.png",
+      "width": 1325,
+      "height": 880,
+      "bytes": 110145,
+      "sha256": "058d6fdfaa2f4e0dfbfd1e7c50a5d0851ab01efff814ce812bb896329df4f18b",
+      "originalName": "20260828_m7-vv-6-rango-arriba.png"
+    },
+    {
+      "id": "m7-vc-1-ondas-patron-1",
+      "src": "/course-reconstruction/module-07/originals/m7-vc-1-ondas-patron-1.png",
+      "width": 2235,
+      "height": 803,
+      "bytes": 131909,
+      "sha256": "4010622da4d4a6f0b33e05a9724538f76a3e3a2a118ba3b59ec71f8ca27b3c46",
+      "originalName": "20260828_m7-vc-1-ondas-patron-1.png"
+    },
+    {
+      "id": "m7-vc-2-patron-tipo-2-giro",
+      "src": "/course-reconstruction/module-07/originals/m7-vc-2-patron-tipo-2-giro.png",
+      "width": 1147,
+      "height": 879,
+      "bytes": 80320,
+      "sha256": "90185d9985177fffd4e0f0bd70d7c0d5abaa16eee272c4d730a13887e7ec7138",
+      "originalName": "20260828_m7-vc-2-patron-tipo-2-giro.png"
+    },
+    {
+      "id": "m7-vc-3-despejando-dudas-w2",
+      "src": "/course-reconstruction/module-07/originals/m7-vc-3-despejando-dudas-w2.png",
+      "width": 2085,
+      "height": 879,
+      "bytes": 90623,
+      "sha256": "5df1996c5e9ce8619051e4ca26301bf52738b1cd844b214399bb97382a0d1eb3",
+      "originalName": "20260828_m7-vc-3-despejando-dudas-w2.png"
+    }
+  ]
+}
